@@ -1,0 +1,4721 @@
+﻿1
+00:00:01,044 --> 00:00:02,629
+<i>Previously on</i> Lucifer...
+
+2
+00:00:02,837 --> 00:00:04,172
+So, we're still good
+to be roomies, right?
+
+3
+00:00:04,381 --> 00:00:05,382
+What are you talking about,
+roomies?
+
+4
+00:00:05,590 --> 00:00:06,466
+We shook on it.
+
+5
+00:00:06,800 --> 00:00:08,969
+You shall remain
+right here,
+
+6
+00:00:09,177 --> 00:00:10,720
+on Earth, amongst the creatures
+
+7
+00:00:10,929 --> 00:00:11,972
+you so despise.
+
+8
+00:00:12,180 --> 00:00:13,598
+Existing in this punishment
+
+9
+00:00:13,807 --> 00:00:16,184
+allows me to be
+closer to my family.
+
+10
+00:00:16,393 --> 00:00:17,936
+You made a deal to return Mom
+to Hell.
+
+11
+00:00:18,144 --> 00:00:20,855
+In exchange, Chloe's life
+was spared.
+
+12
+00:00:21,022 --> 00:00:22,190
+You still haven't delivered
+
+13
+00:00:22,399 --> 00:00:23,274
+on your end of the bargain.
+
+14
+00:00:23,483 --> 00:00:24,609
+If you're so concerned,
+
+15
+00:00:24,818 --> 00:00:26,361
+why don't you just
+fly Mum back to Hell?
+
+16
+00:00:26,569 --> 00:00:27,612
+AMENADIEL:
+<i>Because I can't!</i>
+
+17
+00:00:27,821 --> 00:00:28,655
+(yelling)
+
+18
+00:00:28,863 --> 00:00:30,198
+<i>What if Dad decides to...</i>
+
+19
+00:00:30,407 --> 00:00:31,741
+take back his side of the deal?
+
+20
+00:00:35,161 --> 00:00:37,580
+("Time Is on My Side"
+by the Rolling Stones playing)
+
+21
+00:00:41,793 --> 00:00:46,548
+♪ Time is on my side ♪
+
+22
+00:00:46,756 --> 00:00:48,508
+♪ Yes, it is ♪
+
+23
+00:00:48,717 --> 00:00:53,596
+♪ Time is on my side ♪
+
+24
+00:00:53,805 --> 00:00:55,890
+♪ Yes, it is ♪
+
+25
+00:00:56,725 --> 00:00:59,394
+♪ Now, you always say ♪
+
+26
+00:01:00,186 --> 00:01:02,856
+♪ That you want to be free ♪
+
+27
+00:01:03,064 --> 00:01:05,233
+♪ But you'll come running back ♪
+
+28
+00:01:05,442 --> 00:01:06,985
+♪ Like I said you would, baby ♪
+
+29
+00:01:07,193 --> 00:01:08,528
+♪ You'll come running back ♪
+
+30
+00:01:08,737 --> 00:01:10,613
+♪ Spend the rest of my life
+with you, baby ♪
+
+31
+00:01:10,822 --> 00:01:12,449
+♪ You'll come running back... ♪
+
+32
+00:01:12,657 --> 00:01:13,742
+(yells)
+
+33
+00:01:13,950 --> 00:01:15,785
+Son of a biscuit!
+
+34
+00:01:15,994 --> 00:01:17,078
+Dylan!
+
+35
+00:01:18,705 --> 00:01:19,748
+Dylan...
+
+36
+00:01:19,956 --> 00:01:20,957
+How many times have I told you
+
+37
+00:01:21,166 --> 00:01:22,417
+to pick up that
+stupid skateboard!
+
+38
+00:01:22,625 --> 00:01:23,835
+I am not your maid!
+
+39
+00:01:24,044 --> 00:01:25,712
+God, why the hell is
+your panties in a bunch?
+
+40
+00:01:25,920 --> 00:01:27,797
+Don't you talk to me like that!
+You are grounded, young man!
+
+41
+00:01:28,006 --> 00:01:29,090
+- I'm going camping with Tyler!
+- No, you're not.
+
+42
+00:01:29,299 --> 00:01:30,341
+Go to your room! Grounded!
+
+43
+00:01:30,550 --> 00:01:31,718
+(yells)
+
+44
+00:01:31,926 --> 00:01:33,136
+Don't waste food!
+
+45
+00:01:33,344 --> 00:01:35,180
+- Get out of here!
+- You're ruining my life!
+
+46
+00:01:35,388 --> 00:01:36,473
+No, no. Not through there,
+
+47
+00:01:36,681 --> 00:01:39,642
+- the dog's in there!
+- (barking)
+
+48
+00:01:39,851 --> 00:01:43,396
+♪ Time, time,
+time is on my side ♪
+
+49
+00:01:43,605 --> 00:01:44,981
+(tires screeching)
+
+50
+00:01:45,190 --> 00:01:46,274
+♪ Yes, it is ♪
+
+51
+00:01:47,776 --> 00:01:50,278
+(horn blaring)
+
+52
+00:01:54,074 --> 00:01:58,620
+♪ Time, time,
+time is on my side. ♪
+
+53
+00:02:07,087 --> 00:02:08,296
+CHLOE:
+It was a random car crash.
+
+54
+00:02:08,505 --> 00:02:10,215
+- Are you certain?
+- Yes.
+
+55
+00:02:10,423 --> 00:02:12,634
+But you didn't see anything
+strange or out of the ordinary?
+
+56
+00:02:12,801 --> 00:02:14,010
+Like I told you at the hospital
+
+57
+00:02:14,219 --> 00:02:15,970
+and several times
+before that, no.
+
+58
+00:02:16,221 --> 00:02:17,305
+What's going on with you?
+
+59
+00:02:17,514 --> 00:02:19,140
+(sighs)
+Well, there's a miniscule,
+
+60
+00:02:19,349 --> 00:02:21,851
+albeit highly unlikely, chance
+that your car accident
+
+61
+00:02:22,060 --> 00:02:25,063
+was a result of my father
+trying to send me a message.
+
+62
+00:02:25,480 --> 00:02:27,190
+Lucifer, it was
+a freak accident.
+
+63
+00:02:27,398 --> 00:02:28,942
+A dog ran into the middle
+of the road.
+
+64
+00:02:29,150 --> 00:02:30,485
+You had nothing to do with it.
+
+65
+00:02:30,693 --> 00:02:32,362
+Right. Okay.
+
+66
+00:02:32,570 --> 00:02:34,823
+Well, you're about to be
+in another disastrous wreck
+
+67
+00:02:35,031 --> 00:02:35,907
+that is avoidable.
+
+68
+00:02:36,116 --> 00:02:37,867
+- What?
+- Living with Maze.
+
+69
+00:02:38,493 --> 00:02:40,620
+Potential for sexy pillow
+fights notwithstanding,
+
+70
+00:02:40,829 --> 00:02:43,790
+you and Maze are like snow pants
+and elephants.
+
+71
+00:02:44,833 --> 00:02:45,750
+You don't mix.
+
+72
+00:02:45,959 --> 00:02:47,627
+Maze and I have
+become friends.
+
+73
+00:02:48,837 --> 00:02:49,921
+Sort of.
+
+74
+00:02:50,130 --> 00:02:51,673
+And I think it's gonna be fine.
+
+75
+00:02:52,215 --> 00:02:53,174
+Oh, really?
+
+76
+00:02:54,008 --> 00:02:56,511
+- With a short adjustment period.
+- Mm.
+
+77
+00:02:56,719 --> 00:02:58,346
+- (phone ringing)
+- Yeah. What is that?
+
+78
+00:02:59,180 --> 00:03:00,056
+Decker.
+
+79
+00:03:01,432 --> 00:03:02,350
+Yeah, what's the address?
+
+80
+00:03:02,559 --> 00:03:03,351
+TRIXIE:
+Hi, Lucifer.
+
+81
+00:03:03,560 --> 00:03:04,853
+Ah, um, toys.
+
+82
+00:03:05,061 --> 00:03:06,354
+- In there. Go.
+- Yes.
+
+83
+00:03:06,563 --> 00:03:08,064
+- Thank you.
+- Can you read this
+
+84
+00:03:08,273 --> 00:03:09,274
+- to me, Mommy?
+- (sighs)
+
+85
+00:03:09,482 --> 00:03:10,108
+No, Monkey.
+
+86
+00:03:10,275 --> 00:03:11,901
+I just got a new case.
+You have to get to school.
+
+87
+00:03:12,110 --> 00:03:13,653
+And besides,
+that's your bedtime story.
+
+88
+00:03:13,862 --> 00:03:14,737
+I'll read that to you tonight.
+
+89
+00:03:14,946 --> 00:03:16,614
+No, read it to me now!
+
+90
+00:03:17,282 --> 00:03:19,492
+This-- best birth control
+in the world.
+
+91
+00:03:19,868 --> 00:03:20,618
+CHLOE:
+Come here.
+
+92
+00:03:24,122 --> 00:03:25,290
+What's going on, kiddo?
+
+93
+00:03:25,498 --> 00:03:27,667
+Landa says your job's
+really dangerous.
+
+94
+00:03:28,001 --> 00:03:30,170
+That cops get hurt all the time.
+
+95
+00:03:30,670 --> 00:03:31,629
+I don't want you to get hurt.
+
+96
+00:03:31,838 --> 00:03:33,089
+Oh, baby.
+
+97
+00:03:33,840 --> 00:03:36,134
+The car accident was just that--
+
+98
+00:03:36,551 --> 00:03:37,385
+an accident.
+
+99
+00:03:37,969 --> 00:03:39,721
+And Mommy's job can
+be dangerous, but
+
+100
+00:03:39,929 --> 00:03:41,431
+I'm really careful, okay?
+
+101
+00:03:41,639 --> 00:03:42,557
+I'm not gonna get hurt.
+
+102
+00:03:43,474 --> 00:03:44,142
+I love you, Mom.
+
+103
+00:03:44,350 --> 00:03:45,810
+Oh, I love you so much.
+
+104
+00:03:46,561 --> 00:03:47,520
+I love you.
+
+105
+00:03:48,021 --> 00:03:50,273
+Oh, no, actually, this
+is better birth control.
+
+106
+00:03:50,481 --> 00:03:51,733
+(groans)
+
+107
+00:03:51,941 --> 00:03:53,443
+♪♪
+
+108
+00:03:56,821 --> 00:03:57,739
+CHLOE:
+<i>Hey, Ella.</i>
+
+109
+00:03:58,198 --> 00:03:59,032
+Hey.
+
+110
+00:03:59,240 --> 00:04:00,992
+All right, any I.D.
+on the victim?
+
+111
+00:04:01,409 --> 00:04:02,035
+Uh, yep.
+
+112
+00:04:02,243 --> 00:04:03,453
+ELLA: His name is...
+LUCIFER: It's Wesley Cabot!
+
+113
+00:04:03,953 --> 00:04:04,913
+What? How do you
+know that?
+
+114
+00:04:05,121 --> 00:04:06,289
+How do I know Th--
+
+115
+00:04:06,497 --> 00:04:08,458
+Star of the
+<i>Body Bags</i> movies.
+
+116
+00:04:08,666 --> 00:04:10,585
+Eighth-degree black belt.
+
+117
+00:04:10,793 --> 00:04:12,837
+Absolute icon
+in the action genre.
+
+118
+00:04:13,379 --> 00:04:14,339
+I adore his work.
+
+119
+00:04:14,547 --> 00:04:17,091
+It's just a bunch of people
+pretending to punch each other.
+
+120
+00:04:17,300 --> 00:04:19,594
+(scoffs) It's much more
+than that, Detective.
+
+121
+00:04:19,802 --> 00:04:21,971
+It's a chance to escape
+your reality for a moment.
+
+122
+00:04:22,180 --> 00:04:23,681
+Some people need that.
+
+123
+00:04:24,307 --> 00:04:27,185
+Also, ninjas and tons of nudity
+in the first three, so...
+
+124
+00:04:28,144 --> 00:04:29,938
+- He had a drug problem, right?
+- Well, only if you consider
+
+125
+00:04:30,146 --> 00:04:32,941
+ingesting millions of dollars'
+worth of cocaine a problem.
+
+126
+00:04:33,441 --> 00:04:34,275
+I call it a Tuesday.
+
+127
+00:04:34,484 --> 00:04:36,027
+But, apparently,
+it's frowned upon.
+
+128
+00:04:36,236 --> 00:04:38,321
+Yeah, so no studios would
+hire him anymore.
+
+129
+00:04:38,905 --> 00:04:39,739
+Hmm.
+
+130
+00:04:39,948 --> 00:04:42,450
+No wonder he resorted to
+teaching karate in Hollywood.
+
+131
+00:04:42,742 --> 00:04:43,493
+Yeah.
+
+132
+00:04:43,701 --> 00:04:44,911
+CHLOE:
+Looks like he was living here.
+
+133
+00:04:45,119 --> 00:04:46,412
+And I thought I fell a long way.
+
+134
+00:04:46,913 --> 00:04:48,623
+ELLA: Okay, so body temp's
+cooled five degrees.
+
+135
+00:04:48,831 --> 00:04:50,833
+That pegs time of death
+around 7:00 a.m.
+
+136
+00:04:51,125 --> 00:04:52,961
+Doesn't look like there's
+any money missing.
+
+137
+00:04:53,169 --> 00:04:55,755
+No forced entry.
+It's not a robbery.
+
+138
+00:04:56,381 --> 00:04:57,173
+What's the cause of death?
+
+139
+00:04:57,382 --> 00:04:59,217
+ELLA:
+Dude was hit with a...
+
+140
+00:04:59,425 --> 00:05:01,177
+"nunchuck statue"?
+
+141
+00:05:01,386 --> 00:05:03,012
+That's a first for me.
+
+142
+00:05:03,221 --> 00:05:06,891
+"The Golden Nunchuck Award
+for Best Fight Sequence, 1998."
+
+143
+00:05:07,100 --> 00:05:08,643
+So, you think the award
+came from the box?
+
+144
+00:05:08,851 --> 00:05:11,020
+Yep. It's got all of
+Wesley's <i>Body Bags 4</i> swag.
+
+145
+00:05:11,229 --> 00:05:13,523
+Memorabilia, contracts.
+Once I get all this
+
+146
+00:05:13,731 --> 00:05:15,483
+back to the precinct,
+I'll see what I can find.
+
+147
+00:05:15,692 --> 00:05:16,943
+For the Insta.
+
+148
+00:05:17,902 --> 00:05:18,528
+No!
+
+149
+00:05:18,736 --> 00:05:19,737
+- No?
+- Nope.
+
+150
+00:05:19,946 --> 00:05:21,281
+- Not cool.
+- Uh...
+
+151
+00:05:21,489 --> 00:05:22,490
+Oh, hold on.
+
+152
+00:05:23,449 --> 00:05:24,659
+I know who the killer must be.
+
+153
+00:05:25,451 --> 00:05:26,077
+Who?
+
+154
+00:05:26,286 --> 00:05:29,205
+The dreaded ninja Ozaki,
+from <i>Body Bags 6: Tokyo Fire.</i>
+
+155
+00:05:29,747 --> 00:05:31,499
+I mean, who else would get
+the jump on Wesley Cabot?
+
+156
+00:05:32,125 --> 00:05:34,210
+(sighs)
+I will avenge you.
+
+157
+00:05:36,212 --> 00:05:36,921
+Who found the body?
+
+158
+00:05:37,422 --> 00:05:38,214
+A kid.
+
+159
+00:05:38,423 --> 00:05:39,924
+Said he saw a Hummer
+driving away.
+
+160
+00:05:40,133 --> 00:05:41,134
+- Here you go.
+- Hmm?
+
+161
+00:05:41,342 --> 00:05:42,510
+I'll see if
+he saw a plate.
+
+162
+00:05:44,429 --> 00:05:45,763
+Hey, Lucifer.
+
+163
+00:05:45,972 --> 00:05:46,597
+Yes?
+
+164
+00:05:46,806 --> 00:05:48,099
+- So I was wondering...
+- Okay,
+
+165
+00:05:48,308 --> 00:05:49,684
+all right, but, uh, we'll need
+to be discreet about it,
+
+166
+00:05:49,892 --> 00:05:50,977
+'cause the detective hates it
+
+167
+00:05:51,185 --> 00:05:52,645
+when I mix business
+with pleasure.
+
+168
+00:05:53,146 --> 00:05:54,605
+The, uh, bed in there
+looks a little skanky,
+
+169
+00:05:54,814 --> 00:05:55,898
+but I'm up for it if you are.
+
+170
+00:05:56,357 --> 00:05:57,483
+Uh, wow.
+
+171
+00:05:57,692 --> 00:05:58,985
+- Okay. Yeah.
+- (chuckles)
+
+172
+00:05:59,193 --> 00:06:00,445
+- Okay.
+- I mean, no!
+
+173
+00:06:00,653 --> 00:06:01,988
+- Oh.
+- I was just wondering,
+
+174
+00:06:02,405 --> 00:06:04,407
+why do you like this
+Wesley Cabot guy so much?
+
+175
+00:06:05,158 --> 00:06:07,327
+Well, he rips men's hearts out,
+
+176
+00:06:07,535 --> 00:06:08,703
+wipes out entire villages,
+
+177
+00:06:08,911 --> 00:06:09,912
+never says thank you,
+
+178
+00:06:10,121 --> 00:06:11,414
+and he's applauded for it.
+
+179
+00:06:12,165 --> 00:06:14,500
+Oh, him... as opposed to you.
+
+180
+00:06:14,709 --> 00:06:15,835
+That's right, because you're the
+
+181
+00:06:16,044 --> 00:06:16,836
+(whispering):
+son of God.
+
+182
+00:06:17,045 --> 00:06:17,837
+- Exactly.
+- (clicks tongue)
+
+183
+00:06:18,046 --> 00:06:19,422
+- Yes.
+- I get it.
+
+184
+00:06:19,630 --> 00:06:21,174
+I mean, Stanislavksy
+would be very proud of you.
+
+185
+00:06:21,382 --> 00:06:24,218
+Okay, for the last time,
+I am not a method actor.
+
+186
+00:06:24,427 --> 00:06:25,595
+So method of you to say.
+
+187
+00:06:25,803 --> 00:06:27,055
+Damn, you are good.
+
+188
+00:06:27,263 --> 00:06:28,931
+Hey, can you cry on cue?
+
+189
+00:06:30,683 --> 00:06:31,851
+Sorry, excuse me.
+
+190
+00:06:33,603 --> 00:06:34,771
+(horn honking)
+
+191
+00:06:49,744 --> 00:06:50,870
+MAN:
+Hello, brother.
+
+192
+00:06:52,538 --> 00:06:53,247
+LUCIFER:
+Ah.
+
+193
+00:06:53,748 --> 00:06:54,665
+Uriel!
+
+194
+00:06:54,874 --> 00:06:56,167
+I thought it was you.
+
+195
+00:06:56,376 --> 00:06:58,211
+Welcome to Earth.
+
+196
+00:06:58,419 --> 00:07:00,630
+Clearly, I got the fashion sense
+in the family.
+
+197
+00:07:01,047 --> 00:07:02,548
+Word of advice:
+I'd lose the trench coat,
+
+198
+00:07:02,757 --> 00:07:03,549
+'cause as it stands,
+
+199
+00:07:03,758 --> 00:07:05,134
+it's less cool,
+brooding angel,
+
+200
+00:07:05,343 --> 00:07:06,469
+more sort of
+"pedophile chic."
+
+201
+00:07:06,677 --> 00:07:08,763
+- One joke down. One to go.
+- (chuckles)
+
+202
+00:07:08,971 --> 00:07:10,973
+Why can't you take anything
+seriously, Lucifer?
+
+203
+00:07:11,432 --> 00:07:12,058
+What do they say?
+
+204
+00:07:12,266 --> 00:07:13,434
+Laugh like no one's listening?
+
+205
+00:07:13,643 --> 00:07:14,936
+Dance like you're standing
+on the corpses
+
+206
+00:07:15,144 --> 00:07:15,937
+of your enemies?
+
+207
+00:07:16,145 --> 00:07:17,230
+And there's the other.
+
+208
+00:07:17,897 --> 00:07:19,273
+Predictable as ever.
+
+209
+00:07:19,482 --> 00:07:20,817
+What do you want, Uriel?
+
+210
+00:07:21,025 --> 00:07:23,778
+I came to you tell you
+that you have 24 hours.
+
+211
+00:07:24,487 --> 00:07:26,406
+I'll bite. 24 hours or what?
+
+212
+00:07:26,614 --> 00:07:28,116
+Either return here
+with Mom,
+
+213
+00:07:28,324 --> 00:07:30,952
+or I'll finish what I started
+with your detective.
+
+214
+00:07:33,663 --> 00:07:34,580
+The car accident.
+
+215
+00:07:34,789 --> 00:07:37,834
+You made a deal with Dad.
+Time to pay up. So...
+
+216
+00:07:38,668 --> 00:07:39,919
+bring Mom to me,
+
+217
+00:07:41,212 --> 00:07:43,131
+or I'll take back what Dad
+gave you.
+
+218
+00:07:49,971 --> 00:07:51,848
+♪♪
+
+219
+00:08:01,482 --> 00:08:02,525
+Uriel is here?
+
+220
+00:08:02,733 --> 00:08:04,193
+Pleasant aroma and all.
+
+221
+00:08:04,902 --> 00:08:05,903
+And he's after Chloe?
+
+222
+00:08:06,112 --> 00:08:06,779
+MAZE:
+No.
+
+223
+00:08:06,988 --> 00:08:07,947
+He's after Chloe
+
+224
+00:08:08,156 --> 00:08:10,575
+or that classy bitch
+you call "Mom."
+
+225
+00:08:11,492 --> 00:08:12,618
+You made a deal with Daddy.
+
+226
+00:08:12,827 --> 00:08:13,703
+Time to pay up.
+
+227
+00:08:13,911 --> 00:08:14,829
+(scoffs)
+Uriel can come after
+
+228
+00:08:15,037 --> 00:08:16,539
+celestial beings like us, yes,
+
+229
+00:08:16,747 --> 00:08:18,124
+but angels aren't allowed
+to kill humans.
+
+230
+00:08:18,332 --> 00:08:19,208
+Chloe should be safe.
+
+231
+00:08:19,417 --> 00:08:20,835
+Yes, but remember, dear brother,
+
+232
+00:08:21,043 --> 00:08:22,712
+that Uriel can play
+with patterns.
+
+233
+00:08:22,920 --> 00:08:24,297
+He makes a butterfly
+flap its wings
+
+234
+00:08:24,505 --> 00:08:26,716
+and a housewife gets chlamydia.
+
+235
+00:08:27,425 --> 00:08:30,136
+Or Chloe gets into a seemingly
+accidental car wreck.
+
+236
+00:08:30,344 --> 00:08:31,721
+Correct, for ten points.
+
+237
+00:08:31,929 --> 00:08:33,181
+Well, too bad there isn't
+an easy way
+
+238
+00:08:33,389 --> 00:08:35,141
+to make this all go away.
+
+239
+00:08:35,683 --> 00:08:37,101
+Oh, wait, there is.
+
+240
+00:08:37,310 --> 00:08:38,811
+Send your mom back to Hell.
+
+241
+00:08:39,020 --> 00:08:40,521
+- (chuckles)
+- A solution which you
+
+242
+00:08:40,730 --> 00:08:42,106
+will, no doubt, avoid.
+
+243
+00:08:42,273 --> 00:08:44,400
+Well, worry not,
+my little sex thug, because
+
+244
+00:08:44,609 --> 00:08:46,194
+Uriel won't be a problem.
+
+245
+00:08:46,819 --> 00:08:48,196
+We have a nuclear weapon.
+
+246
+00:08:49,155 --> 00:08:50,072
+What's that?
+
+247
+00:08:50,656 --> 00:08:51,324
+You.
+
+248
+00:08:52,200 --> 00:08:52,909
+Well, Uriel doesn't know that
+
+249
+00:08:53,117 --> 00:08:54,368
+we're working together on this.
+
+250
+00:08:54,577 --> 00:08:55,828
+We all know he won't
+listen to me.
+
+251
+00:08:56,037 --> 00:08:58,498
+But he will if it's someone
+from the home team.
+
+252
+00:08:59,707 --> 00:09:01,083
+So, you will go and convince him
+
+253
+00:09:01,292 --> 00:09:02,710
+that he needs to go back.
+
+254
+00:09:02,919 --> 00:09:05,338
+Or, you know, just punch him
+in his smug face.
+
+255
+00:09:05,796 --> 00:09:06,464
+Dealer's choice.
+
+256
+00:09:06,672 --> 00:09:07,465
+(chuckling)
+
+257
+00:09:07,673 --> 00:09:09,175
+God, it's nice
+
+258
+00:09:09,383 --> 00:09:11,135
+having a super powerful angel
+on your side, isn't it?
+
+259
+00:09:13,513 --> 00:09:14,597
+Good luck with that.
+
+260
+00:09:18,184 --> 00:09:19,268
+CHLOE:
+Huh.
+
+261
+00:09:20,186 --> 00:09:21,354
+Saved your life.
+
+262
+00:09:21,562 --> 00:09:23,231
+(chuckling):
+Maybe. You never know.
+
+263
+00:09:23,439 --> 00:09:24,732
+What are you talking about?
+
+264
+00:09:24,941 --> 00:09:26,692
+Well, it appears that
+I was correct this morning.
+
+265
+00:09:26,901 --> 00:09:29,320
+You are being targeted
+by cosmic forces.
+
+266
+00:09:29,529 --> 00:09:31,697
+But fear not,
+it's all being dealt with.
+
+267
+00:09:31,906 --> 00:09:32,740
+And I'm here.
+
+268
+00:09:32,949 --> 00:09:33,866
+CHLOE:
+Now...
+
+269
+00:09:34,867 --> 00:09:36,035
+what is with everyone
+
+270
+00:09:36,244 --> 00:09:37,370
+and this car accident? I'm fine.
+
+271
+00:09:37,578 --> 00:09:40,331
+No, I'm afraid that you're not.
+And so, for the next day or so,
+
+272
+00:09:40,540 --> 00:09:42,542
+I'm gonna need you to be
+unpredictable.
+
+273
+00:09:42,750 --> 00:09:44,168
+Whatever you'd normally do,
+just, you know--
+
+274
+00:09:44,377 --> 00:09:45,711
+ah, ah--
+do the opposite.
+
+275
+00:09:46,462 --> 00:09:47,129
+Too bad.
+
+276
+00:09:47,338 --> 00:09:48,881
+I was totally gonna have sex
+with you today.
+
+277
+00:09:49,507 --> 00:09:50,132
+Really?
+
+278
+00:09:51,842 --> 00:09:54,720
+Oh. Well played, Detective.
+(chuckles)
+
+279
+00:09:54,929 --> 00:09:56,556
+Yes, but until the threat
+has passed,
+
+280
+00:09:56,764 --> 00:09:57,723
+just to be safe,
+
+281
+00:09:57,932 --> 00:09:59,058
+I won't be leaving your side.
+
+282
+00:09:59,267 --> 00:10:00,685
+So just think of me
+
+283
+00:10:01,269 --> 00:10:02,436
+as your Guardian Devil.
+
+284
+00:10:03,062 --> 00:10:03,729
+(softly):
+Okay.
+
+285
+00:10:03,938 --> 00:10:05,231
+Guys, Wesley Cabot's dead.
+
+286
+00:10:05,439 --> 00:10:06,399
+I can't believe it.
+
+287
+00:10:06,607 --> 00:10:07,942
+Oh, God. Not you, too.
+
+288
+00:10:08,401 --> 00:10:10,152
+Oh, man. <i>Body Bags</i>
+1 through 6.
+
+289
+00:10:10,361 --> 00:10:12,071
+First in line. I mean,
+I even skipped out
+
+290
+00:10:12,280 --> 00:10:14,323
+on some of our wedding planning
+to see <i>Body Bags 6</i>. Remember?
+
+291
+00:10:14,532 --> 00:10:15,783
+That was the big emergency?
+
+292
+00:10:16,450 --> 00:10:17,743
+It was totally worth it.
+It was a great movie.
+
+293
+00:10:17,952 --> 00:10:19,412
+Yes, it was. Better catch
+phrase, wasn't it?
+
+294
+00:10:19,620 --> 00:10:20,580
+BOTH:
+"Not on my watch."
+
+295
+00:10:20,788 --> 00:10:21,789
+(both chuckling)
+
+296
+00:10:21,998 --> 00:10:23,165
+Maybe I should get
+a catch phrase.
+
+297
+00:10:23,374 --> 00:10:25,084
+You don't need a catch phrase.
+And you.
+
+298
+00:10:25,293 --> 00:10:27,086
+Do you have anything
+constructive to add?
+
+299
+00:10:28,004 --> 00:10:29,714
+Uh, yep.
+Yep, I do.
+
+300
+00:10:31,007 --> 00:10:32,592
+The boy who, uh, found the body
+
+301
+00:10:33,175 --> 00:10:34,927
+remembered the first three plate
+numbers of the getaway car.
+
+302
+00:10:35,136 --> 00:10:36,387
+13 matches.
+
+303
+00:10:36,596 --> 00:10:37,805
+13. That's a lot of legwork.
+
+304
+00:10:38,097 --> 00:10:39,390
+Jamie Lee Adrienne.
+
+305
+00:10:40,182 --> 00:10:41,058
+The, uh, the Playmate?
+
+306
+00:10:41,267 --> 00:10:42,184
+- The ex-party girl?
+- Yeah.
+
+307
+00:10:42,393 --> 00:10:43,686
+What does she have to do
+with Wesley Cabot?
+
+308
+00:10:43,894 --> 00:10:45,938
+She's his ex-wife. They met
+on the set of <i>Body Bags 4.</i>
+
+309
+00:10:46,147 --> 00:10:47,732
+Apparently, Jamie and
+Wesley's divorce proceedings
+
+310
+00:10:47,940 --> 00:10:49,233
+were very contentious.
+
+311
+00:10:49,442 --> 00:10:51,611
+Maybe she went
+to "renegotiate."
+
+312
+00:10:51,819 --> 00:10:53,154
+(Lucifer and Dan chuckling)
+
+313
+00:10:53,321 --> 00:10:54,655
+By "renegotiate",
+I mean kill him.
+
+314
+00:10:55,698 --> 00:10:56,532
+- Yeah.
+- Uh...
+
+315
+00:10:58,784 --> 00:10:59,535
+Yeah...
+
+316
+00:11:01,120 --> 00:11:02,955
+I can't believe
+Wesley's really gone.
+
+317
+00:11:03,289 --> 00:11:05,625
+When was the last time
+you saw Mr. Cabot?
+
+318
+00:11:05,833 --> 00:11:08,711
+Um... a few weeks ago.
+
+319
+00:11:08,919 --> 00:11:09,712
+Maybe.
+
+320
+00:11:09,920 --> 00:11:10,713
+Interesting.
+
+321
+00:11:10,921 --> 00:11:14,008
+Then can you explain why
+a witness said that they saw you
+
+322
+00:11:14,216 --> 00:11:16,302
+speeding away from Wesley's
+dojo this morning?
+
+323
+00:11:16,677 --> 00:11:18,554
+Welcome to Devil Time.
+
+324
+00:11:19,805 --> 00:11:21,641
+- What are you doing?
+- Trying out my
+new catch phrase.
+
+325
+00:11:21,974 --> 00:11:22,642
+"Welcome to
+Devil Time"?
+
+326
+00:11:22,850 --> 00:11:24,143
+- What the hell does that mean?
+- She knows what it means.
+
+327
+00:11:24,352 --> 00:11:25,519
+I have no idea what that means.
+
+328
+00:11:26,020 --> 00:11:27,980
+- Oh.
+- Okay, yeah. I...
+
+329
+00:11:28,230 --> 00:11:29,690
+I was at the dojo this morning.
+
+330
+00:11:30,566 --> 00:11:31,651
+But it's not what you think.
+
+331
+00:11:31,859 --> 00:11:33,986
+I went because of this...
+
+332
+00:11:34,195 --> 00:11:35,279
+WESLEY (on voice mail):
+My life is destroyed.
+
+333
+00:11:35,488 --> 00:11:37,239
+And it all started
+with <i>Body Bags 4.</i>
+
+334
+00:11:37,782 --> 00:11:38,658
+Call me back.
+
+335
+00:11:39,408 --> 00:11:40,826
+What "started with <i>Body Bags 4"?</i>
+
+336
+00:11:41,035 --> 00:11:42,161
+I have no idea.
+
+337
+00:11:42,370 --> 00:11:43,954
+That's why I went
+to go see see Wesley.
+
+338
+00:11:45,164 --> 00:11:46,666
+But he was already dead and...
+
+339
+00:11:47,041 --> 00:11:49,001
+I panicked and then I ran...
+
+340
+00:11:49,210 --> 00:11:50,169
+But I swear
+
+341
+00:11:50,378 --> 00:11:51,712
+I would've never hurt Wesley.
+
+342
+00:11:51,921 --> 00:11:54,924
+Even though we were divorced,
+I really cared about him.
+
+343
+00:11:55,132 --> 00:11:56,842
+Where were you at 7:00 a.m.
+this morning?
+
+344
+00:11:57,635 --> 00:11:59,845
+With Raphael.
+My Pilates instructor.
+
+345
+00:12:00,054 --> 00:12:02,181
+And how does the Weaponizer
+feel about all this?
+
+346
+00:12:03,391 --> 00:12:04,767
+(whispering):
+Who the hell is
+the Weaponizer?
+
+347
+00:12:04,975 --> 00:12:06,727
+He's a character played
+by Kimo Van Zandt,
+
+348
+00:12:06,936 --> 00:12:08,062
+Wesley's co-star
+
+349
+00:12:08,270 --> 00:12:09,689
+and her current husband.
+
+350
+00:12:11,023 --> 00:12:13,234
+So you used to be married
+to an action star,
+
+351
+00:12:13,776 --> 00:12:15,486
+only to divorce him
+and marry
+
+352
+00:12:15,903 --> 00:12:17,071
+another action star?
+
+353
+00:12:17,571 --> 00:12:18,989
+Yeah. It was the '90s.
+
+354
+00:12:19,198 --> 00:12:20,408
+We did a lot of coke.
+
+355
+00:12:20,616 --> 00:12:22,034
+Well, how did
+your current husband feel
+
+356
+00:12:22,243 --> 00:12:23,244
+about you visiting your ex?
+
+357
+00:12:23,411 --> 00:12:24,537
+Oh, that's easy.
+
+358
+00:12:24,745 --> 00:12:25,955
+Kimo and Wesley
+hated each other.
+
+359
+00:12:26,163 --> 00:12:27,331
+Long-standing feud.
+
+360
+00:12:27,540 --> 00:12:28,749
+God only knows
+what Kimo would've done
+
+361
+00:12:28,958 --> 00:12:30,209
+if he knew I went to see him.
+
+362
+00:12:30,418 --> 00:12:31,711
+Where was Kimo this morning?
+
+363
+00:12:32,420 --> 00:12:35,131
+Uh, at ActionCon in Reno.
+
+364
+00:12:35,339 --> 00:12:36,507
+Signing autographs.
+
+365
+00:12:37,425 --> 00:12:38,175
+WESLEY:
+<i>Where's my money, partner?</i>
+
+366
+00:12:38,384 --> 00:12:40,094
+I will end you!
+
+367
+00:12:40,302 --> 00:12:42,638
+Without <i>Body Bags 4,</i> you are nothing, man!
+
+368
+00:12:43,472 --> 00:12:45,433
+How does <i>Body Bags 4</i> figure into all this?
+
+369
+00:12:45,641 --> 00:12:48,352
+Well, Wesley, our victim, uh,
+
+370
+00:12:48,561 --> 00:12:49,645
+was the hero of
+the <i>Body Bags</i> franchise.
+
+371
+00:12:49,854 --> 00:12:52,857
+Ooh, and in <i>Body Bags 4,</i> newcomer
+Kimo Van Zandt appeared.
+
+372
+00:12:53,065 --> 00:12:54,483
+He played this
+shady CIA operative,
+
+373
+00:12:54,692 --> 00:12:55,901
+who acted as Wesley's foil
+
+374
+00:12:56,110 --> 00:12:57,403
+and his eventual
+ambiguous ally, but...
+
+375
+00:12:57,611 --> 00:12:59,363
+Then Kimo's character
+got spun off into his own,
+
+376
+00:12:59,572 --> 00:13:02,116
+more successful franchise,
+<i>The Weaponizer.</i>
+
+377
+00:13:02,324 --> 00:13:04,285
+Personal fave:
+<i>Weaponizer 4: The Last Arsenal.</i>
+
+378
+00:13:04,493 --> 00:13:05,828
+- So good, right?
+- At the end, with the whole...
+
+379
+00:13:06,036 --> 00:13:08,956
+(both imitate explosion)
+Okay, I so regret
+asking you guys this.
+
+380
+00:13:09,165 --> 00:13:10,958
+Although, you're oddly adorable.
+
+381
+00:13:11,959 --> 00:13:13,127
+So, it seems like
+Kimo has always
+
+382
+00:13:13,335 --> 00:13:14,503
+had it out for Wesley.
+
+383
+00:13:14,712 --> 00:13:16,714
+Stole his wife,
+stole his film franchise.
+
+384
+00:13:16,922 --> 00:13:18,591
+So maybe he really did "end" it
+for him once and for all.
+
+385
+00:13:18,799 --> 00:13:20,050
+But Kimo was in Reno.
+
+386
+00:13:20,926 --> 00:13:22,136
+At ActionCon.
+
+387
+00:13:22,386 --> 00:13:24,305
+But that convention
+happens the last week in August.
+
+388
+00:13:24,513 --> 00:13:26,432
+- How do you know that?
+- My mom used to go
+to it every year.
+
+389
+00:13:26,640 --> 00:13:28,350
+- So Jamie's lying.
+- Or Kimo's lying to her.
+
+390
+00:13:28,559 --> 00:13:29,602
+Either way, we gotta find him.
+
+391
+00:13:29,810 --> 00:13:31,437
+- I'll put out a BOLO.
+- Okay.
+
+392
+00:13:33,272 --> 00:13:34,899
+MOM:
+<i>Please, hold on. Um...</i>
+
+393
+00:13:35,900 --> 00:13:38,611
+Again, I apologize that the
+children were late for school.
+
+394
+00:13:38,819 --> 00:13:40,988
+And, yes, I understand
+
+395
+00:13:41,739 --> 00:13:44,700
+that pants need
+to be worn every day, now.
+
+396
+00:13:46,660 --> 00:13:47,787
+(sighs)
+
+397
+00:13:49,663 --> 00:13:50,539
+(whimpers)
+
+398
+00:13:53,250 --> 00:13:54,293
+Ooh!
+
+399
+00:13:55,503 --> 00:13:56,420
+Rough day?
+
+400
+00:13:57,087 --> 00:13:57,797
+Oh...
+
+401
+00:13:58,005 --> 00:14:00,174
+Since returning to my
+employment, I have found
+
+402
+00:14:00,382 --> 00:14:03,427
+the number of daily tasks
+to be almost insurmountable.
+
+403
+00:14:04,845 --> 00:14:05,471
+But hey...
+
+404
+00:14:05,679 --> 00:14:08,057
+at least you're not here
+to take me back to Hell.
+
+405
+00:14:12,353 --> 00:14:15,105
+You are here to take me
+back to Hell?
+
+406
+00:14:15,439 --> 00:14:17,024
+No, Mom, I'm not.
+I'm just...
+
+407
+00:14:17,566 --> 00:14:19,360
+Listen, I was just wondering
+if your being here
+
+408
+00:14:19,568 --> 00:14:21,654
+is just postponing
+the inevitable.
+
+409
+00:14:22,363 --> 00:14:24,073
+I mean, at some point...
+
+410
+00:14:25,533 --> 00:14:28,202
+other siblings will come
+down here looking for you.
+
+411
+00:14:28,410 --> 00:14:30,162
+And I'll convince them
+to let me stay,
+
+412
+00:14:30,371 --> 00:14:31,872
+just like I did you and Lucifer.
+
+413
+00:14:32,081 --> 00:14:34,708
+You were gone
+for a really long time, Mom.
+
+414
+00:14:36,544 --> 00:14:39,129
+You might not know your children
+as well as you think you do.
+
+415
+00:14:41,173 --> 00:14:42,550
+You may be right.
+
+416
+00:14:43,467 --> 00:14:45,719
+But, at least for now,
+
+417
+00:14:45,928 --> 00:14:47,263
+I have you and Lucifer.
+
+418
+00:14:48,097 --> 00:14:49,682
+My brave boys.
+
+419
+00:14:51,475 --> 00:14:53,143
+So if I'm here on Earth
+
+420
+00:14:53,686 --> 00:14:55,271
+for two more years...
+
+421
+00:14:56,355 --> 00:14:57,690
+or two hours...
+
+422
+00:14:59,191 --> 00:15:01,735
+I will take every moment
+that I can get.
+
+423
+00:15:09,201 --> 00:15:11,078
+("Turn It On Again"
+by Max Boogie Overdrive playing)
+
+424
+00:15:13,330 --> 00:15:16,709
+♪ Little wine, little gin... ♪
+
+425
+00:15:16,917 --> 00:15:18,794
+CHLOE:
+<i>Yeah, the tip said
+that we'd find Kimo here.</i>
+
+426
+00:15:19,003 --> 00:15:20,546
+<i>I guess we have
+to just sit tight.</i>
+
+427
+00:15:22,965 --> 00:15:24,049
+Where did that
+sandwich come from?
+
+428
+00:15:24,675 --> 00:15:26,635
+The patrol guys give them to us
+when we're on stakeouts.
+
+429
+00:15:26,844 --> 00:15:27,678
+I'm starving.
+
+430
+00:15:29,555 --> 00:15:30,180
+What the hell?
+
+431
+00:15:30,389 --> 00:15:32,975
+What part of "opposite day"
+don't you understand?
+
+432
+00:15:33,976 --> 00:15:35,436
+It was a random car accident.
+
+433
+00:15:35,644 --> 00:15:36,270
+(chuckles)
+
+434
+00:15:36,478 --> 00:15:37,938
+Well,let's agree...
+that you're wrong.
+
+435
+00:15:38,147 --> 00:15:39,064
+What is with you?
+
+436
+00:15:39,440 --> 00:15:41,609
+Why are you suddenly so
+concerned for my well-being?
+
+437
+00:15:43,485 --> 00:15:44,695
+(door opens)
+
+438
+00:15:46,071 --> 00:15:46,697
+Oh, m...
+
+439
+00:15:46,906 --> 00:15:47,907
+Kimo Van Zandt.
+
+440
+00:15:48,115 --> 00:15:49,617
+- In the flesh.
+- Here we go.
+
+441
+00:15:50,242 --> 00:15:51,035
+(car lock beeps)
+
+442
+00:15:51,660 --> 00:15:52,828
+What the hell?
+
+443
+00:15:53,037 --> 00:15:54,121
+(grunts)
+
+444
+00:15:54,330 --> 00:15:55,039
+CHLOE:
+LAPD!
+
+445
+00:15:55,664 --> 00:15:56,999
+On the ground, now!
+
+446
+00:15:58,334 --> 00:15:59,335
+On the ground.
+
+447
+00:15:59,960 --> 00:16:01,378
+You. Over there.
+
+448
+00:16:01,587 --> 00:16:03,339
+♪ Turn it on... ♪
+
+449
+00:16:05,841 --> 00:16:07,092
+HIPSTER:
+Dude, no way!
+
+450
+00:16:07,301 --> 00:16:09,428
+The Weaponizer
+just tried to jump me?
+
+451
+00:16:09,637 --> 00:16:10,429
+♪ Turn it on. ♪
+
+452
+00:16:10,638 --> 00:16:11,639
+(hipster laughing)
+
+453
+00:16:18,145 --> 00:16:20,022
+Why did you attack the guy
+in the parking lot?
+
+454
+00:16:20,564 --> 00:16:22,274
+I swear, I wasn't going
+to hurt him.
+
+455
+00:16:22,483 --> 00:16:24,568
+Was he a terrorist
+about to plant a bomb?
+
+456
+00:16:25,110 --> 00:16:26,654
+Leader of a murderous cult,
+perhaps?
+
+457
+00:16:26,862 --> 00:16:29,907
+He must be someone <i>really</i> evil
+for the Weaponizer to get involved.
+
+458
+00:16:30,407 --> 00:16:33,577
+He's just some guy
+in trouble with the Mob.
+
+459
+00:16:34,286 --> 00:16:35,245
+So they've got his family
+
+460
+00:16:35,454 --> 00:16:37,414
+and they're forcing him
+to kill the president.
+
+461
+00:16:37,998 --> 00:16:39,792
+No. He's got gambling debts.
+
+462
+00:16:40,000 --> 00:16:41,126
+H-Hold on.
+
+463
+00:16:41,335 --> 00:16:43,671
+So you, former A-list,
+B-list actor,
+
+464
+00:16:44,338 --> 00:16:45,673
+you're now breaking
+legs for the Mob?
+
+465
+00:16:46,131 --> 00:16:47,424
+It's to pay the bills.
+
+466
+00:16:49,134 --> 00:16:49,802
+I'm broke.
+
+467
+00:16:50,010 --> 00:16:52,304
+(chuckling):
+Oh, come now.
+
+468
+00:16:52,888 --> 00:16:53,806
+Look at me.
+
+469
+00:16:54,723 --> 00:16:56,308
+You're the Weaponizer.
+
+470
+00:16:56,517 --> 00:16:59,937
+What is it your badass-kicking
+self truly desires, hmm?
+
+471
+00:17:02,022 --> 00:17:03,440
+For my wife to be happy.
+
+472
+00:17:04,817 --> 00:17:06,527
+That's why I've been willing
+to take any job.
+
+473
+00:17:07,403 --> 00:17:08,654
+So she won't find out.
+
+474
+00:17:09,863 --> 00:17:10,823
+She's my...
+
+475
+00:17:13,033 --> 00:17:13,909
+lighthouse.
+
+476
+00:17:15,494 --> 00:17:17,121
+What happened to you, man?
+
+477
+00:17:17,496 --> 00:17:18,497
+Your lighthouse?
+
+478
+00:17:18,706 --> 00:17:20,332
+- Pathetic.
+- (sighs)
+
+479
+00:17:20,791 --> 00:17:21,792
+Was killing
+Wesley Cabot
+
+480
+00:17:22,001 --> 00:17:24,294
+another case of leg-breaking
+gone awry or what?
+
+481
+00:17:24,503 --> 00:17:25,129
+No!
+
+482
+00:17:25,379 --> 00:17:27,006
+I-I'd never hurt Wesley.
+
+483
+00:17:27,214 --> 00:17:28,507
+- We were friends.
+- Huh.
+
+484
+00:17:28,716 --> 00:17:30,634
+- Could've fooled me.
+- We had a public rivalry,
+
+485
+00:17:30,843 --> 00:17:32,511
+but-but it was just
+for business.
+
+486
+00:17:32,720 --> 00:17:34,680
+- (scoffs)
+- In reality,
+we share everything.
+
+487
+00:17:34,888 --> 00:17:36,390
+The same managers,
+agents, lawyers...
+
+488
+00:17:36,598 --> 00:17:38,350
+- Wives?
+- I'm not proud
+
+489
+00:17:38,559 --> 00:17:41,687
+of how it went down with Jamie,
+but we fell in love.
+
+490
+00:17:42,479 --> 00:17:43,814
+And Wesley forgave me.
+
+491
+00:17:44,023 --> 00:17:46,150
+We even kept our friendship
+secret from Jamie
+
+492
+00:17:46,358 --> 00:17:47,735
+so it wouldn't be weird.
+
+493
+00:17:47,943 --> 00:17:49,570
+Then where were you
+this morning at 7:00 a.m.?
+
+494
+00:17:49,778 --> 00:17:51,238
+We know it wasn't ActionCon.
+
+495
+00:17:51,488 --> 00:17:55,367
+I was signing stuff
+at a small comic book store.
+
+496
+00:17:56,785 --> 00:17:59,580
+I lied to Jamie because I don't
+want her to know how bad it's gotten.
+
+497
+00:18:00,581 --> 00:18:01,248
+Detective.
+
+498
+00:18:02,124 --> 00:18:02,833
+Yeah.
+
+499
+00:18:03,959 --> 00:18:05,127
+You should look
+at this.
+
+500
+00:18:06,211 --> 00:18:07,421
+(sighs)
+
+501
+00:18:09,173 --> 00:18:10,424
+Your prints were
+on the murder weapon.
+
+502
+00:18:10,924 --> 00:18:12,384
+Kimo Van Zandt,
+you're under arrest
+
+503
+00:18:12,593 --> 00:18:13,761
+for the murder
+of Wesley Cabot.
+
+504
+00:18:14,553 --> 00:18:16,388
+N-No. No!
+
+505
+00:18:17,014 --> 00:18:17,973
+No!
+
+506
+00:18:19,099 --> 00:18:20,768
+♪♪
+
+507
+00:18:24,480 --> 00:18:25,606
+LUCIFER:
+<i>I don't think he did it.</i>
+
+508
+00:18:25,814 --> 00:18:27,232
+Why? 'Cause he's
+the Weaponizer?
+
+509
+00:18:27,441 --> 00:18:29,485
+The Weaponizer once bit
+a man's ear off
+
+510
+00:18:29,693 --> 00:18:31,403
+for looking at him funny--
+this puddle of whine
+
+511
+00:18:31,612 --> 00:18:33,572
+- doesn't have it in him anymore.
+- He breaks legs
+
+512
+00:18:33,781 --> 00:18:35,657
+- for the Mob.
+- Yes, but he's not a killer.
+
+513
+00:18:35,866 --> 00:18:37,868
+All he cares about is
+his well-preserved wife.
+
+514
+00:18:38,327 --> 00:18:40,204
+Maybe he can get a jury
+to buy that. I don't.
+
+515
+00:18:40,412 --> 00:18:43,248
+And, personally, I'm happy the
+judge set his bail at half a million.
+
+516
+00:18:43,957 --> 00:18:45,667
+Now Dan has time
+to check his alibi,
+
+517
+00:18:45,876 --> 00:18:48,629
+- and...
+- (indistinct chatter)
+
+518
+00:18:48,837 --> 00:18:49,922
+I thought he was broke.
+
+519
+00:18:50,130 --> 00:18:51,298
+Oh, I paid his bail.
+
+520
+00:18:51,757 --> 00:18:53,258
+Even in this woeful,
+pathetic state,
+
+521
+00:18:53,467 --> 00:18:55,636
+the Weaponizer does not
+spend one minute in jail.
+
+522
+00:18:55,844 --> 00:18:56,595
+"Not on my watch."
+
+523
+00:18:56,804 --> 00:18:58,305
+(chuckles) See what
+I did there, with the...
+
+524
+00:18:58,514 --> 00:19:00,432
+I literally don't know what
+to say to you right now.
+
+525
+00:19:00,641 --> 00:19:02,184
+- (chuckles)
+- Mr. Morningstar.
+
+526
+00:19:02,392 --> 00:19:03,977
+- Yes.
+- Uh, Ryan Goldburg,
+
+527
+00:19:04,436 --> 00:19:05,979
+uh, Kimo's
+business manager.
+
+528
+00:19:06,438 --> 00:19:08,273
+I wanted to thank you
+for making his bail.
+
+529
+00:19:08,482 --> 00:19:11,568
+- Uh, you know, Kimo sure as hell
+couldn't pay it himself.
+- Oh, it's the least
+
+530
+00:19:11,777 --> 00:19:13,445
+I could do
+for a true national treasure.
+
+531
+00:19:13,654 --> 00:19:14,696
+CHLOE:
+So, for someone
+with so many
+
+532
+00:19:14,905 --> 00:19:16,949
+hit movies under their belt,
+why is he so broke?
+
+533
+00:19:17,574 --> 00:19:19,660
+Exotic cars. Private islands.
+
+534
+00:19:19,868 --> 00:19:21,912
+You know what costs more
+than an albino tiger?
+
+535
+00:19:22,454 --> 00:19:24,164
+The upkeep on an albino tiger.
+
+536
+00:19:24,373 --> 00:19:25,374
+He blew through
+his money.
+
+537
+00:19:25,582 --> 00:19:26,667
+Didn't listen.
+
+538
+00:19:26,875 --> 00:19:28,460
+And now there's no more
+coming in.
+
+539
+00:19:29,128 --> 00:19:30,671
+- Thanks again.
+- Yes.
+
+540
+00:19:31,338 --> 00:19:32,464
+Such a tragedy.
+
+541
+00:19:32,673 --> 00:19:34,675
+Well, it's always a tragedy
+when someone gets killed.
+
+542
+00:19:35,509 --> 00:19:36,718
+No, I'm talking about his tiger.
+
+543
+00:19:37,219 --> 00:19:38,345
+I would have bought it
+if I'd known.
+
+544
+00:19:40,764 --> 00:19:43,225
+Why isn't Dan
+checking the alibi?
+
+545
+00:19:43,892 --> 00:19:44,935
+Dan...
+
+546
+00:19:46,520 --> 00:19:48,397
+(siren wailing in distance)
+
+547
+00:19:55,445 --> 00:19:56,655
+I want to talk about Uriel.
+
+548
+00:19:57,156 --> 00:19:58,157
+Well, what's there
+to talk about?
+
+549
+00:19:58,365 --> 00:20:00,450
+Punch, taunt, punch,
+groin stomp. Repeat.
+
+550
+00:20:00,659 --> 00:20:01,994
+Yeah, listen, Luci,
+I've been thinking,
+
+551
+00:20:02,202 --> 00:20:04,830
+there might be a better way
+to handle this without violence.
+
+552
+00:20:05,038 --> 00:20:06,206
+What, like hugging him
+back to Heaven?
+
+553
+00:20:06,415 --> 00:20:08,542
+Like hiding Mom.
+Hiding Chloe.
+
+554
+00:20:08,750 --> 00:20:09,877
+And wait Uriel out.
+
+555
+00:20:10,085 --> 00:20:11,837
+- What?
+- Look, just because
+he told us his plan
+
+556
+00:20:12,045 --> 00:20:13,672
+doesn't mean
+that's his plan.
+
+557
+00:20:13,881 --> 00:20:14,798
+It's Uriel.
+
+558
+00:20:16,133 --> 00:20:17,342
+It could be a trap.
+
+559
+00:20:19,219 --> 00:20:20,554
+Brother,
+you've been here too long.
+
+560
+00:20:21,263 --> 00:20:22,347
+It's changed you.
+
+561
+00:20:23,682 --> 00:20:25,642
+- What do you mean?
+- Meaning that ever since
+
+562
+00:20:25,851 --> 00:20:27,561
+you've been here,
+you've had to restrain yourself.
+
+563
+00:20:27,769 --> 00:20:30,856
+But this is Uriel. You're you.
+
+564
+00:20:31,356 --> 00:20:33,400
+Amenadiel. Firstborn.
+
+565
+00:20:34,276 --> 00:20:35,360
+Unleash yourself.
+
+566
+00:20:35,777 --> 00:20:36,862
+Enjoy it.
+
+567
+00:20:38,780 --> 00:20:40,240
+(sighs)
+
+568
+00:20:40,574 --> 00:20:42,868
+Look, you do know that
+he was always afraid of you.
+
+569
+00:20:43,076 --> 00:20:45,370
+- Don't mock me, Lucifer.
+- I'm not. It's true.
+
+570
+00:20:45,579 --> 00:20:47,289
+All right?
+Growing up, we...
+
+571
+00:20:47,998 --> 00:20:49,791
+well, we all looked up to you.
+
+572
+00:20:50,292 --> 00:20:52,836
+You were like our
+very own action star.
+
+573
+00:20:53,962 --> 00:20:54,713
+Even you?
+
+574
+00:20:54,922 --> 00:20:55,964
+Well, don't get
+me wrong. You were
+
+575
+00:20:56,173 --> 00:20:57,716
+a major power-hungry
+dick about it.
+
+576
+00:20:58,383 --> 00:21:00,219
+But trust me.
+
+577
+00:21:00,802 --> 00:21:04,598
+Just the sight of you will send
+quivers down Uriel's spine.
+
+578
+00:21:06,516 --> 00:21:07,392
+You're right.
+
+579
+00:21:08,936 --> 00:21:10,562
+All he needs to see is me
+
+580
+00:21:10,771 --> 00:21:12,022
+in <i>all</i> of my glory.
+
+581
+00:21:12,231 --> 00:21:15,442
+And <i>there's</i> that angelic
+ego I'm talking about.
+
+582
+00:21:16,360 --> 00:21:17,069
+Right.
+
+583
+00:21:18,278 --> 00:21:19,363
+You know what to do.
+
+584
+00:21:19,738 --> 00:21:21,573
+♪♪
+
+585
+00:21:29,289 --> 00:21:30,457
+AMENADIEL:
+Uriel.
+
+586
+00:21:34,002 --> 00:21:35,003
+Amenadiel.
+
+587
+00:21:36,630 --> 00:21:38,465
+It's good to see you,
+little brother.
+
+588
+00:21:39,758 --> 00:21:41,927
+You're a welcome sight
+for sore eyes.
+
+589
+00:21:42,594 --> 00:21:44,221
+- I am?
+- Of course you are.
+
+590
+00:21:45,305 --> 00:21:46,390
+(sighs)
+
+591
+00:21:47,140 --> 00:21:48,850
+But, Uri, you must go home.
+
+592
+00:21:49,810 --> 00:21:51,770
+I really do have
+everything under control.
+
+593
+00:21:52,312 --> 00:21:53,480
+Are you sure?
+
+594
+00:21:54,523 --> 00:21:57,109
+Lucifer's still on Earth.
+Now Mom's here, too.
+
+595
+00:21:57,317 --> 00:21:59,778
+Uh... It almost looks like
+you're in over your head.
+
+596
+00:22:00,529 --> 00:22:01,571
+But don't worry.
+
+597
+00:22:03,198 --> 00:22:04,324
+I'm here to help.
+
+598
+00:22:06,243 --> 00:22:07,119
+Yeah.
+
+599
+00:22:08,287 --> 00:22:10,122
+You really think
+I need your help?
+
+600
+00:22:11,123 --> 00:22:11,748
+You.
+
+601
+00:22:12,457 --> 00:22:14,251
+Pathetic,
+small Uriel.
+
+602
+00:22:16,003 --> 00:22:17,629
+Not the eldest son.
+
+603
+00:22:18,088 --> 00:22:19,464
+Not the young rebel.
+
+604
+00:22:19,673 --> 00:22:22,926
+But an angel buried somewhere
+deep in the middle.
+
+605
+00:22:23,385 --> 00:22:24,928
+Lost in the crowd
+
+606
+00:22:25,137 --> 00:22:26,054
+- of your betters.
+- That is not...
+
+607
+00:22:26,263 --> 00:22:28,515
+If God wants something done,
+
+608
+00:22:29,808 --> 00:22:31,852
+he sends me, Uri.
+
+609
+00:22:33,937 --> 00:22:34,730
+Me.
+
+610
+00:22:35,689 --> 00:22:36,690
+Not you.
+
+611
+00:22:38,150 --> 00:22:40,068
+I am Amenadiel.
+
+612
+00:22:40,277 --> 00:22:41,361
+The fury
+
+613
+00:22:41,570 --> 00:22:42,779
+and the righteousness
+of our father.
+
+614
+00:22:42,988 --> 00:22:45,991
+And you, little brother,
+are standing in my way.
+
+615
+00:22:46,408 --> 00:22:48,577
+Okay. You're right.
+
+616
+00:22:49,786 --> 00:22:50,746
+I'm sorry.
+
+617
+00:22:52,956 --> 00:22:54,041
+I'll return home.
+
+618
+00:22:58,420 --> 00:23:01,048
+You know what?
+Something's bothering me.
+
+619
+00:23:02,841 --> 00:23:04,176
+I knew it.
+
+620
+00:23:04,676 --> 00:23:06,178
+"Fury of God"
+
+621
+00:23:06,553 --> 00:23:08,180
+doesn't usually talk so much.
+
+622
+00:23:08,388 --> 00:23:09,556
+More a man of action.
+
+623
+00:23:10,349 --> 00:23:13,060
+Amenadiel, at full strength,
+I could never beat this easily.
+
+624
+00:23:13,268 --> 00:23:14,561
+Something's happened to you.
+
+625
+00:23:16,480 --> 00:23:18,899
+- (grunts)
+- I saw this coming,
+you know.
+
+626
+00:23:19,232 --> 00:23:20,067
+I mean, not this exactly,
+
+627
+00:23:20,275 --> 00:23:22,110
+because patterns
+are never that precise,
+
+628
+00:23:22,319 --> 00:23:23,320
+but your pride
+
+629
+00:23:24,029 --> 00:23:25,614
+was always gonna
+be your undoing.
+
+630
+00:23:25,822 --> 00:23:27,407
+After all, the
+bigger they are...
+
+631
+00:23:28,700 --> 00:23:31,745
+Well, I think even you
+can guess what comes next.
+
+632
+00:23:37,376 --> 00:23:39,252
+I'm glad you came
+instead of Lucifer.
+
+633
+00:23:41,088 --> 00:23:43,048
+And I've waited so long
+for this.
+
+634
+00:23:43,548 --> 00:23:45,175
+Forgive me if I enjoy it.
+
+635
+00:23:45,384 --> 00:23:46,510
+♪♪
+
+636
+00:23:51,264 --> 00:23:53,892
+- CHLOE: So did Kimo's alibi check out?
+- DAN: Uh, yeah.
+
+637
+00:23:54,101 --> 00:23:56,228
+Yeah. According to the owner
+of the comic book store,
+
+638
+00:23:56,436 --> 00:23:57,896
+Kimo was there all morning,
+signing merchandise.
+
+639
+00:23:58,522 --> 00:24:00,982
+So you had to confiscate all
+these toys just to tell me that?
+
+640
+00:24:01,191 --> 00:24:03,860
+Uh, yeah. Yeah,
+it's a visual aid.
+
+641
+00:24:04,069 --> 00:24:06,405
+- CHLOE: Right.
+- DAN: Look, those dolls, they're
+selling like hotcakes.
+
+642
+00:24:06,613 --> 00:24:08,240
+The owner said that
+ever since <i>Body Bags</i> started
+
+643
+00:24:08,448 --> 00:24:10,075
+streaming on Netflix,
+he can't keep them in stock.
+
+644
+00:24:10,283 --> 00:24:12,035
+And that relates
+to the murder how?
+
+645
+00:24:12,744 --> 00:24:14,037
+Well, at the scene,
+
+646
+00:24:14,454 --> 00:24:16,665
+Wesley was going over all
+of his old <i>Body Bags 4</i> stuff.
+
+647
+00:24:16,873 --> 00:24:18,500
+- Mm-hmm.
+- Including his old contract,
+
+648
+00:24:18,875 --> 00:24:20,168
+says he's entitled
+to one percent
+
+649
+00:24:20,377 --> 00:24:22,254
+of all merchandising
+revenue. It's not much.
+
+650
+00:24:22,462 --> 00:24:24,923
+- So I had the studio send over
+a copy of <i>their</i> contract.
+- Mm-hmm.
+
+651
+00:24:25,132 --> 00:24:25,966
+Look at that.
+
+652
+00:24:26,174 --> 00:24:27,968
+Says Wesley should be
+getting ten percent.
+
+653
+00:24:28,343 --> 00:24:30,429
+Yeah. I also took a look at
+Kimo Van Zandt's contract.
+
+654
+00:24:30,637 --> 00:24:31,763
+Same thing happened to him.
+
+655
+00:24:32,264 --> 00:24:34,599
+Kimo and Wesley shared
+everything. Wives, agents...
+
+656
+00:24:34,808 --> 00:24:35,851
+business managers.
+
+657
+00:24:36,309 --> 00:24:37,352
+- Ryan Goldburg.
+- Ryan Goldburg.
+
+658
+00:24:37,894 --> 00:24:39,646
+Wesley figured out Ryan's
+scam, confronted him,
+
+659
+00:24:39,855 --> 00:24:41,398
+and then Ryan killed him
+to keep him quiet.
+
+660
+00:24:41,606 --> 00:24:42,774
+Yeah. But how did
+he get Kimo's prints
+
+661
+00:24:42,983 --> 00:24:44,776
+on the murder weapon so
+that he could frame him?
+
+662
+00:24:44,985 --> 00:24:45,944
+I'm gonna ask him.
+
+663
+00:24:46,153 --> 00:24:47,028
+All right. You coming?
+
+664
+00:24:47,237 --> 00:24:48,488
+No, no. You got this covered.
+
+665
+00:24:48,697 --> 00:24:50,282
+What? You've been
+attached to me all day
+
+666
+00:24:50,490 --> 00:24:52,325
+and now that we may have
+figured out who killed Wesley,
+
+667
+00:24:52,534 --> 00:24:54,786
+- you're just leaving?
+- Yes. Well, by now, the threat
+to you should've passed.
+
+668
+00:24:54,995 --> 00:24:57,080
+But just in case, I've some
+family business to attend to.
+
+669
+00:24:57,289 --> 00:24:58,081
+All right?
+
+670
+00:24:59,124 --> 00:25:00,125
+Fine. I'll go alone.
+
+671
+00:25:03,670 --> 00:25:06,173
+It's like, get a
+room already, right?
+
+672
+00:25:07,299 --> 00:25:08,008
+What?
+
+673
+00:25:09,509 --> 00:25:10,135
+Too soon?
+
+674
+00:25:11,094 --> 00:25:11,970
+Sorry.
+
+675
+00:25:12,762 --> 00:25:15,474
+So, um... how-how's
+the... the case going?
+
+676
+00:25:15,891 --> 00:25:16,641
+It's fine.
+
+677
+00:25:16,850 --> 00:25:18,477
+Yeah, it looks like
+the money manager did it.
+
+678
+00:25:18,810 --> 00:25:20,479
+Tried to frame Kimo Van Zandt.
+
+679
+00:25:21,104 --> 00:25:22,022
+Don't know how yet.
+
+680
+00:25:22,230 --> 00:25:25,317
+Man, killed by your
+own weird award.
+
+681
+00:25:25,775 --> 00:25:26,943
+That's gotta suck.
+
+682
+00:25:27,152 --> 00:25:28,945
+It was actually...
+(chuckles)
+
+683
+00:25:29,154 --> 00:25:31,323
+It was really, really touching
+when they got it.
+
+684
+00:25:33,158 --> 00:25:34,409
+When <i>they</i> got it.
+
+685
+00:25:36,369 --> 00:25:37,579
+<i>There were two awards.</i>
+
+686
+00:25:37,787 --> 00:25:39,247
+Thanks. What are
+you talking about?
+
+687
+00:25:39,456 --> 00:25:41,625
+There were two awards,
+because a fight takes two people.
+
+688
+00:25:41,833 --> 00:25:43,043
+One of the awards
+was given to Wesley...
+
+689
+00:25:43,251 --> 00:25:44,711
+- And one to Kimo.
+- Someone must've
+
+690
+00:25:44,920 --> 00:25:46,004
+switched out his
+award for Wesley's.
+
+691
+00:25:46,213 --> 00:25:47,297
+That's why Kimo's
+prints were on it.
+
+692
+00:25:47,506 --> 00:25:48,798
+Jamie Lee Adrienne
+was at the dojo.
+
+693
+00:25:49,007 --> 00:25:50,383
+Maybe she had access
+to Kimo's award.
+
+694
+00:25:50,592 --> 00:25:51,676
+Maybe she's working with Ryan.
+
+695
+00:25:51,885 --> 00:25:52,969
+- Okay, you find Jamie,
+- (elevator bell dings)
+
+696
+00:25:53,178 --> 00:25:54,304
+I'll get the business manager.
+His office said
+
+697
+00:25:54,513 --> 00:25:56,223
+he's having lunch at
+the Ignacia Hotel.
+
+698
+00:25:59,267 --> 00:26:01,853
+Ah! Right, let me just
+make myself comfy
+
+699
+00:26:02,062 --> 00:26:04,022
+because I cannot wait
+
+700
+00:26:04,564 --> 00:26:06,691
+to hear how you sent
+Urinal packing.
+
+701
+00:26:06,900 --> 00:26:09,528
+(chuckles)
+And please do not skimp on any
+
+702
+00:26:10,028 --> 00:26:11,321
+of the gory details.
+
+703
+00:26:14,533 --> 00:26:16,034
+MAZE: This would
+never have happened
+
+704
+00:26:16,243 --> 00:26:18,161
+if you'd listened
+to me earlier.
+
+705
+00:26:20,830 --> 00:26:24,000
+(scoffs)
+How is this possible, brother?
+
+706
+00:26:27,379 --> 00:26:29,172
+I no longer have my powers.
+
+707
+00:26:29,965 --> 00:26:33,051
+- Well, what happened to them?
+- Oh, I don't know, Luci, pick a sin.
+
+708
+00:26:33,510 --> 00:26:35,595
+Is it because I released
+a damned soul from Hell?
+
+709
+00:26:35,804 --> 00:26:38,223
+Slept with a demon? Is it
+because I'm working with you?
+
+710
+00:26:38,765 --> 00:26:40,100
+Or because of Mom?
+
+711
+00:26:42,811 --> 00:26:45,188
+Or am I simply no longer worthy?
+
+712
+00:26:46,648 --> 00:26:47,899
+(sniffles)
+
+713
+00:26:49,109 --> 00:26:50,944
+It's time that I faced
+the truth, brother.
+
+714
+00:26:53,613 --> 00:26:55,699
+I've fallen.
+
+715
+00:27:01,037 --> 00:27:01,955
+Well.
+
+716
+00:27:02,664 --> 00:27:04,541
+Welcome to the club.
+Meetings are on Tuesdays.
+
+717
+00:27:04,749 --> 00:27:06,293
+It's different
+for me, Luci.
+
+718
+00:27:06,876 --> 00:27:07,836
+It's different.
+
+719
+00:27:08,587 --> 00:27:11,798
+I no longer have my powers.
+My very strength...
+
+720
+00:27:12,007 --> 00:27:13,341
+Big deal!
+
+721
+00:27:13,967 --> 00:27:16,094
+It's probably the best thing
+that ever happened to you.
+
+722
+00:27:16,678 --> 00:27:19,055
+But right now I haven't
+got time to hold your hand,
+
+723
+00:27:19,264 --> 00:27:21,433
+because I need to
+clear up your mess!
+
+724
+00:27:21,933 --> 00:27:24,311
+- My mess?
+- Uriel's still out there.
+
+725
+00:27:24,603 --> 00:27:25,270
+And the clock is up--
+
+726
+00:27:25,478 --> 00:27:27,731
+which means the detective
+is in grave danger.
+
+727
+00:27:34,112 --> 00:27:36,072
+♪ It's a state of mind ♪
+
+728
+00:27:36,281 --> 00:27:37,949
+♪ It's a state of grace ♪
+
+729
+00:27:38,158 --> 00:27:40,118
+♪ Close your eyes ♪
+
+730
+00:27:40,327 --> 00:27:41,745
+♪ Drift away ♪
+
+731
+00:27:41,953 --> 00:27:43,830
+♪ Oh, oh, oh, oh, oh ♪
+
+732
+00:27:44,039 --> 00:27:47,167
+♪ Everybody needs a little ♪
+
+733
+00:27:48,460 --> 00:27:50,045
+♪ California ♪
+
+734
+00:27:50,253 --> 00:27:52,922
+♪ I can be your California ♪
+
+735
+00:27:53,131 --> 00:27:54,341
+(horn honking)
+
+736
+00:27:55,091 --> 00:27:56,134
+Are you serious?
+
+737
+00:27:56,801 --> 00:27:59,971
+What? You wear the orange vest,
+you can do whatever you want?!
+
+738
+00:28:00,180 --> 00:28:01,348
+♪♪
+
+739
+00:28:01,556 --> 00:28:05,143
+♪ You can visit
+but you cannot stay ♪
+
+740
+00:28:05,352 --> 00:28:08,772
+♪ Well, I could be
+your California baby ♪
+
+741
+00:28:08,980 --> 00:28:12,817
+♪ And we could be
+a flawed paradise ♪
+
+742
+00:28:13,026 --> 00:28:16,821
+♪ Nothing perfect
+lasts forever ♪
+
+743
+00:28:17,030 --> 00:28:19,658
+♪ But, baby,
+wouldn't that be nice ♪
+
+744
+00:28:19,866 --> 00:28:20,825
+♪ Ah, ah, ah ♪
+
+745
+00:28:21,034 --> 00:28:21,993
+♪ Ooh ♪
+
+746
+00:28:22,202 --> 00:28:23,912
+♪ Ooh, ooh ♪
+
+747
+00:28:24,120 --> 00:28:26,081
+♪ Ooh, ooh, ooh, ooh, ooh ♪
+
+748
+00:28:26,289 --> 00:28:27,624
+♪ Ooh, ooh, ooh. ♪
+
+749
+00:28:31,795 --> 00:28:34,631
+- (barking)
+- WOMAN: Stop it!
+Why are you barking now?
+
+750
+00:28:34,839 --> 00:28:36,007
+What is wrong with you?
+
+751
+00:28:36,216 --> 00:28:38,343
+- (continues barking)
+- Oh! I am your mother!
+
+752
+00:28:39,844 --> 00:28:40,720
+Sort of.
+
+753
+00:28:41,346 --> 00:28:42,806
+Did you make one of
+them your pet?
+
+754
+00:28:43,014 --> 00:28:44,516
+I figured out
+the husband,
+
+755
+00:28:44,724 --> 00:28:46,017
+then it was the job,
+
+756
+00:28:46,226 --> 00:28:47,811
+now it's the children.
+
+757
+00:28:48,019 --> 00:28:49,813
+(exhales): This is supposed
+to be a time out
+
+758
+00:28:50,146 --> 00:28:52,315
+- (barking continues)
+- to teach you a lesson!
+
+759
+00:28:52,524 --> 00:28:54,693
+I don't think that's
+how time outs work.
+
+760
+00:28:54,901 --> 00:28:57,070
+(barking)
+
+761
+00:28:57,278 --> 00:28:58,154
+(deep growl)
+
+762
+00:28:59,447 --> 00:29:00,573
+Mommy, I'm sorry.
+
+763
+00:29:04,244 --> 00:29:06,037
+Maybe you're not
+so bad after all.
+
+764
+00:29:06,538 --> 00:29:07,539
+We need to talk.
+
+765
+00:29:11,167 --> 00:29:14,754
+♪ Baby, please believe me ♪
+
+766
+00:29:14,963 --> 00:29:16,339
+♪ I can't be tempted ♪
+
+767
+00:29:16,548 --> 00:29:19,092
+♪ No more ♪
+
+768
+00:29:19,300 --> 00:29:20,552
+♪ I got it out of ♪
+
+769
+00:29:20,760 --> 00:29:22,595
+- ♪ The system... ♪
+- What?
+
+770
+00:29:24,013 --> 00:29:24,973
+Detective Decker.
+
+771
+00:29:25,515 --> 00:29:26,391
+What are you doing here?
+
+772
+00:29:26,599 --> 00:29:28,226
+I could ask you two
+the same thing.
+
+773
+00:29:28,435 --> 00:29:30,311
+Uh, we're just having
+a business meeting.
+
+774
+00:29:30,520 --> 00:29:31,229
+- Yeah.
+- Mm.
+
+775
+00:29:31,438 --> 00:29:32,814
+You make out
+with all your clients?
+
+776
+00:29:33,606 --> 00:29:34,649
+What's the occasion?
+You celebrating
+
+777
+00:29:34,858 --> 00:29:37,527
+the successful theft of Wesley
+and Kimo's merchandising money?
+
+778
+00:29:38,695 --> 00:29:40,071
+I would never steal
+from my clients.
+
+779
+00:29:40,822 --> 00:29:42,574
+Oh, you are clever, Ryan.
+
+780
+00:29:42,782 --> 00:29:44,826
+- What is she talking
+about, Ryan?
+- What I'm talking about
+
+781
+00:29:45,034 --> 00:29:46,077
+is how Wesley realized
+
+782
+00:29:46,286 --> 00:29:48,455
+his action figures
+were selling like hotcakes,
+
+783
+00:29:49,164 --> 00:29:50,165
+did some investigating,
+
+784
+00:29:50,874 --> 00:29:51,958
+and saw that
+he was getting robbed.
+
+785
+00:29:52,167 --> 00:29:54,043
+- I think you should go.
+- Unfortunately for Wesley,
+
+786
+00:29:54,252 --> 00:29:56,629
+he shared his concerns
+about his business manager
+
+787
+00:29:56,838 --> 00:29:59,048
+with his ex-wife, who happened
+to be sleeping with him.
+
+788
+00:29:59,257 --> 00:30:01,050
+And that voice mail
+that you played for us,
+
+789
+00:30:01,259 --> 00:30:03,303
+that's what started this,
+and that's what got him killed.
+
+790
+00:30:06,389 --> 00:30:08,850
+He did it! He's the one
+who killed Wesley!
+
+791
+00:30:09,058 --> 00:30:10,977
+What?! No, it was her idea!
+
+792
+00:30:11,227 --> 00:30:13,605
+It was her idea to switch out
+the Nunchuck Award, cover it in blood...
+
+793
+00:30:13,813 --> 00:30:14,606
+Don't shoot!
+
+794
+00:30:14,814 --> 00:30:16,316
+KIMO:
+You stole from me,
+
+795
+00:30:16,524 --> 00:30:17,609
+killed Wesley,
+
+796
+00:30:18,610 --> 00:30:20,570
+then you tried
+to frame me for it?!
+
+797
+00:30:21,029 --> 00:30:23,364
+- Kimo...
+- I cared about both of you!
+
+798
+00:30:23,531 --> 00:30:24,991
+(screams)
+No, please!
+
+799
+00:30:25,575 --> 00:30:27,827
+Kimo...
+Put the gun down. Please.
+
+800
+00:30:28,036 --> 00:30:29,579
+They murdered Wesley.
+
+801
+00:30:29,788 --> 00:30:32,624
+And they will pay for that,
+I promise you.
+
+802
+00:30:33,374 --> 00:30:35,794
+But don't let them ruin
+your life, too, Kimo. Please.
+
+803
+00:30:36,169 --> 00:30:38,296
+My life is already ruined.
+Get out of the way.
+
+804
+00:30:38,505 --> 00:30:39,380
+- No.
+- I'll shoot you!
+
+805
+00:30:39,589 --> 00:30:40,632
+I don't care anymore!
+
+806
+00:30:40,840 --> 00:30:41,800
+LUCIFER:
+Kimo!
+
+807
+00:30:42,592 --> 00:30:43,843
+CHLOE: Lucifer,
+stay back.
+
+808
+00:30:44,052 --> 00:30:45,553
+Guys, stand down.
+
+809
+00:30:45,970 --> 00:30:47,305
+Detective, you don't know
+what you're up against.
+
+810
+00:30:47,514 --> 00:30:49,599
+This was engineered
+to put you in harm's way.
+
+811
+00:30:49,808 --> 00:30:51,351
+You must believe me.
+
+812
+00:30:52,018 --> 00:30:52,769
+Lucifer,
+
+813
+00:30:52,977 --> 00:30:55,647
+I know exactly
+what I'm up against.
+
+814
+00:30:56,397 --> 00:30:57,398
+It's just a man...
+
+815
+00:30:58,274 --> 00:30:59,442
+who's in a lot of pain.
+
+816
+00:31:04,531 --> 00:31:06,616
+Kimo, a couple
+days ago
+
+817
+00:31:07,408 --> 00:31:09,410
+I was in a really bad
+car accident.
+
+818
+00:31:10,620 --> 00:31:11,996
+And I've spent the last few days
+
+819
+00:31:12,205 --> 00:31:14,666
+trying to convince everybody
+that cares about me
+
+820
+00:31:14,874 --> 00:31:16,167
+that it wasn't
+a big deal.
+
+821
+00:31:16,751 --> 00:31:17,877
+The truth is...
+
+822
+00:31:18,628 --> 00:31:19,587
+I'm terrified.
+
+823
+00:31:21,506 --> 00:31:23,925
+I'm scared of how
+it can all just end...
+
+824
+00:31:24,133 --> 00:31:25,468
+with no rhyme or reason.
+
+825
+00:31:26,886 --> 00:31:28,012
+And what I want
+to do right now
+
+826
+00:31:28,221 --> 00:31:29,806
+is just go home
+
+827
+00:31:30,014 --> 00:31:32,016
+and read a bedtime story
+to my daughter.
+
+828
+00:31:32,225 --> 00:31:36,145
+But... you know...
+that's not up to me, either.
+
+829
+00:31:36,938 --> 00:31:39,482
+We can't control
+what happens to us,
+
+830
+00:31:39,691 --> 00:31:42,902
+only how it affects us
+and the choices we make.
+
+831
+00:31:44,279 --> 00:31:45,405
+So, please.
+
+832
+00:31:46,781 --> 00:31:48,449
+Make the right choice, Kimo.
+
+833
+00:31:50,118 --> 00:31:51,411
+Please put down the gun.
+
+834
+00:32:00,211 --> 00:32:02,088
+(sirens wailing)
+
+835
+00:32:03,464 --> 00:32:04,382
+(exhales)
+
+836
+00:32:05,049 --> 00:32:06,259
+(whispering):
+Thank you.
+
+837
+00:32:10,096 --> 00:32:11,723
+Well, well done, Detective.
+
+838
+00:32:11,931 --> 00:32:13,516
+Kimo was about to do
+a very bad thing.
+
+839
+00:32:13,975 --> 00:32:15,602
+Oh, well, not on my watch.
+
+840
+00:32:15,810 --> 00:32:18,730
+(chuckles) Very good.
+
+841
+00:32:18,938 --> 00:32:20,690
+Let me escort you back
+to the station.
+
+842
+00:32:20,899 --> 00:32:23,568
+No... I'm-I'm okay.
+
+843
+00:32:24,611 --> 00:32:26,195
+You know, I don't
+believe in fate.
+
+844
+00:32:26,404 --> 00:32:28,031
+And I don't believe in bad luck.
+
+845
+00:32:29,949 --> 00:32:32,660
+And I appreciate your concern,
+but come what may.
+
+846
+00:32:33,578 --> 00:32:35,622
+I am leaving here... alone.
+
+847
+00:32:37,457 --> 00:32:38,333
+Very well.
+
+848
+00:32:39,125 --> 00:32:42,295
+But just... buckle up,
+Detective, please.
+
+849
+00:32:43,338 --> 00:32:43,963
+(sighs)
+
+850
+00:32:44,172 --> 00:32:45,548
+Right. Now, if
+you'll excuse me.
+
+851
+00:32:46,132 --> 00:32:47,634
+There's something
+I need to deal with.
+
+852
+00:32:48,718 --> 00:32:51,054
+♪ Don't you feel ♪
+
+853
+00:32:51,721 --> 00:32:54,307
+♪ How I call your name ♪
+
+854
+00:32:56,434 --> 00:33:00,104
+♪ Calm you with my hand ♪
+
+855
+00:33:00,313 --> 00:33:02,857
+♪ While you're in the shade ♪
+
+856
+00:33:04,317 --> 00:33:06,194
+♪ I can't move. ♪
+
+857
+00:33:06,402 --> 00:33:07,320
+Lucifer.
+
+858
+00:33:08,988 --> 00:33:09,656
+Mum.
+
+859
+00:33:10,031 --> 00:33:12,075
+I'm letting Uriel
+take me back to Hell.
+
+860
+00:33:12,825 --> 00:33:13,493
+(scoffs)
+
+861
+00:33:14,118 --> 00:33:15,787
+Well, there's no need
+to overreact, Mother.
+
+862
+00:33:16,079 --> 00:33:17,121
+MAZE:
+Let her go.
+
+863
+00:33:17,997 --> 00:33:19,207
+It's the right move.
+
+864
+00:33:20,249 --> 00:33:21,542
+Right. Of course.
+
+865
+00:33:21,751 --> 00:33:23,252
+Remind me at some point
+to give you a refresher
+
+866
+00:33:23,461 --> 00:33:24,587
+on the meaning of loyalty.
+
+867
+00:33:24,796 --> 00:33:27,006
+MAZE:
+It's what's best
+for everyone.
+
+868
+00:33:27,590 --> 00:33:30,385
+She goes back to Hell,
+where she belongs;
+
+869
+00:33:30,593 --> 00:33:32,011
+Chloe is safe,
+
+870
+00:33:32,220 --> 00:33:35,181
+and I don't have to clean up
+your mess anymore.
+
+871
+00:33:35,390 --> 00:33:38,893
+More importantly,
+you get to keep your word.
+
+872
+00:33:39,102 --> 00:33:40,895
+I am keeping my word.
+
+873
+00:33:41,104 --> 00:33:42,647
+You're serving out your sentence
+here on Earth.
+
+874
+00:33:42,855 --> 00:33:44,941
+You know that's not
+what your Father wanted.
+
+875
+00:33:45,149 --> 00:33:46,275
+Do I?!
+
+876
+00:33:46,985 --> 00:33:49,070
+Everyone thinks
+they know what He wants.
+
+877
+00:33:49,988 --> 00:33:52,949
+Amenadiel did when he first
+got here, now Uriel does.
+
+878
+00:33:53,157 --> 00:33:55,660
+Human wars have been
+waged because of it.
+
+879
+00:33:57,036 --> 00:33:58,329
+Dad showed me
+
+880
+00:33:58,538 --> 00:33:59,831
+an open door.
+
+881
+00:34:00,039 --> 00:34:01,874
+Does that mean I was meant
+to take you back to Hell
+
+882
+00:34:02,083 --> 00:34:04,335
+or was he insinuating
+that Hell was getting drafty?
+
+883
+00:34:05,044 --> 00:34:06,004
+Nobody bloody knows,
+
+884
+00:34:06,212 --> 00:34:08,506
+because the selfish bastard
+won't just tell us!
+
+885
+00:34:09,340 --> 00:34:10,800
+And I'm sick of it.
+
+886
+00:34:12,510 --> 00:34:13,511
+No more.
+
+887
+00:34:15,304 --> 00:34:16,514
+No more.
+
+888
+00:34:17,056 --> 00:34:18,516
+There's my Lightbringer.
+
+889
+00:34:20,685 --> 00:34:22,061
+My Morningstar.
+
+890
+00:34:25,481 --> 00:34:28,067
+Uriel was so small
+when he was a child.
+
+891
+00:34:28,609 --> 00:34:31,404
+All he ever wanted was to play
+with you and the older kids.
+
+892
+00:34:31,946 --> 00:34:33,072
+But you all excluded him.
+
+893
+00:34:33,281 --> 00:34:33,990
+Yes.
+
+894
+00:34:34,907 --> 00:34:36,367
+And every time he came back,
+
+895
+00:34:37,160 --> 00:34:38,327
+pestering us again.
+
+896
+00:34:38,911 --> 00:34:40,496
+Which is strange,
+
+897
+00:34:40,705 --> 00:34:42,373
+considering he knew
+what the outcome would be.
+
+898
+00:34:42,915 --> 00:34:46,169
+That's how much he wanted
+to be around you, Lucifer.
+
+899
+00:34:47,128 --> 00:34:48,963
+Uriel is a
+stubborn boy.
+
+900
+00:34:49,505 --> 00:34:50,715
+When he sets his mind,
+
+901
+00:34:50,923 --> 00:34:52,341
+it doesn't waver.
+
+902
+00:34:54,052 --> 00:34:55,762
+He's not going to
+give up until he has
+
+903
+00:34:55,970 --> 00:34:57,764
+either me or
+that detective.
+
+904
+00:34:57,972 --> 00:34:58,931
+Mum...
+
+905
+00:34:59,974 --> 00:35:01,726
+I refuse to believe that.
+
+906
+00:35:02,852 --> 00:35:04,771
+There is always another way.
+
+907
+00:35:05,229 --> 00:35:06,773
+If anyone can find it,
+
+908
+00:35:07,940 --> 00:35:09,025
+it's you.
+
+909
+00:35:10,443 --> 00:35:12,278
+♪ 2,000 years I've ♪
+
+910
+00:35:13,738 --> 00:35:15,907
+♪ Been in that water ♪
+
+911
+00:35:17,909 --> 00:35:20,745
+♪ 2,000 years ♪
+
+912
+00:35:20,953 --> 00:35:23,790
+♪ Sunk like a stone ♪
+
+913
+00:35:27,085 --> 00:35:29,128
+♪ Desperately reaching
+for nets ♪
+
+914
+00:35:29,337 --> 00:35:32,006
+♪ That the fishermen
+have thrown ♪
+
+915
+00:35:34,175 --> 00:35:35,760
+♪ I'm trying to find ♪
+
+916
+00:35:35,968 --> 00:35:38,554
+♪ A little bit of hope ♪
+
+917
+00:35:41,808 --> 00:35:43,643
+For a brief moment,
+
+918
+00:35:43,851 --> 00:35:45,353
+the pattern faltered.
+
+919
+00:35:47,688 --> 00:35:49,774
+I thought it meant
+you'd actually bring Mom.
+
+920
+00:35:50,274 --> 00:35:52,568
+That somehow, you'd surprise me.
+'Cause for once in my life,
+
+921
+00:35:52,777 --> 00:35:54,612
+I'd like to be surprised,
+but no.
+
+922
+00:35:55,363 --> 00:35:56,781
+No, here you are.
+
+923
+00:36:02,453 --> 00:36:04,747
+Are you done hiding behind
+our big brother's skirt?
+
+924
+00:36:04,956 --> 00:36:05,581
+(short chuckle)
+
+925
+00:36:07,125 --> 00:36:07,959
+Yes, it's just me now.
+
+926
+00:36:09,127 --> 00:36:10,336
+Big, bad Lucifer.
+
+927
+00:36:15,550 --> 00:36:18,094
+We've already had this fight
+before, Lucifer.
+
+928
+00:36:19,345 --> 00:36:20,138
+Right here.
+
+929
+00:36:21,139 --> 00:36:22,348
+You see, in my head,
+
+930
+00:36:22,723 --> 00:36:24,100
+I've seen everything you do.
+
+931
+00:36:24,809 --> 00:36:26,978
+I've heard every
+dumb quip you have to say.
+
+932
+00:36:27,186 --> 00:36:27,812
+Right, let
+me guess--
+
+933
+00:36:28,020 --> 00:36:29,647
+in your version,
+I deliver Mom to you,
+
+934
+00:36:29,856 --> 00:36:32,775
+apologizing, tears
+streaming down my face.
+
+935
+00:36:32,984 --> 00:36:34,610
+Actually, no.
+In my version,
+
+936
+00:36:34,819 --> 00:36:36,571
+you refuse to give Mom up
+
+937
+00:36:36,863 --> 00:36:38,573
+and your human friend dies.
+
+938
+00:36:38,781 --> 00:36:39,991
+Yes, you've tried that
+twice now.
+
+939
+00:36:40,199 --> 00:36:41,492
+Not much luck.
+
+940
+00:36:41,701 --> 00:36:43,619
+Maybe you're not as good
+at this as you thought.
+
+941
+00:36:43,828 --> 00:36:45,663
+Maybe I'm building up
+to a big finale.
+
+942
+00:36:47,874 --> 00:36:48,583
+All right.
+
+943
+00:36:50,001 --> 00:36:50,793
+Uriel...
+
+944
+00:36:52,044 --> 00:36:54,338
+you don't know what Dad wants.
+
+945
+00:36:54,547 --> 00:36:55,798
+None of us do.
+
+946
+00:36:56,465 --> 00:36:58,134
+- So I think...
+- You're right.
+
+947
+00:36:58,634 --> 00:37:00,970
+I don't know what Dad wants.
+None of us do.
+
+948
+00:37:02,054 --> 00:37:02,930
+Right.
+
+949
+00:37:03,723 --> 00:37:05,641
+Great, well, I'm glad
+we had this talk.
+
+950
+00:37:05,850 --> 00:37:07,643
+I'll see you at the next
+family reunion.
+
+951
+00:37:07,852 --> 00:37:08,978
+I'll buy the first round.
+
+952
+00:37:09,187 --> 00:37:11,022
+But I do know
+what he needs.
+
+953
+00:37:13,316 --> 00:37:14,817
+Mom's out.
+It's only a matter of time
+
+954
+00:37:15,026 --> 00:37:16,694
+before she
+finds her way back to Heaven,
+
+955
+00:37:17,028 --> 00:37:18,154
+and then he'll forgive her.
+
+956
+00:37:18,362 --> 00:37:20,656
+- He would never do that.
+- Why not? You did.
+
+957
+00:37:20,865 --> 00:37:22,825
+She's been here, like,
+what-- three minutes?
+
+958
+00:37:23,034 --> 00:37:24,243
+Now you're already
+defending her.
+
+959
+00:37:24,911 --> 00:37:26,245
+Dad'll do the same thing.
+
+960
+00:37:26,913 --> 00:37:27,997
+He'll let His guard down.
+
+961
+00:37:28,623 --> 00:37:30,124
+And then she'll destroy Him.
+
+962
+00:37:33,377 --> 00:37:35,338
+I need to make sure
+that doesn't happen.
+
+963
+00:37:37,048 --> 00:37:38,257
+That's Azrael's Blade.
+
+964
+00:37:39,467 --> 00:37:40,343
+How do you have it?
+
+965
+00:37:40,551 --> 00:37:41,928
+I borrowed it
+off the Angel of Death
+
+966
+00:37:42,136 --> 00:37:43,471
+when she wasn't looking.
+
+967
+00:37:43,679 --> 00:37:45,848
+You're not planning on
+taking Mom back to Hell.
+
+968
+00:37:46,849 --> 00:37:48,851
+That weapon will wipe her
+out of existence entirely.
+
+969
+00:37:49,060 --> 00:37:50,728
+No Heaven, no Hell, just...
+
+970
+00:37:52,605 --> 00:37:53,648
+just gone.
+
+971
+00:37:53,856 --> 00:37:55,816
+Finally, a moment
+of clarity between us.
+
+972
+00:37:56,025 --> 00:37:58,361
+You've gone completely
+insane, brother.
+
+973
+00:37:58,611 --> 00:38:00,029
+I'm doing what
+has to be done,
+
+974
+00:38:00,238 --> 00:38:01,656
+and you've run out of time.
+
+975
+00:38:02,490 --> 00:38:04,200
+See, I don't care
+about your deal with Dad.
+
+976
+00:38:04,408 --> 00:38:06,577
+I don't care about what happens
+to your little human.
+
+977
+00:38:06,786 --> 00:38:08,371
+But it's obvious
+you care for her
+
+978
+00:38:08,579 --> 00:38:10,873
+a tad more than you do Mom.
+
+979
+00:38:11,749 --> 00:38:13,876
+Now, all I need to do
+
+980
+00:38:14,543 --> 00:38:16,921
+is hit this one
+little key right here.
+
+981
+00:38:17,380 --> 00:38:20,007
+A sequence will begin,
+and two days from now...
+
+982
+00:38:20,716 --> 00:38:22,718
+your cute little human
+will finally die.
+
+983
+00:38:24,387 --> 00:38:26,430
+So, Lucifer,
+
+984
+00:38:26,973 --> 00:38:28,891
+you can either let that happen
+
+985
+00:38:29,475 --> 00:38:30,768
+or you can give me Mom.
+
+986
+00:38:32,228 --> 00:38:33,354
+Last chance.
+
+987
+00:38:34,981 --> 00:38:36,065
+You choose.
+
+988
+00:38:39,068 --> 00:38:40,027
+Very well.
+
+989
+00:38:44,407 --> 00:38:46,117
+Well, you didn't see
+<i>that</i> coming, did you?
+
+990
+00:38:46,867 --> 00:38:47,493
+Eh?
+
+991
+00:38:50,079 --> 00:38:52,373
+Actually, I did
+see it coming.
+
+992
+00:38:52,581 --> 00:38:54,417
+(grunting)
+
+993
+00:38:58,879 --> 00:39:00,756
+I mean, I knew
+you were gonna attack.
+
+994
+00:39:01,549 --> 00:39:02,591
+I just wasn't sure how.
+
+995
+00:39:10,016 --> 00:39:11,434
+Patterns are tricky like that.
+
+996
+00:39:12,018 --> 00:39:13,644
+Takes time to get
+a real sense of them.
+
+997
+00:39:16,230 --> 00:39:17,732
+I needed to study you a bit.
+
+998
+00:39:21,110 --> 00:39:22,570
+Took much less time
+than I expected.
+
+999
+00:39:22,778 --> 00:39:24,155
+Aah!
+
+1000
+00:39:45,343 --> 00:39:48,471
+You're lucky I'd never use
+Azrael's Blade on you, brother.
+
+1001
+00:39:53,142 --> 00:39:54,602
+Why don't you pick on a girl?
+
+1002
+00:39:55,394 --> 00:39:56,771
+But I have no qualms
+
+1003
+00:39:56,979 --> 00:39:59,815
+about using it on a filthy,
+scum-sucking demon.
+
+1004
+00:40:17,458 --> 00:40:19,418
+You haven't
+disappointed, Mazikeen.
+
+1005
+00:40:20,252 --> 00:40:21,462
+Your patterns
+were tough to see.
+
+1006
+00:40:25,591 --> 00:40:26,467
+Aah!
+
+1007
+00:40:29,678 --> 00:40:32,223
+But still predictable
+nonetheless.
+
+1008
+00:40:44,819 --> 00:40:46,570
+Because you made it
+so difficult,
+
+1009
+00:40:47,238 --> 00:40:50,533
+now I'm gonna take out Mom
+<i>and</i> the detective.
+
+1010
+00:40:51,867 --> 00:40:53,035
+You can't stop me, brother.
+
+1011
+00:40:59,708 --> 00:41:01,377
+I didn't see that coming.
+
+1012
+00:41:06,090 --> 00:41:07,967
+(whispers)
+
+1013
+00:41:15,516 --> 00:41:16,600
+What did he say?
+
+1014
+00:41:18,727 --> 00:41:21,313
+I... I couldn't understand.
+
+1015
+00:41:22,189 --> 00:41:23,858
+Prick got what
+he deserved.
+
+1016
+00:41:29,655 --> 00:41:30,906
+He was my brother.
+
+1017
+00:41:39,123 --> 00:41:41,584
+♪ When, when, when ♪
+
+1018
+00:41:41,792 --> 00:41:44,462
+♪ Will we meet ♪
+
+1019
+00:41:46,255 --> 00:41:48,591
+♪ When I'm outside the station ♪
+
+1020
+00:41:48,799 --> 00:41:50,593
+CHLOE:
+<i>"As the first stars came out,</i>
+
+1021
+00:41:50,801 --> 00:41:53,179
+"Coraline finally allowed
+herself to drift into sleep.
+
+1022
+00:41:53,387 --> 00:41:55,931
+"while the gentle upstairs
+music of the mouse circus
+
+1023
+00:41:56,140 --> 00:41:58,267
+"spilled out onto
+the warm evening air,
+
+1024
+00:41:59,143 --> 00:42:02,313
+telling the world that
+the summer was almost done."
+
+1025
+00:42:04,023 --> 00:42:05,149
+Read it again.
+
+1026
+00:42:05,524 --> 00:42:06,942
+You want me to read it again?
+
+1027
+00:42:07,902 --> 00:42:09,111
+Okay, baby.
+
+1028
+00:42:10,613 --> 00:42:11,780
+"Coraline discovered the door
+
+1029
+00:42:11,989 --> 00:42:14,116
+"a little while after they
+moved into the house...
+
+1030
+00:42:14,325 --> 00:42:16,160
+♪ Will I run ♪
+
+1031
+00:42:23,918 --> 00:42:24,919
+What happened?
+
+1032
+00:42:25,127 --> 00:42:27,963
+♪ The branches from the tree ♪
+
+1033
+00:42:30,508 --> 00:42:33,469
+♪ For me, for me ♪
+
+1034
+00:42:34,637 --> 00:42:35,971
+♪ For me ♪
+
+1035
+00:42:36,639 --> 00:42:38,098
+Where's Uriel?
+
+1036
+00:42:38,766 --> 00:42:41,143
+♪ The old life is over ♪
+
+1037
+00:42:44,980 --> 00:42:46,982
+Oh...
+
+1038
+00:42:47,191 --> 00:42:48,692
+(gasps)
+
+1039
+00:42:50,277 --> 00:42:51,654
+What have I done?
+
+1040
+00:42:53,572 --> 00:42:54,865
+No... No, no, no.
+
+1041
+00:42:55,074 --> 00:42:57,826
+♪ When, when, when ♪
+
+1042
+00:42:58,118 --> 00:43:00,079
+♪ Will we meet ♪
+
+1043
+00:43:02,498 --> 00:43:05,376
+♪ Will you turn round
+and face me ♪
+
+1044
+00:43:06,835 --> 00:43:08,963
+♪ The old life is over ♪
+
+1045
+00:43:14,760 --> 00:43:17,012
+♪ The old life is over. ♪
+

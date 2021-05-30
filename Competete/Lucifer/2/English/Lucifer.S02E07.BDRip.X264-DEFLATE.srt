@@ -1,0 +1,4549 @@
+﻿1
+00:00:01,002 --> 00:00:02,587
+<i>Previously on</i> Lucifer...
+
+2
+00:00:02,796 --> 00:00:03,421
+Seriously. Tell me,
+
+3
+00:00:03,630 --> 00:00:05,256
+- what do you actually want?
+- My father was a cop.
+
+4
+00:00:05,465 --> 00:00:07,634
+He was a great cop.
+I really do want to help people.
+
+5
+00:00:07,842 --> 00:00:09,427
+She starred
+in <i>Hot Tub High School.</i>
+
+6
+00:00:09,636 --> 00:00:11,846
+And two weeks later,
+her father died.
+
+7
+00:00:12,055 --> 00:00:12,847
+DAN:
+<i>You were right before.</i>
+
+8
+00:00:13,056 --> 00:00:14,683
+We've been living in
+the past for too long.
+
+9
+00:00:14,891 --> 00:00:16,142
+It's time we get a divorce.
+
+10
+00:00:16,476 --> 00:00:17,227
+MAZE:
+<i>I need to figure out</i>
+
+11
+00:00:17,435 --> 00:00:18,561
+where I fit in in this world.
+
+12
+00:00:18,770 --> 00:00:20,188
+So, we're still good
+to be roomies, right?
+
+13
+00:00:20,522 --> 00:00:21,147
+LINDA:
+<i>I need you</i>
+
+14
+00:00:21,356 --> 00:00:22,357
+to be honest with me
+
+15
+00:00:22,607 --> 00:00:23,900
+about who you are.
+
+16
+00:00:24,109 --> 00:00:25,026
+No more lies.
+
+17
+00:00:25,235 --> 00:00:26,027
+LUCIFER:
+Very well.
+
+18
+00:00:37,080 --> 00:00:38,748
+♪ Wake up, kids ♪
+
+19
+00:00:38,957 --> 00:00:41,209
+♪ We've got
+the dreamer's disease ♪
+
+20
+00:00:41,418 --> 00:00:43,003
+♪ Age 14 ♪
+
+21
+00:00:43,211 --> 00:00:44,462
+♪ We got you down
+on your knees... ♪
+
+22
+00:00:44,629 --> 00:00:46,339
+MAN:
+Sloths move faster, Petey.
+
+23
+00:00:46,589 --> 00:00:47,340
+Snails.
+
+24
+00:00:47,507 --> 00:00:48,717
+The humble tortoise.
+
+25
+00:00:48,925 --> 00:00:50,343
+You can't rush perfection.
+
+26
+00:00:50,552 --> 00:00:51,803
+This is true.
+
+27
+00:00:52,387 --> 00:00:53,013
+Hawaiian bread.
+
+28
+00:00:53,221 --> 00:00:53,972
+Just the way you like it.
+
+29
+00:00:55,223 --> 00:00:56,099
+Thanks, Petey.
+
+30
+00:00:56,307 --> 00:00:57,809
+No, thank you, Officer Decker.
+
+31
+00:00:59,519 --> 00:01:00,270
+Before I forget...
+
+32
+00:01:00,937 --> 00:01:02,105
+for you and Grace.
+
+33
+00:01:04,649 --> 00:01:05,650
+<i>Hot Tub High School?</i>
+
+34
+00:01:05,859 --> 00:01:06,985
+Opens Friday.
+
+35
+00:01:07,444 --> 00:01:08,903
+My little monkey's
+gonna be a star.
+
+36
+00:01:09,237 --> 00:01:10,655
+- We wouldn't miss it.
+- Do me a favor.
+
+37
+00:01:10,864 --> 00:01:12,907
+I hear there's some funny
+business about 15 minutes in...
+
+38
+00:01:13,116 --> 00:01:14,743
+- Oh, you mean that scene where...
+- Yeah, yeah, yeah.
+
+39
+00:01:14,951 --> 00:01:16,411
+Let's not finish that thought.
+
+40
+00:01:17,412 --> 00:01:18,872
+Just tell her
+it was a good movie.
+
+41
+00:01:19,164 --> 00:01:20,206
+Kids these days.
+
+42
+00:01:20,415 --> 00:01:21,124
+Yeah, I know.
+
+43
+00:01:21,708 --> 00:01:24,085
+But, hey... I'm proud of her.
+
+44
+00:01:25,253 --> 00:01:27,505
+♪ Don't let go... ♪
+
+45
+00:01:28,548 --> 00:01:29,758
+You okay, Petey?
+
+46
+00:01:33,553 --> 00:01:34,512
+Hey, listen...
+
+47
+00:01:39,893 --> 00:01:40,894
+ROBBER:
+Hand over the cash.
+
+48
+00:01:41,102 --> 00:01:41,978
+- PETEY: Yes, don't shoot.
+- Come on.
+
+49
+00:01:42,187 --> 00:01:43,480
+- Here, here, here you
+go, don't shoot.
+- Hurry up.
+
+50
+00:01:44,731 --> 00:01:45,356
+Empty the whole thing.
+
+51
+00:01:45,565 --> 00:01:47,400
+Come on, let's
+go, let's go.
+
+52
+00:01:56,034 --> 00:01:58,411
+♪ We are not familiar ♪
+
+53
+00:01:59,662 --> 00:02:02,707
+♪ This permanent white... ♪
+
+54
+00:02:03,208 --> 00:02:04,542
+CHLOE:
+<i>No, Warden, you listen to me.</i>
+
+55
+00:02:04,751 --> 00:02:06,169
+This man killed my father.
+
+56
+00:02:06,377 --> 00:02:08,546
+He cannot be released.
+
+57
+00:02:08,755 --> 00:02:11,925
+♪ They're burning them bright ♪
+
+58
+00:02:12,133 --> 00:02:13,927
+♪ They're burning them
+bright... ♪
+
+59
+00:02:14,135 --> 00:02:16,888
+(exhales)
+
+60
+00:02:17,764 --> 00:02:18,973
+LUCIFER:
+Detective!
+
+61
+00:02:19,182 --> 00:02:20,350
+I have a bone to pick with you.
+
+62
+00:02:20,558 --> 00:02:21,935
+- Not a good time, Lucifer.
+- Agreed.
+
+63
+00:02:22,143 --> 00:02:23,228
+It's a horrible time.
+
+64
+00:02:23,436 --> 00:02:25,730
+Dr. Linda just
+canceled my session.
+
+65
+00:02:25,939 --> 00:02:26,773
+She won't take my calls.
+
+66
+00:02:26,981 --> 00:02:27,982
+I think I...
+
+67
+00:02:28,399 --> 00:02:29,692
+truly scared her off.
+
+68
+00:02:30,151 --> 00:02:31,402
+Something happened
+with your shrink?
+
+69
+00:02:31,611 --> 00:02:32,237
+Yes...
+
+70
+00:02:32,695 --> 00:02:34,030
+and it's all your fault.
+
+71
+00:02:34,239 --> 00:02:36,032
+I mean, you're the one
+who suggested I open up to her.
+
+72
+00:02:36,241 --> 00:02:38,034
+Well, smashing advice,
+Detective.
+
+73
+00:02:38,243 --> 00:02:39,577
+I don't have time
+for this right now.
+
+74
+00:02:39,786 --> 00:02:40,995
+What, do we have a case?
+
+75
+00:02:41,329 --> 00:02:43,414
+- I'm dealing with my own issues.
+- Oh!
+
+76
+00:02:43,623 --> 00:02:44,624
+Even better.
+Let's solve those,
+
+77
+00:02:44,833 --> 00:02:45,875
+- shall we?
+- Lucifer, stop!
+
+78
+00:02:47,544 --> 00:02:49,796
+I'm sorry, but there is no way
+
+79
+00:02:50,004 --> 00:02:51,005
+that you can help me right now.
+
+80
+00:02:51,214 --> 00:02:53,466
+You're just... you're too you.
+
+81
+00:02:54,676 --> 00:02:55,468
+Oh.
+
+82
+00:02:56,678 --> 00:02:58,054
+Yes, you're right, Detective.
+
+83
+00:02:58,763 --> 00:03:00,849
+Being me seems to be a problem,
+doesn't it?
+
+84
+00:03:01,266 --> 00:03:03,143
+Everywhere I go,
+someone gets hurt.
+
+85
+00:03:04,644 --> 00:03:06,646
+Well, clearly, I need to be
+Not-Me instead.
+
+86
+00:03:06,855 --> 00:03:09,440
+Someone... better, more helpful.
+
+87
+00:03:10,024 --> 00:03:11,151
+More boring.
+
+88
+00:03:11,359 --> 00:03:12,110
+DAN:
+Okay...
+
+89
+00:03:12,318 --> 00:03:14,487
+got you a hot,
+soy latte, extra foam.
+
+90
+00:03:15,446 --> 00:03:16,322
+Thank you.
+
+91
+00:03:16,865 --> 00:03:17,824
+You okay, Chloe?
+
+92
+00:03:19,200 --> 00:03:20,535
+Mm-hmm.
+All good.
+
+93
+00:03:21,411 --> 00:03:22,453
+Just on my way out.
+
+94
+00:03:25,206 --> 00:03:26,583
+Something's seriously
+bothering her.
+
+95
+00:03:27,417 --> 00:03:28,168
+Hmm?
+
+96
+00:03:29,252 --> 00:03:31,004
+Oh, I hadn't noticed.
+
+97
+00:03:32,463 --> 00:03:33,715
+But you did.
+
+98
+00:03:39,804 --> 00:03:41,848
+(lock buzzes, latch clicks)
+
+99
+00:03:42,223 --> 00:03:43,308
+CHLOE:
+<i>This isn't right, Warden.</i>
+
+100
+00:03:43,516 --> 00:03:46,352
+Joe Fields is a convicted
+murderer, a cop killer.
+
+101
+00:03:46,561 --> 00:03:48,229
+You're letting him
+off on family leave?
+
+102
+00:03:48,438 --> 00:03:50,148
+Detective,
+I understand how you feel.
+
+103
+00:03:50,356 --> 00:03:54,152
+Oh, respectfully, there is no
+way you understand how I feel.
+
+104
+00:03:54,360 --> 00:03:55,570
+I'm sorry.
+
+105
+00:03:55,987 --> 00:03:57,697
+I know it's your father
+we're talking about, but...
+
+106
+00:03:57,906 --> 00:03:58,823
+this wasn't my call.
+
+107
+00:03:59,532 --> 00:04:00,158
+Fields has been
+
+108
+00:04:00,366 --> 00:04:02,243
+a model prisoner
+for over a decade.
+
+109
+00:04:02,452 --> 00:04:04,621
+He lobbied the Prisoner's
+Rights Board and they said yes.
+
+110
+00:04:04,829 --> 00:04:05,955
+What's he gonna do
+with his leave?
+
+111
+00:04:06,539 --> 00:04:07,582
+Go destroy another family?
+
+112
+00:04:07,790 --> 00:04:09,459
+It's for his granddaughter's
+christening.
+
+113
+00:04:09,667 --> 00:04:11,628
+My dad never got to go to his
+granddaughter's christening.
+
+114
+00:04:11,836 --> 00:04:13,171
+Where is the justice in that?
+
+115
+00:04:13,379 --> 00:04:14,797
+I'm sorry, Detective.
+
+116
+00:04:15,215 --> 00:04:16,299
+I wish there was something
+we could do.
+
+117
+00:04:17,592 --> 00:04:18,635
+(sighs)
+
+118
+00:04:24,724 --> 00:04:26,476
+(lock buzzes, latch clicks)
+
+119
+00:04:26,684 --> 00:04:28,144
+(phone rings)
+
+120
+00:04:28,353 --> 00:04:29,395
+Uh... Decker.
+
+121
+00:04:29,604 --> 00:04:30,647
+LUCIFER:
+Ah, Detective!
+
+122
+00:04:30,855 --> 00:04:33,066
+I think I may have found a way
+to make myself useful.
+
+123
+00:04:33,483 --> 00:04:35,151
+What? It's not a good time,
+Lucifer.
+
+124
+00:04:35,360 --> 00:04:37,654
+What if I told you
+I wasn't Lucifer anymore?
+
+125
+00:04:37,862 --> 00:04:38,488
+What?
+
+126
+00:04:38,696 --> 00:04:39,697
+I've decided to try
+
+127
+00:04:39,906 --> 00:04:41,950
+and walk a mile
+in another man's shoes.
+
+128
+00:04:42,283 --> 00:04:44,035
+See the world from
+a different perspective.
+
+129
+00:04:44,786 --> 00:04:45,411
+I'm going to learn
+
+130
+00:04:45,620 --> 00:04:46,955
+how to Douche.
+
+131
+00:04:47,163 --> 00:04:49,207
+I... may have to
+rephrase that one.
+
+132
+00:04:49,415 --> 00:04:51,251
+But do I have your permission
+to follow Daniel and...
+
+133
+00:04:51,417 --> 00:04:52,252
+Yeah, do whatever.
+
+134
+00:04:52,460 --> 00:04:53,419
+I got to go.
+
+135
+00:04:56,214 --> 00:04:57,257
+Hello?
+
+136
+00:05:00,301 --> 00:05:01,135
+I'll take that as a yes.
+
+137
+00:05:01,344 --> 00:05:02,971
+DAN: Yeah, I'm just
+following up on...
+
+138
+00:05:07,475 --> 00:05:08,268
+Uh, yeah.
+
+139
+00:05:21,572 --> 00:05:24,450
+♪♪
+
+140
+00:05:40,800 --> 00:05:41,759
+Joe Fields.
+
+141
+00:05:42,510 --> 00:05:43,469
+Come out.
+
+142
+00:05:44,137 --> 00:05:46,014
+You're not gonna
+get away with this.
+
+143
+00:05:49,517 --> 00:05:51,853
+Joe Fields...
+
+144
+00:05:59,986 --> 00:06:01,904
+♪♪
+
+145
+00:06:12,415 --> 00:06:13,124
+I still don't get it, man.
+
+146
+00:06:13,374 --> 00:06:14,917
+Why the hell are you following
+me around all of a sudden?
+
+147
+00:06:15,126 --> 00:06:15,752
+Because I want to learn
+
+148
+00:06:15,960 --> 00:06:17,462
+what it's like
+to be you, Daniel.
+
+149
+00:06:17,670 --> 00:06:19,464
+- Your approach
+to life intrigues me.
+- (laughs dryly)
+
+150
+00:06:19,672 --> 00:06:21,090
+This from the guy who punched me
+in the face?
+
+151
+00:06:21,299 --> 00:06:22,425
+That was last week.
+
+152
+00:06:22,633 --> 00:06:24,344
+Anyway, the detective
+already agreed to it.
+
+153
+00:06:24,510 --> 00:06:26,471
+You're the department bottom,
+so you have to do as she says.
+
+154
+00:06:26,679 --> 00:06:27,722
+What's this really about?
+
+155
+00:06:28,181 --> 00:06:28,806
+(sighs)
+
+156
+00:06:29,015 --> 00:06:30,558
+Look, people like you.
+
+157
+00:06:30,767 --> 00:06:33,811
+They find you helpful, like duct
+tape or a trusty socket wrench.
+
+158
+00:06:34,270 --> 00:06:36,147
+I want you to teach
+me your secret.
+
+159
+00:06:36,356 --> 00:06:38,066
+I want you to show me
+how to be a tool.
+
+160
+00:06:39,817 --> 00:06:40,860
+You should stay out of the way.
+
+161
+00:06:41,611 --> 00:06:42,320
+Follow my lead.
+
+162
+00:06:42,528 --> 00:06:43,946
+I call all the shots,
+you understand?
+
+163
+00:06:44,155 --> 00:06:46,407
+This feels like something that
+you would agree to, so yes.
+
+164
+00:06:49,744 --> 00:06:50,870
+What do we got?
+
+165
+00:06:51,079 --> 00:06:53,247
+Three gunshot victims,
+shot execution style.
+
+166
+00:06:53,456 --> 00:06:54,707
+The van driver
+got a single bullet
+
+167
+00:06:54,874 --> 00:06:57,043
+to the neck,
+guard got one to the head.
+
+168
+00:06:57,251 --> 00:06:59,670
+The prisoner got a double tap
+to the chest.
+
+169
+00:06:59,879 --> 00:07:01,631
+Prisoner's name is Joe Fields.
+
+170
+00:07:01,839 --> 00:07:02,799
+Wait a minute, <i>the</i> Joe Fields?
+
+171
+00:07:03,007 --> 00:07:03,925
+- DAN: As in...
+- CHLOE: Yeah.
+
+172
+00:07:04,467 --> 00:07:05,510
+The guy that killed my father.
+
+173
+00:07:06,511 --> 00:07:07,345
+They targeted him
+
+174
+00:07:07,553 --> 00:07:09,514
+while he was vulnerable.
+This was a hit, Dan.
+
+175
+00:07:10,014 --> 00:07:10,890
+ELLA:
+W-Wait a second.
+
+176
+00:07:11,099 --> 00:07:13,351
+The guy who killed your dad
+was just murdered
+
+177
+00:07:13,559 --> 00:07:14,644
+and you caught the case?
+
+178
+00:07:15,812 --> 00:07:16,479
+Yeah.
+
+179
+00:07:16,979 --> 00:07:18,272
+That is totally messed up.
+
+180
+00:07:18,606 --> 00:07:19,232
+Mm-hmm.
+
+181
+00:07:19,649 --> 00:07:20,274
+Are you okay?
+
+182
+00:07:20,483 --> 00:07:21,984
+- CHLOE: Yeah, I'm fine.
+- LUCIFER: Fine?
+
+183
+00:07:22,151 --> 00:07:23,444
+You should be ecstatic.
+
+184
+00:07:23,694 --> 00:07:25,321
+(laughs): Your father's
+killer just got
+
+185
+00:07:25,530 --> 00:07:26,948
+the ultimate punishment.
+
+186
+00:07:29,659 --> 00:07:30,410
+Who was first
+on the scene?
+
+187
+00:07:30,618 --> 00:07:31,369
+It was me.
+
+188
+00:07:33,371 --> 00:07:34,247
+I made the call.
+
+189
+00:07:37,667 --> 00:07:38,376
+DAN:
+<i>You followed him?</i>
+
+190
+00:07:38,584 --> 00:07:40,086
+Yeah. I know this looks bad.
+
+191
+00:07:40,336 --> 00:07:41,671
+You stalked your
+father's murderer
+
+192
+00:07:41,879 --> 00:07:42,839
+right before
+he was killed.
+
+193
+00:07:43,047 --> 00:07:44,882
+That was a terrible move,
+Detective.
+
+194
+00:07:45,091 --> 00:07:46,259
+It was, right?
+
+195
+00:07:47,969 --> 00:07:48,886
+What were you planning to do,
+Chloe?
+
+196
+00:07:49,470 --> 00:07:50,096
+Crash the christening?
+
+197
+00:07:50,346 --> 00:07:51,431
+I don't know, Dan!
+
+198
+00:07:51,597 --> 00:07:52,557
+I was angry.
+
+199
+00:07:52,765 --> 00:07:53,891
+The guy killed my father.
+
+200
+00:07:54,100 --> 00:07:55,226
+He had the nerve
+
+201
+00:07:55,476 --> 00:07:57,103
+to smile at me.
+Do you have any idea
+
+202
+00:07:57,270 --> 00:07:58,062
+what that feels like?
+
+203
+00:07:58,938 --> 00:07:59,647
+No.
+
+204
+00:08:00,481 --> 00:08:01,107
+No, I don't.
+
+205
+00:08:02,358 --> 00:08:04,110
+But you still shouldn't
+have followed him.
+
+206
+00:08:04,318 --> 00:08:06,446
+No one actually thinks
+that you did this,
+
+207
+00:08:06,654 --> 00:08:07,738
+but you know what
+it looks like, right?
+
+208
+00:08:07,947 --> 00:08:09,490
+Yes, I do.
+
+209
+00:08:09,699 --> 00:08:10,950
+That's why I'm gonna step away
+from the case.
+
+210
+00:08:11,159 --> 00:08:12,910
+It's a massive
+conflict of interest.
+
+211
+00:08:13,119 --> 00:08:14,829
+Don't worry, Chloe.
+I'm gonna stay on this.
+
+212
+00:08:15,037 --> 00:08:16,164
+Yes, Detective Dan and I
+
+213
+00:08:16,372 --> 00:08:18,082
+won't rest until
+we catch the killer.
+
+214
+00:08:18,499 --> 00:08:20,168
+I don't think that it's
+a good idea for Lucifer
+
+215
+00:08:20,376 --> 00:08:21,252
+to be part of this case.
+
+216
+00:08:21,461 --> 00:08:22,545
+I agree.
+
+217
+00:08:22,753 --> 00:08:24,922
+I mean, the last thing this
+case needs is a loose canon.
+
+218
+00:08:25,173 --> 00:08:26,924
+She needs someone like you.
+A reliable,
+
+219
+00:08:27,175 --> 00:08:29,051
+helpful, boring
+detective.
+
+220
+00:08:29,260 --> 00:08:30,595
+Now, the good news is
+that's me as well now.
+
+221
+00:08:30,803 --> 00:08:31,721
+So, the Dans are on the case.
+
+222
+00:08:31,929 --> 00:08:33,389
+Can't you take
+anything seriously, man?
+
+223
+00:08:33,764 --> 00:08:34,599
+I assure you
+
+224
+00:08:34,807 --> 00:08:36,350
+- LUCIFER: I'm taking this
+very seriously.
+- DAN: Oh, really?
+
+225
+00:08:36,559 --> 00:08:37,852
+- DAN: Well, you're doing a great job
+of showing that.
+- CHLOE: Guys.
+
+226
+00:08:39,687 --> 00:08:41,689
+It would mean a lot to me
+if you worked together on this.
+
+227
+00:08:41,981 --> 00:08:43,107
+Hmm.
+
+228
+00:08:43,316 --> 00:08:44,275
+Of course, Chloe.
+
+229
+00:08:44,817 --> 00:08:47,320
+Okay, so...
+whoa,
+
+230
+00:08:47,528 --> 00:08:48,362
+this looks heavy.
+
+231
+00:08:48,863 --> 00:08:51,282
+Like waiting-for-STD-results
+heavy.
+
+232
+00:08:51,491 --> 00:08:52,617
+(whispering):
+I can come back later.
+
+233
+00:08:52,825 --> 00:08:54,243
+Oh, no, it's fine.
+What is it?
+
+234
+00:08:54,452 --> 00:08:56,370
+Okay, so, I went through
+all the prints from the van.
+
+235
+00:08:56,579 --> 00:08:58,414
+Okay? And all of them cleared
+as prison personnel
+
+236
+00:08:58,623 --> 00:09:00,541
+except for an ex-con
+
+237
+00:09:00,875 --> 00:09:01,959
+named Rodney Lam.
+
+238
+00:09:02,210 --> 00:09:03,753
+And get this...
+
+239
+00:09:04,212 --> 00:09:06,422
+he served time
+with Joe Fields.
+
+240
+00:09:07,882 --> 00:09:08,716
+We're on it.
+
+241
+00:09:08,925 --> 00:09:09,717
+We're on it.
+
+242
+00:09:11,177 --> 00:09:11,844
+Nice.
+
+243
+00:09:12,094 --> 00:09:13,471
+You working on a new role?
+
+244
+00:09:13,804 --> 00:09:14,472
+Hmm?
+
+245
+00:09:14,680 --> 00:09:15,681
+(scoffs)
+
+246
+00:09:21,687 --> 00:09:23,523
+You're wearing that
+to an interview?
+
+247
+00:09:23,773 --> 00:09:24,690
+What's the job?
+
+248
+00:09:25,358 --> 00:09:26,108
+Preschool aide.
+
+249
+00:09:26,567 --> 00:09:28,277
+Do you like little kids?
+
+250
+00:09:28,486 --> 00:09:29,779
+(chuckles)
+
+251
+00:09:29,987 --> 00:09:31,989
+I've dealt with filthy,
+screaming humans before.
+
+252
+00:09:32,490 --> 00:09:33,741
+At least these are smaller.
+
+253
+00:09:33,950 --> 00:09:35,618
+I'm not sure this is you.
+
+254
+00:09:35,993 --> 00:09:38,496
+BEATRICE:
+Ms. Perez says we should
+choose jobs we love doing.
+
+255
+00:09:38,704 --> 00:09:39,830
+So, what about you, Maze?
+
+256
+00:09:40,581 --> 00:09:41,541
+What do you love to do?
+
+257
+00:09:44,335 --> 00:09:45,336
+I don't know.
+
+258
+00:09:45,586 --> 00:09:46,379
+Well...
+
+259
+00:09:46,587 --> 00:09:47,672
+just be yourself.
+
+260
+00:09:49,340 --> 00:09:50,716
+Thanks, little human.
+
+261
+00:09:54,345 --> 00:09:55,304
+So good.
+
+262
+00:09:55,555 --> 00:09:57,723
+Well, the secret ingredient
+is the Hawaiian bread.
+
+263
+00:09:57,932 --> 00:10:00,434
+And then you just cut a hole
+in the middle for the egg.
+
+264
+00:10:00,601 --> 00:10:01,978
+Can we have this for every meal?
+
+265
+00:10:02,228 --> 00:10:04,397
+You know, this one used to be
+my favorite, too.
+
+266
+00:10:05,356 --> 00:10:07,400
+Grandpa used to bring me
+this sandwich every Thursday
+
+267
+00:10:07,608 --> 00:10:09,151
+after acting class.
+
+268
+00:10:09,735 --> 00:10:11,696
+Why don't you ever
+talk about Grandpa?
+
+269
+00:10:12,780 --> 00:10:13,781
+Mm...
+
+270
+00:10:15,658 --> 00:10:17,243
+...I guess 'cause I miss him.
+
+271
+00:10:19,662 --> 00:10:21,914
+Do you think he would've
+brought me sandwiches?
+
+272
+00:10:23,124 --> 00:10:24,000
+Mm-hmm.
+
+273
+00:10:24,625 --> 00:10:26,085
+I think he would've loved that,
+monkey.
+
+274
+00:10:27,628 --> 00:10:28,462
+(knocking at door)
+
+275
+00:10:28,671 --> 00:10:30,047
+Come on. It's time
+for your homework.
+
+276
+00:10:34,302 --> 00:10:34,927
+Can I help you?
+
+277
+00:10:35,136 --> 00:10:36,053
+Chloe Decker?
+
+278
+00:10:37,054 --> 00:10:38,931
+You're gonna pay
+for what you've done.
+
+279
+00:10:48,899 --> 00:10:50,776
+Okay, take it easy.
+
+280
+00:10:51,235 --> 00:10:53,613
+My father was a good man.
+
+281
+00:10:54,697 --> 00:10:56,407
+He didn't deserve
+to get gunned down
+
+282
+00:10:56,616 --> 00:10:57,742
+like an animal.
+
+283
+00:10:59,702 --> 00:11:02,913
+All he wanted was
+to meet my daughter.
+
+284
+00:11:03,873 --> 00:11:04,999
+You're Tina Fields.
+
+285
+00:11:05,791 --> 00:11:07,418
+You killed my father.
+
+286
+00:11:07,627 --> 00:11:09,045
+- I didn't...
+- Thought you were
+getting revenge,
+
+287
+00:11:09,712 --> 00:11:11,339
+but you murdered
+an innocent man.
+
+288
+00:11:11,547 --> 00:11:13,049
+Tina, think about
+your baby.
+
+289
+00:11:13,507 --> 00:11:15,593
+If you pull that trigger,
+you'll never hold her again.
+
+290
+00:11:16,010 --> 00:11:17,845
+BEATRICE:
+Mommy? Who's here?
+
+291
+00:11:18,054 --> 00:11:19,847
+It's nothing, honey.
+Stay in your room!
+
+292
+00:11:21,849 --> 00:11:23,225
+I didn't kill
+your father.
+
+293
+00:11:23,434 --> 00:11:24,602
+You have to believe me.
+
+294
+00:11:25,853 --> 00:11:27,730
+Mommy, is everything okay?
+
+295
+00:11:28,064 --> 00:11:30,149
+Yeah, honey.
+Everything's fine, monkey.
+
+296
+00:11:30,358 --> 00:11:31,275
+Go back in your room.
+
+297
+00:11:31,609 --> 00:11:33,277
+Mommy just needs
+to help another mommy.
+
+298
+00:11:33,486 --> 00:11:35,613
+- Okay?
+- Oh, God, I'm sorry.
+
+299
+00:11:35,821 --> 00:11:37,573
+I was just so angry.
+
+300
+00:11:38,240 --> 00:11:39,742
+I never wanted
+to believe
+
+301
+00:11:39,950 --> 00:11:41,410
+my dad killed a cop.
+
+302
+00:11:42,703 --> 00:11:44,830
+And then today,
+when I got the video...
+
+303
+00:11:45,081 --> 00:11:45,790
+What video?
+
+304
+00:11:46,457 --> 00:11:48,459
+His lawyers sent this to me.
+
+305
+00:11:49,001 --> 00:11:51,587
+Said I was to receive it
+upon the event of his death.
+
+306
+00:12:06,560 --> 00:12:07,186
+Ah.
+
+307
+00:12:07,395 --> 00:12:08,187
+Sorry, not sorry.
+
+308
+00:12:08,396 --> 00:12:09,689
+I had to stop
+for a costume change.
+
+309
+00:12:10,481 --> 00:12:11,899
+- DAN: Nice jacket.
+- LUCIFER: Thank you.
+
+310
+00:12:13,025 --> 00:12:14,276
+Oh, man,
+what the hell?
+
+311
+00:12:14,902 --> 00:12:16,570
+Are you here to work, or
+are you here to play games?
+
+312
+00:12:16,904 --> 00:12:18,948
+I'll have you know
+I take the School of Dan
+
+313
+00:12:19,156 --> 00:12:20,908
+quite seriously,
+even if it does involve
+
+314
+00:12:21,117 --> 00:12:22,201
+skinny-fit jeans.
+
+315
+00:12:22,868 --> 00:12:24,120
+Any news on our suspect?
+
+316
+00:12:24,954 --> 00:12:25,955
+His name is Rodney Lam.
+
+317
+00:12:26,163 --> 00:12:27,748
+A CI told me that he's
+obsessed with this place.
+
+318
+00:12:27,957 --> 00:12:28,791
+He eats here
+all the time.
+
+319
+00:12:28,999 --> 00:12:30,084
+So if he shows up,
+
+320
+00:12:30,292 --> 00:12:32,002
+let's try to see him
+before he sees us.
+
+321
+00:12:32,670 --> 00:12:33,963
+Oh, I get it now.
+
+322
+00:12:34,338 --> 00:12:36,298
+So your boring attire
+is like camo
+
+323
+00:12:36,507 --> 00:12:37,925
+for the average Joe.
+
+324
+00:12:38,134 --> 00:12:39,677
+Blend in, catch
+the baddie off guard.
+
+325
+00:12:39,885 --> 00:12:41,011
+Afterwards they'll forget
+you're even there.
+
+326
+00:12:41,220 --> 00:12:42,471
+That is very clever,
+Daniel.
+
+327
+00:12:43,723 --> 00:12:45,474
+This guy has a serious
+history of violence.
+
+328
+00:12:45,808 --> 00:12:47,184
+All right?
+He might have a gun.
+
+329
+00:12:47,393 --> 00:12:49,311
+He might take a hostage.
+Who knows what he could do?
+
+330
+00:12:49,520 --> 00:12:51,397
+So he wouldn't, say,
+be openly eating
+
+331
+00:12:51,605 --> 00:12:54,525
+a nacho burrito dog,
+sitting on that car?
+
+332
+00:12:56,569 --> 00:12:57,403
+You watch my six.
+
+333
+00:12:57,570 --> 00:12:58,696
+Absolutely.
+
+334
+00:13:02,450 --> 00:13:03,701
+Rodney Lam. LAPD.
+
+335
+00:13:03,909 --> 00:13:05,369
+No sudden moves.
+You're under arrest.
+
+336
+00:13:05,828 --> 00:13:06,620
+Rodney?
+
+337
+00:13:07,788 --> 00:13:09,957
+Maybe we blend in so well
+he doesn't even see us.
+
+338
+00:13:10,875 --> 00:13:11,876
+Rodney Lam!
+
+339
+00:13:14,420 --> 00:13:15,379
+Good call, Rodney.
+
+340
+00:13:16,422 --> 00:13:17,339
+Nice and easy.
+
+341
+00:13:18,799 --> 00:13:19,633
+Oh.
+
+342
+00:13:19,842 --> 00:13:21,635
+I just wanted
+one last meal.
+
+343
+00:13:22,178 --> 00:13:22,803
+You want a bite?
+
+344
+00:13:23,012 --> 00:13:25,306
+Aah! No, thank you, we're not
+doing carbs, are we?
+
+345
+00:13:29,727 --> 00:13:30,853
+(clears throat)
+
+346
+00:13:34,023 --> 00:13:34,899
+Baby...
+
+347
+00:13:36,901 --> 00:13:38,068
+it's Daddy.
+
+348
+00:13:39,487 --> 00:13:42,364
+If, uh, you're watching this,
+
+349
+00:13:43,783 --> 00:13:44,950
+that means I'm dead.
+
+350
+00:13:45,785 --> 00:13:47,578
+Now, I know it sucks.
+
+351
+00:13:47,953 --> 00:13:49,663
+I don't know if you'll
+get this tomorrow
+
+352
+00:13:50,247 --> 00:13:52,875
+or, uh, 30 years from now,
+
+353
+00:13:53,083 --> 00:13:56,170
+but I want you
+to know the truth.
+
+354
+00:13:58,839 --> 00:14:00,049
+I didn't kill that cop.
+
+355
+00:14:01,884 --> 00:14:03,302
+I'm sorry for...
+
+356
+00:14:04,470 --> 00:14:07,056
+missing all your birthdays
+and graduation--
+
+357
+00:14:07,264 --> 00:14:07,932
+your life.
+
+358
+00:14:08,140 --> 00:14:10,392
+But Daddy wants you
+to know, baby...
+
+359
+00:14:12,812 --> 00:14:13,729
+I love you.
+
+360
+00:14:15,272 --> 00:14:17,316
+See? He's innocent.
+
+361
+00:14:17,525 --> 00:14:19,693
+Tina, I can tell your dad
+loves you very much,
+
+362
+00:14:19,902 --> 00:14:22,238
+but... this video
+doesn't prove anything.
+
+363
+00:14:22,488 --> 00:14:24,573
+His lawyers had this tape
+for 16 years.
+
+364
+00:14:24,782 --> 00:14:26,575
+He made them promise
+to give it to me when he died.
+
+365
+00:14:26,784 --> 00:14:28,035
+That has to mean something.
+
+366
+00:14:29,286 --> 00:14:30,913
+16 years.
+
+367
+00:14:35,167 --> 00:14:37,795
+He recorded this the day
+my father was killed.
+
+368
+00:14:40,005 --> 00:14:40,631
+(camera beeps)
+
+369
+00:14:44,844 --> 00:14:46,428
+CHLOE:
+Three minutes before he died.
+
+370
+00:14:46,637 --> 00:14:47,763
+What part of town is this?
+
+371
+00:14:47,972 --> 00:14:50,182
+It's our old apartment
+in Venice.
+
+372
+00:14:50,641 --> 00:14:53,102
+My father was killed
+across the city in Koreatown.
+
+373
+00:14:53,769 --> 00:14:55,479
+CHLOE: There's no way your
+father could have recorded this
+
+374
+00:14:55,688 --> 00:14:56,730
+and gotten
+to the crime scene in time.
+
+375
+00:14:56,939 --> 00:14:59,441
+So it's true.
+He didn't do it.
+
+376
+00:15:00,651 --> 00:15:02,528
+Which means whoever did
+kill my father
+
+377
+00:15:02,695 --> 00:15:04,280
+got away with this
+and is still out there.
+
+378
+00:15:04,488 --> 00:15:06,949
+(breathes deeply, exhales)
+
+379
+00:15:07,408 --> 00:15:08,492
+RODNEY:
+<i>I did it.</i>
+
+380
+00:15:08,701 --> 00:15:10,077
+I killed Joe Fields.
+
+381
+00:15:10,870 --> 00:15:12,454
+He disrespected me in the yard.
+
+382
+00:15:12,621 --> 00:15:14,957
+So when I heard that he was getting
+some sort of temporary leave,
+
+383
+00:15:15,165 --> 00:15:17,126
+I knew that it was my chance
+to make things right.
+
+384
+00:15:17,334 --> 00:15:19,169
+Well, there you have it.
+
+385
+00:15:19,336 --> 00:15:20,838
+Looks like our
+douching paid off.
+
+386
+00:15:21,046 --> 00:15:22,298
+The detective will
+be pleased.
+
+387
+00:15:22,965 --> 00:15:25,092
+And, you know, you
+make it look so easy.
+
+388
+00:15:26,677 --> 00:15:28,804
+Where did you say you
+stopped that van again?
+
+389
+00:15:29,013 --> 00:15:30,097
+Spring and College.
+
+390
+00:15:30,347 --> 00:15:31,265
+We found it at Hill.
+
+391
+00:15:32,016 --> 00:15:32,766
+That's what I meant.
+
+392
+00:15:32,975 --> 00:15:35,227
+Then you went and you emptied
+the clip into the driver, right?
+
+393
+00:15:35,436 --> 00:15:36,186
+Hell yeah.
+
+394
+00:15:36,395 --> 00:15:37,980
+The driver died from
+a single shot to the neck.
+
+395
+00:15:38,188 --> 00:15:40,566
+Dan One, why are you spoiling
+a perfectly good confession?
+
+396
+00:15:40,900 --> 00:15:42,192
+You're lying, Rodney.
+
+397
+00:15:43,527 --> 00:15:45,195
+You don't know the facts
+because you didn't do it.
+
+398
+00:15:45,404 --> 00:15:47,740
+Oh, I see what
+you did there.
+
+399
+00:15:47,948 --> 00:15:49,617
+Gosh, that's why
+you're Dan One.
+
+400
+00:15:51,327 --> 00:15:53,412
+Why are you confessing
+to a crime you didn't commit?
+
+401
+00:15:58,959 --> 00:15:59,627
+Where are you going?
+
+402
+00:16:00,002 --> 00:16:02,171
+Well, just slow your
+roll for a second.
+
+403
+00:16:02,379 --> 00:16:03,881
+I think, for the sake
+of the detective,
+
+404
+00:16:04,089 --> 00:16:06,133
+I'm gonna take a time-out
+from my Dansformation.
+
+405
+00:16:06,342 --> 00:16:08,177
+(inhales, exhales
+dramatically)
+
+406
+00:16:09,386 --> 00:16:10,888
+(chuckling):
+Oh, God.
+
+407
+00:16:11,305 --> 00:16:14,266
+Rodney, what do you
+want out of life, hmm?
+
+408
+00:16:18,145 --> 00:16:21,023
+To be a good provider
+and take care of my family.
+
+409
+00:16:21,357 --> 00:16:23,025
+So you confess to a crime
+you didn't commit.
+
+410
+00:16:23,233 --> 00:16:24,860
+That's quite counterintuitive.
+
+411
+00:16:25,277 --> 00:16:26,278
+Unless you got paid
+to do it.
+
+412
+00:16:28,030 --> 00:16:29,531
+You've been locked up
+for most of your life.
+
+413
+00:16:30,699 --> 00:16:31,408
+That's all you know.
+
+414
+00:16:31,992 --> 00:16:33,619
+Now you're free,
+you've got mouths to feed,
+
+415
+00:16:34,036 --> 00:16:34,745
+No way to earn.
+
+416
+00:16:37,498 --> 00:16:39,166
+Out here I'm no one, guys.
+
+417
+00:16:39,375 --> 00:16:40,918
+And if we don't
+arrest you,
+
+418
+00:16:41,585 --> 00:16:42,878
+you don't get
+any money.
+
+419
+00:16:45,172 --> 00:16:46,548
+But if he really wants
+back in the slammer,
+
+420
+00:16:46,757 --> 00:16:49,051
+then false confession's
+a criminal offense, correct?
+
+421
+00:16:49,301 --> 00:16:51,261
+- Definitely an
+obstruction of justice.
+- Mm.
+
+422
+00:16:52,054 --> 00:16:52,930
+Could get you
+a few years.
+
+423
+00:16:53,138 --> 00:16:54,390
+LUCIFER: We could get you
+a narcoleptic lawyer
+
+424
+00:16:54,598 --> 00:16:55,432
+and a merciless judge.
+
+425
+00:16:55,683 --> 00:16:57,101
+Who knows? With
+your prior history,
+
+426
+00:16:57,351 --> 00:16:58,394
+they might throw
+the book at you.
+
+427
+00:16:58,602 --> 00:16:59,395
+Hmm?
+
+428
+00:16:59,770 --> 00:17:00,646
+All right.
+
+429
+00:17:02,815 --> 00:17:03,774
+Here's how it went down.
+
+430
+00:17:04,775 --> 00:17:06,610
+I put word out
+that I needed money,
+
+431
+00:17:07,653 --> 00:17:08,946
+I was desperate.
+
+432
+00:17:09,530 --> 00:17:11,907
+And some people came
+to me with an offer.
+
+433
+00:17:14,660 --> 00:17:15,911
+(banging on door)
+
+434
+00:17:16,203 --> 00:17:17,454
+Linda, you there?
+
+435
+00:17:20,165 --> 00:17:22,084
+I need a character reference.
+
+436
+00:17:26,839 --> 00:17:27,506
+Linda?
+
+437
+00:17:27,715 --> 00:17:29,049
+(doorknob rattles)
+
+438
+00:17:31,885 --> 00:17:33,637
+(footfalls departing)
+
+439
+00:17:39,309 --> 00:17:41,770
+(gasps)
+
+440
+00:17:41,979 --> 00:17:43,022
+Wha...?
+
+441
+00:17:45,274 --> 00:17:46,233
+Can you teleport?
+
+442
+00:17:47,609 --> 00:17:49,194
+(laughs)
+What? No.
+
+443
+00:17:49,778 --> 00:17:50,988
+You left your window open.
+
+444
+00:17:53,449 --> 00:17:54,783
+Hey, are you okay?
+
+445
+00:17:56,326 --> 00:17:57,119
+Wait.
+
+446
+00:17:58,996 --> 00:18:00,080
+You know, don't you?
+
+447
+00:18:02,166 --> 00:18:03,000
+He showed you.
+
+448
+00:18:03,417 --> 00:18:04,752
+I saw his face.
+
+449
+00:18:06,253 --> 00:18:09,214
+Well, you're taking it
+really well, actually.
+
+450
+00:18:12,051 --> 00:18:14,344
+Linda, you're not
+afraid of <i>me,</i> are you?
+
+451
+00:18:14,720 --> 00:18:16,096
+Of course I am.
+
+452
+00:18:17,890 --> 00:18:19,183
+You're a demon.
+
+453
+00:18:24,146 --> 00:18:25,522
+He told me.
+
+454
+00:18:27,274 --> 00:18:29,026
+I thought it was
+a sexual metaphor.
+
+455
+00:18:29,818 --> 00:18:31,070
+Well, you're not wrong there.
+
+456
+00:18:31,987 --> 00:18:33,864
+But you really are one.
+
+457
+00:18:36,992 --> 00:18:37,659
+Aren't you?
+
+458
+00:18:39,119 --> 00:18:41,330
+Yeah... I am.
+
+459
+00:18:44,458 --> 00:18:46,043
+Is that really so bad?
+
+460
+00:18:48,337 --> 00:18:49,797
+Please go.
+
+461
+00:18:53,509 --> 00:18:55,719
+(door creaks)
+
+462
+00:19:12,194 --> 00:19:13,362
+LUCIFER:
+Ah, Detective...
+
+463
+00:19:13,570 --> 00:19:15,280
+CHLOE: Joe Fields
+didn't kill my father.
+
+464
+00:19:15,614 --> 00:19:16,657
+- DAN: Wait, what?
+- CHLOE: He's a fall guy.
+
+465
+00:19:16,907 --> 00:19:18,534
+He made a false confession
+in exchange
+
+466
+00:19:18,742 --> 00:19:20,202
+for regular payments
+to his daughter.
+
+467
+00:19:20,410 --> 00:19:21,787
+All these years
+she didn't touch the money.
+
+468
+00:19:22,204 --> 00:19:23,539
+She probably thought
+it was stolen.
+
+469
+00:19:23,747 --> 00:19:25,374
+I have the account number
+that made the transfers.
+
+470
+00:19:25,582 --> 00:19:27,751
+Well, we just met a chap
+who did the same thing.
+
+471
+00:19:28,418 --> 00:19:29,044
+What?
+
+472
+00:19:29,419 --> 00:19:31,130
+Rodney got paid
+to make a false confession.
+
+473
+00:19:31,547 --> 00:19:32,714
+Money was transferred
+into his wife's account
+
+474
+00:19:32,923 --> 00:19:34,508
+right after we
+arrested him.
+
+475
+00:19:34,967 --> 00:19:37,052
+This is the same account
+that paid Rodney Lam's wife.
+
+476
+00:19:37,261 --> 00:19:38,595
+CHLOE:
+That's no coincidence.
+
+477
+00:19:38,804 --> 00:19:41,098
+So whoever killed Joe Fields
+killed my father...
+
+478
+00:19:42,141 --> 00:19:43,725
+and is still out there.
+
+479
+00:19:44,393 --> 00:19:47,187
+Hey, don't blame yourself.
+
+480
+00:19:47,646 --> 00:19:48,856
+You were just a kid
+back then.
+
+481
+00:19:49,231 --> 00:19:50,357
+Yeah, well, I'm not anymore.
+
+482
+00:19:55,487 --> 00:19:56,822
+(indistinct police
+radio chatter)
+
+483
+00:19:57,406 --> 00:19:58,532
+COP:
+Hey, rookie!
+
+484
+00:19:59,032 --> 00:19:59,867
+You're late!
+
+485
+00:20:00,826 --> 00:20:01,743
+I thought I was early.
+
+486
+00:20:01,952 --> 00:20:03,704
+Your FTO's been looking
+all over for you.
+
+487
+00:20:04,037 --> 00:20:05,289
+What, you want to get
+written up your first day?
+
+488
+00:20:05,497 --> 00:20:06,915
+No, I-I honestly thought...
+
+489
+00:20:07,124 --> 00:20:08,458
+Knock it off, McMillan.
+
+490
+00:20:08,667 --> 00:20:10,127
+Get back to work.
+
+491
+00:20:11,295 --> 00:20:12,087
+You gotta watch out
+for this guy.
+
+492
+00:20:12,296 --> 00:20:14,339
+He gave me hell
+on my first day, too.
+
+493
+00:20:15,299 --> 00:20:16,800
+- Hi.
+- Hi.
+
+494
+00:20:17,134 --> 00:20:18,510
+I'm Dan Espinoza.
+
+495
+00:20:19,011 --> 00:20:20,637
+- Chloe Decker.
+- Nice to meet you.
+
+496
+00:20:21,221 --> 00:20:22,097
+Can I help you
+with those?
+
+497
+00:20:23,056 --> 00:20:23,891
+Sure.
+
+498
+00:20:25,392 --> 00:20:26,685
+Come on, I'll
+show you around.
+
+499
+00:20:27,311 --> 00:20:28,854
+The most important place, first,
+
+500
+00:20:29,062 --> 00:20:29,855
+is the kitchen.
+
+501
+00:20:30,063 --> 00:20:31,815
+We got bagels over here
+if you want them.
+
+502
+00:20:32,357 --> 00:20:33,901
+Interrogation's
+that way...
+
+503
+00:20:34,568 --> 00:20:35,861
+and the lab is thataway.
+
+504
+00:20:39,489 --> 00:20:40,866
+Are you John Decker's
+daughter?
+
+505
+00:20:44,203 --> 00:20:45,245
+I-I'm so sorry.
+
+506
+00:20:45,913 --> 00:20:47,539
+He's kind of
+a legend around here.
+
+507
+00:20:47,789 --> 00:20:48,832
+It was a little
+before my time,
+
+508
+00:20:49,041 --> 00:20:50,500
+but he sounded like
+a great guy.
+
+509
+00:20:51,627 --> 00:20:52,586
+The best.
+
+510
+00:20:55,047 --> 00:20:57,424
+Um... bagel?
+
+511
+00:21:07,559 --> 00:21:08,810
+(blowing faux fanfare)
+
+512
+00:21:09,019 --> 00:21:11,021
+Never fear,
+Luci-Dan is here.
+
+513
+00:21:11,605 --> 00:21:12,356
+Or is it Douche-ifer?
+
+514
+00:21:12,564 --> 00:21:14,066
+Actually, it's got more
+of a ring to it, hasn't it?
+
+515
+00:21:14,983 --> 00:21:16,151
+Why are you two
+dressed the same?
+
+516
+00:21:16,526 --> 00:21:17,527
+Don't ask.
+
+517
+00:21:17,736 --> 00:21:18,737
+The bank account traces back
+
+518
+00:21:18,946 --> 00:21:20,197
+to a bathhouse on Pico.
+
+519
+00:21:20,405 --> 00:21:22,658
+It's a dummy front
+for a Russian syndicate in L.A.
+
+520
+00:21:22,908 --> 00:21:25,577
+So the real killer is somehow
+connected to the Russian mob?
+
+521
+00:21:26,536 --> 00:21:27,162
+We have a suspect.
+
+522
+00:21:27,371 --> 00:21:29,289
+His name is Boris Sokolov.
+Owns the bathhouse.
+
+523
+00:21:29,498 --> 00:21:31,250
+Connects criminals
+but keeps his own hands clean.
+
+524
+00:21:31,458 --> 00:21:33,335
+- DAN: No one has ever been
+able to get to him.
+- LUCIFER: Yet.
+
+525
+00:21:33,669 --> 00:21:35,504
+Detective Dan and I
+won't rest until we get
+
+526
+00:21:35,712 --> 00:21:37,130
+to the bottom of this,
+I promise you.
+
+527
+00:21:41,385 --> 00:21:43,220
+(sighs)
+
+528
+00:21:44,096 --> 00:21:46,765
+(American accent): Wow. Look who
+bought a ticket to the gun show!
+
+529
+00:21:47,015 --> 00:21:48,225
+Divorce becomes you, Detective.
+
+530
+00:21:48,433 --> 00:21:49,476
+I do not sound like that.
+
+531
+00:21:49,685 --> 00:21:50,727
+Of course we do.
+
+532
+00:21:50,936 --> 00:21:52,604
+We sound like two
+totally normal dudes.
+
+533
+00:21:52,854 --> 00:21:54,314
+Will you cut it
+with the "we" stuff?
+
+534
+00:21:54,564 --> 00:21:56,441
+I need you to stop playing
+around and take this seriously.
+
+535
+00:21:56,858 --> 00:21:57,567
+You got it, partner.
+
+536
+00:21:57,776 --> 00:21:58,860
+This is gonna be epic.
+
+537
+00:21:59,069 --> 00:22:00,279
+- Lucifer, I'm not kidding.
+- (sighs)
+
+538
+00:22:00,445 --> 00:22:02,072
+(regular accent):
+Very well.
+
+539
+00:22:02,281 --> 00:22:03,365
+So, what's the plan?
+
+540
+00:22:04,658 --> 00:22:06,076
+Well, you are exactly
+the kind of person
+
+541
+00:22:06,326 --> 00:22:08,370
+that Boris would deal with,
+so I need you to approach him,
+
+542
+00:22:08,578 --> 00:22:09,913
+- and try make a deal with him.
+- All right.
+
+543
+00:22:10,122 --> 00:22:12,291
+Tell him I need a fall guy
+for a murder I'm gonna commit?
+
+544
+00:22:12,499 --> 00:22:13,292
+- Exactly.
+- Hmm.
+
+545
+00:22:13,583 --> 00:22:14,209
+But like I said before,
+
+546
+00:22:14,418 --> 00:22:15,544
+he spooks really easily.
+So, don't go...
+
+547
+00:22:15,752 --> 00:22:16,753
+Boris!
+
+548
+00:22:17,963 --> 00:22:18,755
+Like that.
+
+549
+00:22:21,133 --> 00:22:22,092
+Hello there.
+
+550
+00:22:22,301 --> 00:22:23,885
+Uh, I'd like to talk with you,
+
+551
+00:22:24,344 --> 00:22:25,137
+if I may.
+
+552
+00:22:27,306 --> 00:22:28,140
+I don't know you.
+
+553
+00:22:28,348 --> 00:22:29,057
+You don't.
+
+554
+00:22:29,433 --> 00:22:30,851
+So, let's fix that, shall we?
+
+555
+00:22:31,351 --> 00:22:32,102
+The name's Dan.
+
+556
+00:22:32,311 --> 00:22:33,645
+♪♪
+
+557
+00:22:37,566 --> 00:22:39,359
+- Deputy Warden's here for you.
+- Oh.
+
+558
+00:22:40,360 --> 00:22:41,653
+Joe Fields' personal effects.
+
+559
+00:22:42,779 --> 00:22:43,947
+We usually turn those over
+to the next of kin
+
+560
+00:22:44,156 --> 00:22:46,199
+within 72 hours, but, uh...
+
+561
+00:22:46,616 --> 00:22:47,784
+I thought it might help you,
+Detective.
+
+562
+00:22:47,993 --> 00:22:48,994
+Thank you.
+
+563
+00:22:53,498 --> 00:22:54,916
+This is great.
+Thank you.
+
+564
+00:22:55,792 --> 00:22:57,502
+Well, if there's anything else
+I can do to help,
+
+565
+00:22:57,711 --> 00:22:58,545
+please, let me know.
+
+566
+00:22:58,879 --> 00:22:59,838
+(quietly):
+Thanks.
+
+567
+00:23:08,513 --> 00:23:09,556
+I know.
+
+568
+00:23:10,015 --> 00:23:11,600
+Joe Fields isn't my case.
+
+569
+00:23:12,351 --> 00:23:13,852
+I'll just...
+I'll leave it for Dan.
+
+570
+00:23:14,186 --> 00:23:17,272
+Well, I mean,
+nothing is stopping <i>me</i> from
+
+571
+00:23:17,481 --> 00:23:19,316
+helping out
+with the Joe Fields case,
+
+572
+00:23:19,524 --> 00:23:21,902
+While you tackle
+your dad's, right?
+
+573
+00:23:22,903 --> 00:23:24,154
+I mean, if it's
+the same killer...
+
+574
+00:23:24,654 --> 00:23:25,489
+divide and conquer.
+
+575
+00:23:26,031 --> 00:23:27,074
+You don't have to do that.
+
+576
+00:23:27,407 --> 00:23:28,367
+I kind of already started.
+
+577
+00:23:29,242 --> 00:23:30,952
+Uh, right over here. Thanks.
+
+578
+00:23:34,081 --> 00:23:35,999
+Last six months
+of your dad's paperwork.
+
+579
+00:23:36,208 --> 00:23:39,169
+You know, incident reports,
+booking slips, arrest records.
+
+580
+00:23:39,378 --> 00:23:41,588
+I mean, half of it's on
+microfiche and, like, papyrus,
+
+581
+00:23:41,797 --> 00:23:43,757
+but I don't know, I thought it
+would help, you know,
+
+582
+00:23:43,965 --> 00:23:46,760
+to figure out what your dad was
+working on when he was killed.
+
+583
+00:23:47,260 --> 00:23:48,220
+See?
+
+584
+00:23:48,720 --> 00:23:50,055
+I knew you were a hugger.
+
+585
+00:23:52,808 --> 00:23:54,434
+So. What do you got so far?
+
+586
+00:23:54,643 --> 00:23:56,186
+It was a clever cover-up.
+
+587
+00:23:56,395 --> 00:23:59,731
+But what kind of robber
+would be so well connected?
+
+588
+00:23:59,940 --> 00:24:00,565
+You know?
+
+589
+00:24:00,774 --> 00:24:03,235
+They gave Joe Fields
+everything he needed
+
+590
+00:24:03,443 --> 00:24:04,694
+to pose as my father's killer.
+
+591
+00:24:04,903 --> 00:24:05,862
+I mean, he confessed.
+
+592
+00:24:06,071 --> 00:24:08,198
+And he had the gun
+that was used in the shooting.
+
+593
+00:24:08,407 --> 00:24:10,200
+Ballistics confirmed
+that it was the murder weapon.
+
+594
+00:24:11,284 --> 00:24:12,953
+Well, yeah.
+No wonder it was case closed.
+
+595
+00:24:13,161 --> 00:24:15,455
+Yeah. I-I... These
+prints are un-I.D.'d
+
+596
+00:24:15,664 --> 00:24:16,623
+from the scene,
+
+597
+00:24:16,832 --> 00:24:18,166
+but they could be the killer's.
+
+598
+00:24:18,375 --> 00:24:19,793
+And did they ping anyone
+in the database?
+
+599
+00:24:20,252 --> 00:24:21,211
+No. Dead end.
+
+600
+00:24:22,087 --> 00:24:22,838
+All right.
+
+601
+00:24:23,255 --> 00:24:24,506
+Maybe I can dig a little deeper.
+
+602
+00:24:29,010 --> 00:24:30,303
+So, tell me.
+
+603
+00:24:31,555 --> 00:24:33,098
+Why would I help you two?
+
+604
+00:24:33,348 --> 00:24:34,975
+Because we're just
+two regular fellows
+
+605
+00:24:35,183 --> 00:24:36,351
+who need your help, Boris.
+
+606
+00:24:36,893 --> 00:24:37,769
+I don't believe you.
+
+607
+00:24:38,395 --> 00:24:39,229
+Mr. Sokolov...
+
+608
+00:24:39,479 --> 00:24:41,648
+People call me
+human lie detector
+
+609
+00:24:42,482 --> 00:24:44,151
+because I look
+in my clients' eyes,
+
+610
+00:24:44,359 --> 00:24:46,153
+and I can know
+if they're telling the truth.
+
+611
+00:24:46,403 --> 00:24:48,113
+Well, I respect that, Boris.
+
+612
+00:24:48,697 --> 00:24:50,615
+I have a trick myself,
+that's quite similar, actually.
+
+613
+00:24:50,824 --> 00:24:52,033
+And you're right.
+
+614
+00:24:53,076 --> 00:24:54,161
+We haven't told you
+the whole truth.
+
+615
+00:24:54,369 --> 00:24:56,913
+So, here goes.
+
+616
+00:24:58,832 --> 00:24:59,875
+I want someone dead.
+
+617
+00:25:00,917 --> 00:25:01,585
+Who?
+
+618
+00:25:02,210 --> 00:25:03,587
+Lucifer Morningstar.
+
+619
+00:25:04,796 --> 00:25:08,049
+And what has this person
+done to deserve death?
+
+620
+00:25:08,216 --> 00:25:09,801
+Well, he hurts people.
+
+621
+00:25:10,719 --> 00:25:13,013
+And not just his enemies,
+
+622
+00:25:13,346 --> 00:25:15,140
+those close to him, as well.
+
+623
+00:25:16,516 --> 00:25:18,351
+In fact, I think he hurts
+them most of all.
+
+624
+00:25:21,438 --> 00:25:22,230
+He's right.
+
+625
+00:25:22,439 --> 00:25:25,150
+The guy's violent,
+he's a total loose cannon.
+
+626
+00:25:25,484 --> 00:25:28,153
+Yes. Believe me,
+when I say, Boris,
+
+627
+00:25:28,361 --> 00:25:30,864
+that the world would be
+a better place without him.
+
+628
+00:25:32,657 --> 00:25:34,701
+You both have true hatred
+for this man.
+
+629
+00:25:35,535 --> 00:25:36,661
+Apparently so.
+
+630
+00:25:38,830 --> 00:25:39,789
+Do we have a deal?
+
+631
+00:25:41,625 --> 00:25:42,751
+(sniffs)
+
+632
+00:25:42,959 --> 00:25:43,793
+(grunts)
+
+633
+00:25:48,173 --> 00:25:50,008
+Go and take care
+of this Lucifer person.
+
+634
+00:25:51,551 --> 00:25:52,844
+I'll find you your patsy.
+
+635
+00:25:56,181 --> 00:25:56,932
+Lovely.
+
+636
+00:26:09,778 --> 00:26:11,071
+I hear you won't talk.
+
+637
+00:26:14,533 --> 00:26:15,325
+Okay.
+
+638
+00:26:16,952 --> 00:26:18,995
+We have hard evidence
+linking your bank account
+
+639
+00:26:19,204 --> 00:26:20,163
+to two different murders.
+
+640
+00:26:20,372 --> 00:26:21,540
+What do you have
+to say about that?
+
+641
+00:26:24,000 --> 00:26:25,460
+I heard you're a
+human lie detector,
+
+642
+00:26:25,669 --> 00:26:26,419
+is that true?
+
+643
+00:26:29,047 --> 00:26:29,756
+(clears throat)
+
+644
+00:26:30,924 --> 00:26:32,717
+One of those murders
+was my father.
+
+645
+00:26:33,635 --> 00:26:34,761
+It's why I'm not on the case
+
+646
+00:26:34,970 --> 00:26:37,472
+and it's why I'm not supposed to
+be in this room talking to you.
+
+647
+00:26:38,181 --> 00:26:39,849
+But I'm not a cop
+right now, Boris.
+
+648
+00:26:42,060 --> 00:26:43,228
+I'm a daughter.
+
+649
+00:26:44,396 --> 00:26:46,523
+(inhales)
+And I'm not gonna let this go.
+
+650
+00:26:48,191 --> 00:26:49,859
+So, you point me in
+the right direction...
+
+651
+00:26:50,068 --> 00:26:52,946
+or I swear to God, I'm gonna
+make your life a living hell.
+
+652
+00:26:55,282 --> 00:26:56,199
+I believe you.
+
+653
+00:26:57,242 --> 00:26:58,618
+His name was John Decker.
+
+654
+00:27:02,122 --> 00:27:03,540
+I admit to nothing
+
+655
+00:27:05,000 --> 00:27:06,626
+but I did once hear
+
+656
+00:27:07,335 --> 00:27:08,545
+about a John Decker.
+
+657
+00:27:09,129 --> 00:27:10,547
+And as I recall,
+
+658
+00:27:11,423 --> 00:27:14,259
+he was sniffing somewhere
+he didn't belong.
+
+659
+00:27:14,467 --> 00:27:16,845
+What do you mean?
+My father was a beat cop
+
+660
+00:27:17,053 --> 00:27:18,054
+at a robbery gone wrong.
+
+661
+00:27:35,780 --> 00:27:36,406
+Hey, man.
+
+662
+00:27:37,532 --> 00:27:39,451
+I just want to say
+nice work earlier.
+
+663
+00:27:39,868 --> 00:27:40,910
+- Was it?
+- Yeah.
+
+664
+00:27:41,536 --> 00:27:42,537
+We got Boris.
+
+665
+00:27:43,330 --> 00:27:45,415
+And I don't know how
+you lied to him like that.
+
+666
+00:27:45,624 --> 00:27:46,791
+Well, it's simple.
+I didn't lie.
+
+667
+00:27:47,083 --> 00:27:48,335
+Well...
+(sighs)
+
+668
+00:27:48,543 --> 00:27:50,462
+Well, then you have
+some serious issues, bro.
+
+669
+00:27:50,670 --> 00:27:51,546
+Obviously. I mean,
+
+670
+00:27:51,755 --> 00:27:53,298
+why do you think I'm doing
+all this Dan-ing?
+
+671
+00:27:53,465 --> 00:27:54,549
+(chuckles)
+Yet,
+
+672
+00:27:54,758 --> 00:27:56,217
+you know, I'm still no closer
+
+673
+00:27:56,426 --> 00:27:57,552
+to figuring out your secret.
+
+674
+00:27:57,761 --> 00:27:58,762
+Because I don't have a secret.
+
+675
+00:27:58,970 --> 00:28:00,305
+Well, you must.
+
+676
+00:28:00,513 --> 00:28:02,390
+One that explains how
+you're able to be so...
+
+677
+00:28:02,807 --> 00:28:04,225
+you know, frustratingly you.
+
+678
+00:28:04,434 --> 00:28:05,518
+- You see, man...
+- Hmm?
+
+679
+00:28:05,727 --> 00:28:06,770
+I try to compliment
+you, and...
+
+680
+00:28:06,978 --> 00:28:08,229
+(quietly):
+Hey.
+
+681
+00:28:09,189 --> 00:28:11,149
+I think my father's death
+was a hit.
+
+682
+00:28:11,441 --> 00:28:13,485
+I-It sounds like he stumbled
+onto something huge,
+
+683
+00:28:13,693 --> 00:28:15,070
+and-and someone
+took him out for it.
+
+684
+00:28:15,278 --> 00:28:16,529
+Chloe, do you want me
+to help you with this?
+
+685
+00:28:16,696 --> 00:28:18,990
+No. I-I... I got it
+on this end. But thank you.
+
+686
+00:28:21,284 --> 00:28:22,452
+Well.
+(chuckles)
+
+687
+00:28:22,661 --> 00:28:24,162
+Where to now, Twinsy? Hmm?
+
+688
+00:28:27,832 --> 00:28:29,125
+♪♪
+
+689
+00:28:36,800 --> 00:28:37,967
+- Wow.
+- (sighs)
+
+690
+00:28:38,176 --> 00:28:39,260
+What's the job this time?
+
+691
+00:28:39,469 --> 00:28:40,762
+Topless maids.
+
+692
+00:28:41,221 --> 00:28:42,931
+But apparently, I still
+have to do some cleaning.
+
+693
+00:28:43,139 --> 00:28:43,807
+(scoffs)
+
+694
+00:28:44,015 --> 00:28:45,975
+Screw that.
+
+695
+00:28:46,768 --> 00:28:48,520
+- You okay?
+- No. I just...
+
+696
+00:28:49,437 --> 00:28:51,773
+I can't find the right job.
+
+697
+00:28:53,149 --> 00:28:55,318
+My only friend
+stopped talking to me.
+
+698
+00:28:55,819 --> 00:28:56,653
+"Only"?
+
+699
+00:28:57,362 --> 00:28:58,530
+(soft laughter)
+
+700
+00:28:59,906 --> 00:29:01,574
+What's all of this?
+
+701
+00:29:02,200 --> 00:29:04,119
+My dad's stuff from storage.
+After he died,
+
+702
+00:29:04,327 --> 00:29:06,579
+the department boxed up his desk
+and sent it to us.
+
+703
+00:29:06,913 --> 00:29:07,831
+You find anything?
+
+704
+00:29:08,998 --> 00:29:09,874
+Not yet.
+
+705
+00:29:10,166 --> 00:29:12,961
+One of the cases he assisted on
+got him killed, and I have to
+
+706
+00:29:13,169 --> 00:29:14,796
+figure out which one
+it is, but...
+
+707
+00:29:15,004 --> 00:29:16,715
+It's funny, he always talked
+about how he didn't
+
+708
+00:29:16,923 --> 00:29:18,216
+want to be a detective,
+
+709
+00:29:18,425 --> 00:29:21,177
+how it was too much work,
+and yet... here he was
+
+710
+00:29:21,386 --> 00:29:23,138
+doing all this detective work.
+
+711
+00:29:23,388 --> 00:29:25,056
+Guess the apple doesn't
+fall far from the tree.
+
+712
+00:29:26,266 --> 00:29:27,767
+Hmm.
+
+713
+00:29:28,351 --> 00:29:29,728
+I tried a bunch of stuff, but...
+
+714
+00:29:29,978 --> 00:29:32,355
+after my dad died,
+this just felt right.
+
+715
+00:29:32,939 --> 00:29:33,773
+Yeah, but like...
+
+716
+00:29:33,982 --> 00:29:37,944
+how do you know
+what <i>feels</i> right?
+
+717
+00:29:38,987 --> 00:29:39,654
+Mm...
+
+718
+00:29:40,739 --> 00:29:41,448
+You just know.
+
+719
+00:29:43,241 --> 00:29:45,076
+♪♪
+
+720
+00:29:47,162 --> 00:29:49,539
+♪ You missed by a whisker ♪
+
+721
+00:29:50,790 --> 00:29:52,375
+♪ You won't find me ♪
+
+722
+00:29:54,502 --> 00:29:56,796
+♪ Slippin' through
+your fingers ♪
+
+723
+00:29:57,881 --> 00:30:00,216
+♪ So easily ♪
+
+724
+00:30:01,885 --> 00:30:04,971
+♪ 'Cause I'm the one
+you can't forget ♪
+
+725
+00:30:05,722 --> 00:30:07,891
+♪ The one that's stuck
+inside your head ♪
+
+726
+00:30:08,099 --> 00:30:10,101
+No secret, indeed.
+
+727
+00:30:10,518 --> 00:30:12,729
+So, what's behind
+door number one, Daniel?
+
+728
+00:30:12,937 --> 00:30:14,397
+♪ Catch me if you can. ♪
+
+729
+00:30:14,606 --> 00:30:16,441
+(Dan imitating engine revving)
+
+730
+00:30:20,153 --> 00:30:21,446
+(revving continues)
+
+731
+00:30:21,696 --> 00:30:23,323
+LUCIFER:
+Oh, no, no. Not this.
+
+732
+00:30:25,575 --> 00:30:26,284
+(imitates brake sound)
+
+733
+00:30:26,868 --> 00:30:28,286
+Better a snuff movie,
+
+734
+00:30:28,495 --> 00:30:30,121
+a human centipede,
+
+735
+00:30:30,580 --> 00:30:32,749
+clown porn, but not improv!
+
+736
+00:30:32,957 --> 00:30:34,709
+Hey, thanks
+for picking me up, man.
+
+737
+00:30:35,293 --> 00:30:36,377
+What's your name?
+
+738
+00:30:36,586 --> 00:30:38,463
+(English accent):
+Lucifer... Morningstar.
+
+739
+00:30:39,005 --> 00:30:41,090
+MAN: Wait, I'm hitchhiking
+with the Devil?
+
+740
+00:30:41,299 --> 00:30:42,759
+(audience laughter)
+Oh, yes indeed.
+
+741
+00:30:43,176 --> 00:30:45,386
+MAN: I didn't expect the Devil
+to be driving around L.A.
+
+742
+00:30:45,595 --> 00:30:47,430
+Oh, yes, I live here,
+actually.
+
+743
+00:30:47,639 --> 00:30:49,766
+I do whatever I want.
+
+744
+00:30:49,974 --> 00:30:51,267
+Oh, like what?
+
+745
+00:30:51,476 --> 00:30:53,603
+Drink, mostly.
+And insult people.
+
+746
+00:30:53,812 --> 00:30:54,771
+You ponce.
+
+747
+00:30:54,979 --> 00:30:56,773
+(laughter)
+
+748
+00:30:56,940 --> 00:30:57,941
+DAN:
+You got a girlfriend?
+
+749
+00:30:58,149 --> 00:30:59,609
+- Yes.
+- Lovely.
+
+750
+00:31:00,068 --> 00:31:01,444
+- Can I borrow her?
+- But she's the love
+
+751
+00:31:01,653 --> 00:31:03,154
+- of my life.
+- Perfect.
+
+752
+00:31:03,404 --> 00:31:04,572
+(audience whoops)
+
+753
+00:31:04,781 --> 00:31:05,782
+- Let's make it a threesome.
+- (laughter)
+
+754
+00:31:05,990 --> 00:31:07,867
+That is not me!
+
+755
+00:31:08,076 --> 00:31:09,118
+MAN 2:
+Relax, you'll get your turn.
+
+756
+00:31:09,327 --> 00:31:10,787
+MAN 3:
+What's your problem, huh?
+
+757
+00:31:11,496 --> 00:31:13,623
+MAN 4:
+You gotta sign up, pal.
+
+758
+00:31:14,707 --> 00:31:16,125
+MAN:
+Good scene, man. You crushed it.
+
+759
+00:31:16,584 --> 00:31:17,460
+DAN:
+You too, pal.
+
+760
+00:31:17,877 --> 00:31:19,045
+Detective Douche!
+
+761
+00:31:19,879 --> 00:31:21,631
+How dare you
+subject me to this
+
+762
+00:31:21,881 --> 00:31:23,299
+pathetic caricature?
+
+763
+00:31:23,508 --> 00:31:24,217
+You have the nerve
+to stand there
+
+764
+00:31:24,425 --> 00:31:25,927
+and accuse me
+of making fun of you,
+
+765
+00:31:26,135 --> 00:31:27,470
+after everything you've done
+in the last couple days.
+
+766
+00:31:27,679 --> 00:31:28,805
+Hell, ever since we first met.
+
+767
+00:31:29,013 --> 00:31:30,348
+- Detective Douche, I...
+- Dan!
+
+768
+00:31:30,557 --> 00:31:31,933
+My name is Dan.
+
+769
+00:31:33,810 --> 00:31:35,353
+Or Detective Espinoza.
+
+770
+00:31:35,562 --> 00:31:36,646
+Right.
+
+771
+00:31:37,146 --> 00:31:38,064
+Dan.
+
+772
+00:31:38,690 --> 00:31:40,191
+I only did it
+
+773
+00:31:40,358 --> 00:31:42,318
+because you're everything
+that I'm not.
+
+774
+00:31:43,319 --> 00:31:44,028
+Boring,
+
+775
+00:31:44,404 --> 00:31:45,196
+helpful.
+
+776
+00:31:45,697 --> 00:31:46,447
+Your life is simple.
+
+777
+00:31:46,656 --> 00:31:49,492
+- (scoffs) Oh. My life?
+- Yes.
+
+778
+00:31:49,701 --> 00:31:51,619
+Come on, man. You're rich.
+You're handsome.
+
+779
+00:31:51,828 --> 00:31:53,705
+You drive fancy cars,
+you date hot girls.
+
+780
+00:31:53,913 --> 00:31:55,915
+You have no kids,
+you have no responsibilities.
+
+781
+00:31:56,124 --> 00:31:57,876
+How much more simple
+can life get?
+
+782
+00:31:58,042 --> 00:31:59,294
+Afraid you don't know
+the whole story.
+
+783
+00:31:59,502 --> 00:32:01,296
+Well, fine. Tell me.
+
+784
+00:32:03,423 --> 00:32:04,257
+(chuckles softly)
+
+785
+00:32:05,967 --> 00:32:07,385
+You see, that's just it, Dan.
+
+786
+00:32:08,678 --> 00:32:11,347
+The last person
+I opened up to, I hurt.
+
+787
+00:32:12,682 --> 00:32:13,725
+A lot.
+
+788
+00:32:16,185 --> 00:32:18,730
+Let alone how I've hurt
+my own flesh and blood.
+
+789
+00:32:18,938 --> 00:32:20,523
+♪♪
+
+790
+00:32:20,732 --> 00:32:22,901
+(exhales, scoffs)
+
+791
+00:32:24,694 --> 00:32:25,320
+(sighs)
+
+792
+00:32:25,737 --> 00:32:27,739
+It's all I seem
+to be able to do.
+
+793
+00:32:33,286 --> 00:32:34,579
+Welcome to the club.
+
+794
+00:32:37,123 --> 00:32:39,709
+You think Chloe divorced me
+because I'm a perfect guy?
+
+795
+00:32:42,962 --> 00:32:46,925
+I did a lot of things that
+I'm not... proud of, man.
+
+796
+00:32:47,383 --> 00:32:49,218
+And I'm just trying
+to work through them.
+
+797
+00:32:49,928 --> 00:32:50,970
+What, through mime?
+
+798
+00:32:51,220 --> 00:32:52,764
+What do you do,
+stuff your feelings in a box
+
+799
+00:32:52,972 --> 00:32:53,765
+and throw away the key?
+
+800
+00:32:53,973 --> 00:32:55,266
+It's not mime.
+
+801
+00:32:56,184 --> 00:32:57,518
+It's improv.
+
+802
+00:32:57,727 --> 00:33:00,021
+And I started the
+class after the divorce
+
+803
+00:33:00,229 --> 00:33:01,814
+because I needed
+a distraction.
+
+804
+00:33:04,609 --> 00:33:05,735
+Perspective.
+
+805
+00:33:08,112 --> 00:33:09,781
+A way to step out of
+my own skin for a bit.
+
+806
+00:33:09,989 --> 00:33:11,324
+I don't know, I...
+
+807
+00:33:13,284 --> 00:33:14,869
+I'm not a spontaneous guy.
+
+808
+00:33:15,787 --> 00:33:17,830
+I don't live in the
+moment like you do.
+
+809
+00:33:18,790 --> 00:33:22,418
+So, you were trying to learn
+how not to Douche.
+
+810
+00:33:23,586 --> 00:33:24,879
+(chuckles)
+
+811
+00:33:25,630 --> 00:33:26,798
+Yeah, I guess that's
+one way to put it.
+
+812
+00:33:27,006 --> 00:33:30,301
+(both laughing)
+
+813
+00:33:33,304 --> 00:33:34,430
+Don't tell Chloe.
+
+814
+00:33:36,474 --> 00:33:37,350
+All right?
+
+815
+00:33:37,767 --> 00:33:38,810
+(chuckles)
+
+816
+00:33:41,646 --> 00:33:42,271
+Oh.
+
+817
+00:33:42,480 --> 00:33:43,523
+<i>(knocks on door)</i>
+
+818
+00:33:44,565 --> 00:33:45,608
+Oh, it's you.
+
+819
+00:33:45,817 --> 00:33:46,734
+Hello, Detective.
+
+820
+00:33:46,943 --> 00:33:48,027
+- I got your message.
+- (door closes)
+
+821
+00:33:48,236 --> 00:33:49,487
+Oh, hi.
+
+822
+00:33:50,071 --> 00:33:51,614
+Feeling back to your old self?
+
+823
+00:33:52,407 --> 00:33:53,074
+I suppose.
+
+824
+00:33:53,282 --> 00:33:54,450
+So I doubt I'll be of much help.
+
+825
+00:33:55,451 --> 00:33:56,077
+Ooh.
+
+826
+00:33:56,327 --> 00:33:57,286
+On second thoughts,
+it looks like
+
+827
+00:33:57,495 --> 00:33:58,621
+I came at just the right time.
+
+828
+00:33:58,830 --> 00:34:00,289
+I have nothing
+to say to you.
+
+829
+00:34:00,790 --> 00:34:02,458
+Thanks to you, I lost my friend.
+
+830
+00:34:02,667 --> 00:34:04,085
+Friend? What friend?
+
+831
+00:34:04,419 --> 00:34:05,128
+The doctor.
+
+832
+00:34:05,336 --> 00:34:06,754
+I was just working
+through some stuff.
+
+833
+00:34:06,963 --> 00:34:09,757
+- I didn't think that showing...
+- See, that's the problem.
+
+834
+00:34:10,299 --> 00:34:13,678
+I wish for just one second
+you would <i>think</i> about
+
+835
+00:34:13,886 --> 00:34:15,138
+someone other than yourself.
+
+836
+00:34:15,388 --> 00:34:17,265
+And there
+we have it, ladies.
+
+837
+00:34:17,473 --> 00:34:18,850
+My wake of destruction.
+
+838
+00:34:19,058 --> 00:34:20,393
+Anyone else
+you need harmed, hmm?
+
+839
+00:34:20,685 --> 00:34:22,687
+Okay, Lucifer?
+Enough.
+
+840
+00:34:22,895 --> 00:34:24,981
+I'm close to something,
+I can feel it.
+
+841
+00:34:25,898 --> 00:34:26,524
+Help.
+
+842
+00:34:27,608 --> 00:34:28,317
+Fine.
+
+843
+00:34:32,530 --> 00:34:33,239
+Actually, there is something
+
+844
+00:34:33,448 --> 00:34:34,657
+that's been
+bugging me, Detective.
+
+845
+00:34:34,866 --> 00:34:36,242
+Do you mind if I
+play the me's advocate
+
+846
+00:34:36,451 --> 00:34:38,327
+- for just a second?
+- Go ahead.
+
+847
+00:34:38,536 --> 00:34:40,663
+Well, there's one part of this
+puzzle that just doesn't fit.
+
+848
+00:34:40,872 --> 00:34:41,873
+Joe Fields.
+
+849
+00:34:42,123 --> 00:34:43,082
+Wha... why doesn't he fit?
+
+850
+00:34:43,291 --> 00:34:44,417
+Well, you said
+that he smiled at you
+
+851
+00:34:44,625 --> 00:34:45,293
+when he was released.
+
+852
+00:34:45,501 --> 00:34:47,336
+Yeah, I forgot about that.
+
+853
+00:34:47,795 --> 00:34:49,839
+So, why would an
+innocent man smile
+
+854
+00:34:50,048 --> 00:34:52,175
+at the daughter of a man
+he took the fall for killing?
+
+855
+00:34:54,677 --> 00:34:55,553
+He wouldn't.
+
+856
+00:34:57,096 --> 00:34:57,805
+What are you looking for?
+
+857
+00:34:58,014 --> 00:35:00,183
+The prints that Ella found
+on Fields' transport van.
+
+858
+00:35:00,433 --> 00:35:01,768
+But those only
+gave us Rodney Lam.
+
+859
+00:35:02,018 --> 00:35:03,144
+But there were other prints.
+
+860
+00:35:03,352 --> 00:35:05,396
+But they cleared
+as prison personnel.
+
+861
+00:35:05,813 --> 00:35:07,482
+Like Deputy Warden Perry Smith.
+
+862
+00:35:07,690 --> 00:35:08,524
+These are his prints.
+
+863
+00:35:08,775 --> 00:35:09,692
+What, you think
+the warden did it?
+
+864
+00:35:10,026 --> 00:35:12,987
+Well, deputy wardens
+are desk jockeys, bureaucrats.
+
+865
+00:35:13,196 --> 00:35:14,530
+So his prints shouldn't
+have been there.
+
+866
+00:35:14,739 --> 00:35:17,075
+Yes. What if Fields
+wasn't smiling at me?
+
+867
+00:35:17,492 --> 00:35:19,702
+<i>What if he was smiling
+at the person next to me?</i>
+
+868
+00:35:20,119 --> 00:35:20,828
+<i>The warden?</i>
+
+869
+00:35:21,037 --> 00:35:22,830
+So you think that
+Joe Fields and the warden
+
+870
+00:35:23,039 --> 00:35:24,373
+- had some kind of deal?
+- Yes.
+
+871
+00:35:24,582 --> 00:35:26,793
+What, Fields serves
+16 years as a fall guy
+
+872
+00:35:27,001 --> 00:35:27,919
+and then suddenly has
+a change of heart?
+
+873
+00:35:28,127 --> 00:35:30,963
+Well, he had a grandkid.
+Maybe he got sick of the deal,
+
+874
+00:35:31,172 --> 00:35:32,173
+told the warden he wanted out?
+
+875
+00:35:32,381 --> 00:35:33,591
+And the warden said yes,
+
+876
+00:35:33,800 --> 00:35:35,551
+but only as a ploy
+to kill Fields.
+
+877
+00:35:35,885 --> 00:35:36,552
+Right.
+
+878
+00:35:36,761 --> 00:35:38,054
+(typing on keyboard)
+
+879
+00:35:39,680 --> 00:35:42,433
+Deputy Warden Perry Smith
+
+880
+00:35:42,642 --> 00:35:45,019
+worked in the prison system
+for 20 years.
+
+881
+00:35:45,228 --> 00:35:46,687
+Started as a guard.
+
+882
+00:35:47,146 --> 00:35:47,855
+He's our guy.
+
+883
+00:35:48,397 --> 00:35:49,107
+Let's go.
+
+884
+00:35:49,857 --> 00:35:51,651
+Right, well, wouldn't Dan
+be more helpful?
+
+885
+00:35:52,026 --> 00:35:52,860
+What?
+
+886
+00:35:54,987 --> 00:35:56,781
+If I'm gonna take this guy down,
+
+887
+00:35:57,490 --> 00:36:00,284
+I need my partner
+and that's you.
+
+888
+00:36:00,493 --> 00:36:02,078
+Lucifer Morningstar.
+
+889
+00:36:02,245 --> 00:36:03,246
+(soft chuckle)
+
+890
+00:36:04,247 --> 00:36:04,956
+Right.
+
+891
+00:36:07,375 --> 00:36:08,501
+Good-bye!
+
+892
+00:36:09,043 --> 00:36:10,962
+I guess I'll just clean up.
+
+893
+00:36:12,839 --> 00:36:14,298
+I'm dressed for it, apparently.
+
+894
+00:36:14,507 --> 00:36:16,300
+(siren wailing)
+
+895
+00:36:18,761 --> 00:36:20,346
+(indistinct radio chatter)
+
+896
+00:36:21,639 --> 00:36:23,057
+It looks like
+the cavalry's arrived.
+
+897
+00:36:23,474 --> 00:36:24,392
+Dan, what's happening?
+
+898
+00:36:24,725 --> 00:36:26,978
+I'm so sorry, Chloe.
+The warden gave us the slip.
+
+899
+00:36:27,728 --> 00:36:28,437
+What?
+
+900
+00:36:37,113 --> 00:36:38,698
+LUCIFER:
+<i>Are you okay, Detective?</i>
+
+901
+00:36:38,906 --> 00:36:40,992
+This whole time, my father's
+killer's been out there.
+
+902
+00:36:41,284 --> 00:36:43,035
+And today I let him get away.
+
+903
+00:36:43,494 --> 00:36:45,246
+So, no, I feel like a failure.
+
+904
+00:36:45,454 --> 00:36:47,665
+What-- you are
+nothing of the sort.
+
+905
+00:36:48,207 --> 00:36:49,542
+Detective,
+
+906
+00:36:50,751 --> 00:36:52,128
+for the first time
+in 16 years,
+
+907
+00:36:52,336 --> 00:36:54,463
+you know who the real killer is.
+
+908
+00:36:54,672 --> 00:36:57,425
+It seems to me that
+justice is in your sights.
+
+909
+00:36:58,217 --> 00:36:59,218
+You're right.
+
+910
+00:36:59,760 --> 00:37:00,887
+I put out a BOLO.
+
+911
+00:37:01,262 --> 00:37:03,681
+FBI and DHS are
+looking at airports,
+
+912
+00:37:03,890 --> 00:37:06,434
+- border crossings.
+- Well, I've still no
+idea what that means,
+
+913
+00:37:06,642 --> 00:37:07,268
+but it sounds good.
+
+914
+00:37:07,476 --> 00:37:09,061
+It means I'm gonna get
+the son of a bitch.
+
+915
+00:37:09,395 --> 00:37:11,397
+Right. Well...
+
+916
+00:37:11,606 --> 00:37:14,650
+in the meantime, since
+your offspring's with Dan...
+
+917
+00:37:15,484 --> 00:37:16,611
+- What?
+- I'm simply suggesting
+
+918
+00:37:16,819 --> 00:37:18,779
+that you open a bottle
+of wine, or three,
+
+919
+00:37:18,946 --> 00:37:22,200
+- for yourself, and
+just have a nice...
+- (muffled grunting)
+
+920
+00:37:30,750 --> 00:37:33,127
+- (man groans loudly)
+- Shut up!
+
+921
+00:37:33,336 --> 00:37:34,128
+(coughing)
+
+922
+00:37:34,337 --> 00:37:36,380
+LUCIFER (laughing):
+Well...
+
+923
+00:37:37,048 --> 00:37:38,633
+Bravo, Maze.
+
+924
+00:37:41,594 --> 00:37:42,595
+How did you get...
+
+925
+00:37:42,929 --> 00:37:43,971
+I was bored.
+
+926
+00:37:44,180 --> 00:37:45,640
+Had nothing to do.
+
+927
+00:37:45,848 --> 00:37:50,102
+So, I tracked down
+the scumbag myself.
+
+928
+00:37:50,895 --> 00:37:52,563
+It just... felt right.
+
+929
+00:37:58,945 --> 00:38:00,363
+It's gonna feel good
+to call this in.
+
+930
+00:38:00,571 --> 00:38:01,697
+LUCIFER:
+What? No, hold on, Detective.
+
+931
+00:38:01,948 --> 00:38:02,907
+You have a choice
+to make here.
+
+932
+00:38:03,491 --> 00:38:04,242
+Yes.
+
+933
+00:38:04,617 --> 00:38:06,285
+So much punishment.
+
+934
+00:38:06,494 --> 00:38:08,162
+Mm. Order
+off-menu for once.
+
+935
+00:38:08,371 --> 00:38:09,872
+Maze and I certainly
+won't judge.
+
+936
+00:38:16,045 --> 00:38:17,922
+You took my father away.
+
+937
+00:38:19,298 --> 00:38:22,510
+(crying):
+You tore apart my family.
+
+938
+00:38:24,303 --> 00:38:25,638
+(tape rips, groans)
+
+939
+00:38:27,306 --> 00:38:28,391
+(chuckles)
+
+940
+00:38:28,849 --> 00:38:31,894
+I tried to get him to drop it.
+But he wouldn't take the hint.
+
+941
+00:38:32,937 --> 00:38:34,814
+That's all you have to say?
+
+942
+00:38:35,022 --> 00:38:36,732
+After everything you've done?
+
+943
+00:38:37,650 --> 00:38:39,568
+No, no, no. No, no, no.
+I-I'm sorry.
+
+944
+00:38:39,944 --> 00:38:41,529
+I'll give you all the players
+in my operation.
+
+945
+00:38:42,071 --> 00:38:42,989
+I'll give you money.
+
+946
+00:38:46,158 --> 00:38:48,035
+(shuddered breathing)
+
+947
+00:38:54,083 --> 00:38:54,792
+Oh.
+
+948
+00:38:57,628 --> 00:39:00,006
+We'll see how you do
+in the prison that you ran.
+
+949
+00:39:02,967 --> 00:39:05,594
+I'll bet your inmates
+will treat you real nice.
+
+950
+00:39:06,595 --> 00:39:09,849
+No. No, please, please.
+
+951
+00:39:10,141 --> 00:39:11,684
+I can get you
+whatever you want.
+
+952
+00:39:12,393 --> 00:39:16,188
+All I want is for you to know
+that John Decker's kid got you.
+
+953
+00:39:26,115 --> 00:39:27,241
+(knocks on door)
+
+954
+00:39:27,783 --> 00:39:28,868
+MAZE (through door):
+Linda.
+
+955
+00:39:30,911 --> 00:39:32,246
+I know you're in there.
+
+956
+00:39:34,206 --> 00:39:35,666
+I have something to show you.
+
+957
+00:39:40,379 --> 00:39:41,505
+My first check.
+
+958
+00:39:43,132 --> 00:39:44,342
+I got paid.
+
+959
+00:39:44,800 --> 00:39:46,177
+As a bounty hunter!
+
+960
+00:39:47,345 --> 00:39:49,055
+LAPD paid me this finder's fee
+
+961
+00:39:49,263 --> 00:39:51,390
+to track down
+some human scumbag.
+
+962
+00:39:51,599 --> 00:39:54,226
+Hunting humans is a job.
+
+963
+00:39:54,894 --> 00:39:55,936
+Who knew?
+
+964
+00:40:02,109 --> 00:40:05,154
+First thing I wanted to do
+was to celebrate with my friend.
+
+965
+00:40:07,406 --> 00:40:08,949
+That's you, Linda.
+
+966
+00:40:35,601 --> 00:40:36,435
+Okay.
+
+967
+00:40:37,686 --> 00:40:38,729
+I just...
+
+968
+00:40:39,939 --> 00:40:41,482
+wanted you to know.
+
+969
+00:40:50,199 --> 00:40:52,159
+(door unlocks)
+
+970
+00:40:56,580 --> 00:40:58,958
+Maze, how can we be friends?
+
+971
+00:41:01,419 --> 00:41:02,086
+You're a...
+
+972
+00:41:03,254 --> 00:41:04,296
+you're a demon.
+
+973
+00:41:05,756 --> 00:41:07,675
+Lucifer's the Devil.
+
+974
+00:41:09,760 --> 00:41:11,720
+How am I supposed
+to get over that?
+
+975
+00:41:14,140 --> 00:41:15,933
+He's still the same old Lucifer.
+
+976
+00:41:16,976 --> 00:41:18,644
+You're still
+Dr. Linda Martin.
+
+977
+00:41:18,853 --> 00:41:20,563
+And I'm still Maze.
+
+978
+00:41:21,480 --> 00:41:22,481
+What's changed?
+
+979
+00:41:26,152 --> 00:41:26,986
+Come on.
+
+980
+00:41:29,321 --> 00:41:32,032
+Let Mazikeen Smith
+buy you a drink.
+
+981
+00:41:32,408 --> 00:41:33,826
+(chuckles)
+
+982
+00:41:35,828 --> 00:41:37,830
+Maybe I'll devour your soul
+or something.
+
+983
+00:41:44,795 --> 00:41:46,547
+♪ Quiet as that secret ♪
+
+984
+00:41:46,755 --> 00:41:47,548
+♪ You keep ♪
+
+985
+00:41:49,508 --> 00:41:52,553
+♪ Still in your heart
+as you sleep ♪
+
+986
+00:41:53,637 --> 00:41:54,388
+Here you go, monkey.
+
+987
+00:41:54,597 --> 00:41:55,973
+- Mmm. Yummy.
+- Lucif...
+
+988
+00:41:56,182 --> 00:41:58,184
+Mmm. Why should
+the child go first?
+
+989
+00:41:58,434 --> 00:42:00,644
+I'm far larger.
+And hungrier.
+
+990
+00:42:00,978 --> 00:42:03,689
+It's okay, Mommy.
+He must've really wanted it.
+
+991
+00:42:03,898 --> 00:42:04,815
+(Lucifer scoffs, Chloe giggles)
+
+992
+00:42:05,316 --> 00:42:06,150
+Is she always so...
+
+993
+00:42:06,942 --> 00:42:07,610
+her?
+
+994
+00:42:07,818 --> 00:42:08,819
+Baby, it's time to get dressed.
+
+995
+00:42:10,404 --> 00:42:11,030
+(yells)
+
+996
+00:42:11,238 --> 00:42:12,573
+What are you doing?
+
+997
+00:42:12,781 --> 00:42:13,532
+(scoffs)
+
+998
+00:42:13,741 --> 00:42:15,493
+- Bye, Lucifer!
+- Yes.
+
+999
+00:42:22,124 --> 00:42:23,083
+(exhales):
+Yes.
+
+1000
+00:42:26,670 --> 00:42:28,088
+I don't care much for my dad.
+
+1001
+00:42:29,798 --> 00:42:33,260
+But... you clearly...
+care about yours.
+
+1002
+00:42:33,469 --> 00:42:36,055
+Which is why you followed
+in his footsteps, I suppose.
+
+1003
+00:42:36,764 --> 00:42:37,389
+Hmm.
+
+1004
+00:42:37,598 --> 00:42:38,807
+(sighs)
+
+1005
+00:42:39,016 --> 00:42:41,268
+So, w-what I'm
+trying to say is...
+
+1006
+00:42:44,021 --> 00:42:45,356
+I think he would
+be proud of you.
+
+1007
+00:42:47,566 --> 00:42:50,110
+Oh. My apologies, Detective.
+I didn't mean to hurt you.
+
+1008
+00:42:50,361 --> 00:42:51,904
+No, no, it's...
+
+1009
+00:42:53,405 --> 00:42:56,659
+Wh... Then why are
+you... crying?
+
+1010
+00:42:58,285 --> 00:42:59,370
+(sighs)
+
+1011
+00:43:00,913 --> 00:43:02,164
+Just... Oh, just shut up.
+
+1012
+00:43:02,373 --> 00:43:03,290
+What...
+
+1013
+00:43:03,499 --> 00:43:05,918
+♪ High as the heavenly sea ♪
+
+1014
+00:43:06,460 --> 00:43:10,130
+♪ Low lays the devil in me. ♪
+
