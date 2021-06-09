@@ -1371,99 +1371,299 @@ forced her to leave.
 <i>It was purely the coincidence.</i>
 
 340
+00:25:46,940 --> 00:25:49,280
+<i>Be honest and tell me.</i>
+
+341
+00:25:49,280 --> 00:25:53,220
+<i>You are not an escaped criminal from the mafia, right?</i>
+
+342
+00:25:53,220 --> 00:25:55,860
+<i>You broke the law, hide in my home and are afraid to be discovered by others.</i>
+
+343
+00:25:55,860 --> 00:25:58,910
+<i>I won't chase you out again. Did you hear me?</i>
+
+344
 00:25:58,910 --> 00:26:00,640
 <i>I heard it.</i>
 
-341
+345
 00:26:01,830 --> 00:26:03,680
 <i>At first, I thought.</i>
 
-342
+346
 00:26:03,680 --> 00:26:08,280
 <i>If he was staying with me, I am quite happy about it.</i>
 
-343
+347
+00:26:11,630 --> 00:26:15,960
+<i>Till that day when he showed up at the birthday banquet</i>
+
+348
+00:26:15,960 --> 00:26:18,080
+<i>and appeared in front of me.</i>
+
+349
+00:26:19,150 --> 00:26:23,580
+<i>Let me formally introduce myself. I'm Ling Yue.</i>
+
+350
 00:26:23,580 --> 00:26:26,230
 <i>At that moment, I understood.</i>
 
-344
+351
 00:26:26,230 --> 00:26:29,170
 <i>We are living in two different worlds.</i>
 
-345
+352
+00:26:42,480 --> 00:26:44,820
+<i>If it wasn't for that accident,</i>
+
+353
+00:26:44,820 --> 00:26:47,820
+<i>we wouldn't have intersected.</i>
+
+354
+00:26:47,820 --> 00:26:49,370
+<i>A mishap has occurred to him now.</i>
+
+355
+00:26:49,370 --> 00:26:52,250
+<i>Who gives you the right to help him based on your love?</i>
+
+356
+00:26:52,250 --> 00:26:55,300
+<i>Your love, to him,</i>
+
+357
+00:26:55,300 --> 00:26:57,560
+<i> is a kind of burden.</i>
+
+358
+00:26:58,400 --> 00:27:00,910
+<i>Perhaps, Xin'er is right.</i>
+
+359
+00:27:00,910 --> 00:27:05,100
+<i>Perhaps, I'm a burden to him.</i>
+
+360
+00:27:05,100 --> 00:27:10,150
+<i>Hence, I want to leave here for the time being.</i>
+
+361
+00:27:10,150 --> 00:27:12,750
+<i>Perhaps, it's time for me to let go.</i>
+
+362
+00:27:23,150 --> 00:27:24,740
+<i>Anxin,</i>
+
+363
+00:27:29,280 --> 00:27:31,920
+<i>Hi, You You.</i>
+
+364
+00:27:31,920 --> 00:27:33,420
+<i>Anxin, check your Weibo now.</i>
+
+365
+00:27:33,420 --> 00:27:35,260
+<i>It states that New Way is in a crisis now.</i>
+
+366
+00:27:37,630 --> 00:27:40,090
+<i>Didn't you receive any information?</i>
+
+367
+00:27:41,410 --> 00:27:43,120
+<i>Okay, I know.</i>
+
+368
+00:27:54,220 --> 00:27:58,030
+<i>The cellphone that you are calling, has been switched off.</i>
+
+369
+00:28:00,010 --> 00:28:02,360
+<i>Older Brother, Ling Yue is unwell and has been hospitalized.</i>
+
+370
+00:28:02,360 --> 00:28:04,910
+<i>I'm going to visit him. I'm leaving.</i>
+
+371
+00:28:09,220 --> 00:28:11,690
+<i>You don't care how many times this guy has hurt you.</i>
+
+372
+00:28:11,690 --> 00:28:15,150
+<i>As long as he needs you, you will drop everything and run to him?</i>
+
+373
+00:28:15,150 --> 00:28:16,470
+<i>It's not that, Older Brother.</i>
+
+374
+00:28:16,470 --> 00:28:18,500
+<i>Have you ever thought that</i>
+
+375
+00:28:20,200 --> 00:28:22,380
+<i> I need you too?</i>
+
+376
+00:28:42,040 --> 00:28:46,490
+<i>I know that I have always been an older brother to you.</i>
+
+377
+00:28:52,080 --> 00:28:55,580
+<i>I'm not strong and brave like you think I am.</i>
+
+378
+00:28:55,580 --> 00:28:59,000
+<i>I can be at a loss. I can be afraid and hurt too.</i>
+
+379
+00:29:00,660 --> 00:29:03,300
+<i>But as long as I know you are behind me,</i>
+
+380
+00:29:04,530 --> 00:29:07,550
+<i>and that you still need me,</i>
+
+381
+00:29:07,550 --> 00:29:09,780
+<i>I can do anything</i>
+
+382
+00:29:11,970 --> 00:29:16,010
+<i>to protect you and treat you well.</i>
+
+383
+00:29:25,150 --> 00:29:27,360
+<i>But I can only see you now</i>
+
+384
+00:29:27,360 --> 00:29:30,420
+<i>being hurt by someone and unable to do anything.</i>
+
+385
+00:29:33,200 --> 00:29:34,700
+<i>Anxin,</i>
+
+386
+00:29:39,290 --> 00:29:41,840
+<i>I can protect you for the rest of your life.</i>
+
+387
+00:29:43,200 --> 00:29:45,890
+<i>Don't look for him again.</i>
+
+388
+00:29:45,890 --> 00:29:48,610
+<i>Let's leave here. Okay?</i>
+
+389
+00:29:56,650 --> 00:29:59,670
+<i>Sorry, Older Brother. I'm rather confused now.</i>
+
+390
+00:30:03,100 --> 00:30:04,990
+<i>Let's keep calm.</i>
+
+391
+00:30:04,990 --> 00:30:06,660
+<i>I'm leaving.</i>
+
+392
+00:30:37,020 --> 00:30:39,090
+<i>President Ling.</i>
+
+393
+00:30:39,090 --> 00:30:40,470
+<i>Did the news today have a great impact?</i>
+
+394
+00:30:47,970 --> 00:30:49,110
+<i>What about the people in Japan?</i>
+
+395
 00:43:52,000 --> 00:44:00,000
 <i>Timing and subtitles brought to you by The Rabbit and Wolf Team@ Viki.com</i>
 
-346
+396
 00:44:01,300 --> 00:44:07,000
 ♫ <i>Let's start the story from the rainy day where we met</i> ♫
 
-347
+397
 00:44:07,000 --> 00:44:11,600
 ♫ <i>Soaking the memory wet</i> ♫
 
-348
+398
 00:44:11,600 --> 00:44:14,400
 ♫ <i>Fate works bizarrely</i> ♫
 
-349
+399
 00:44:14,400 --> 00:44:19,600
 ♫ <i>The past that cannot be forgotten has received a response</i> ♫
 
-350
+400
 00:44:19,600 --> 00:44:24,400
 ♫ <i>My heart suddenly beats out of normal</i> ♫
 
-351
+401
 00:44:24,400 --> 00:44:29,800
 ♫ <i>Borrowing the hands of friendship to hug you</i> ♫
 
-352
+402
 00:44:29,800 --> 00:44:33,400
 ♫ <i>Obviously, I am starting to mind more and more</i> ♫
 
-353
+403
 00:44:33,400 --> 00:44:41,400
 ♫ <i>Abandoning the token of happiness, 
  for it has always been you</i> ♫
 
-354
+404
 00:44:41,400 --> 00:44:47,400
 ♫ <i>Our story has only just begun</i> ♫
 
-355
+405
 00:44:47,400 --> 00:44:51,000
 ♫ <i>Yet the reminiscing has never been able to stop</i> ♫
 
-356
+406
 00:44:53,400 --> 00:44:59,800
 ♫ <i>Searching for the route to return to your side</i> ♫
 
-357
+407
 00:44:59,800 --> 00:45:05,800
 ♫ <i>Our story has only just begun</i> ♫
 
-358
+408
 00:45:05,800 --> 00:45:10,200
 ♫ <i>Using all of my most beautiful adjectives</i> ♫
 
-359
+409
 00:45:12,000 --> 00:45:18,400
 ♫ <i>Is still not enough to describe your name</i> ♫
 
-360
+410
 00:45:18,400 --> 00:45:24,400
 ♫ <i>Our story is exclusively ours</i> ♫
 
-361
+411
 00:45:24,400 --> 00:45:28,200
 ♫ <i>Our palms hold onto the key to the future</i> ♫
 
-362
+412
 00:45:30,400 --> 00:45:35,300
 ♫ <i>Using love to slowly open up</i> ♫
 
-363
+413
 00:45:35,300 --> 00:45:40,100
 ♫ <i>a lifetime</i> ♫
 
